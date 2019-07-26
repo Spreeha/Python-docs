@@ -1,0 +1,32 @@
+1. write a python program to create a simple calculator
+Sample input:
+Select operation.
+1.Add
+2.Subtract
+3.Multiply
+4.Divide
+Enter choice(1/2/3/4): 2
+Enter first number: 5
+Enter second number: 2
+
+
+2. Accept a string with punctions from the user. Display string after removing punctuations.
+
+Sample Input: Good Morning!!!, how are -- you doing?
+Sample Output: Good Morning how are you doing
+
+3. write a Python program to swap two numbers without using temporary variable
+ 
+
+4. write a program to find the positions of an input character in the below string, print if a message "Not found" character is not present in the string
+
+5. Assume you have 5 strings as given below find out the mean of Social and Science
+' Social:0.8475 '
+' Social:0.765 '
+' Social:0.7065 '
+'Science:0.9985 '
+'Science:0.6585 '
+'''
+
+
+

@@ -1,0 +1,22 @@
+1. write a python program to accept a string. display only the last two characters of the string.
+
+2. write a python program to create a list as follows:
+[34,59,12,4,3,7,9]
+Extract and display only even numbers. Write a map using lambda for the same.
+filter(lambda x:x if(x%2==0) else false,list1)
+
+3. Write a program to build a dictionary to count how many dialogues are delivered by each person, and print the dictionary.
+
+4. Who speaks the most?
+
+5.Display all the dialgues by Jin which are within '<' and '>'
+
+6. Count all vowels in Ali's (A) dialogues
+
+7.write a function to display all prime numbers between two given numbers.
+E.g: 
+input: 3 and 7
+output: 3,5,7
+
+
+

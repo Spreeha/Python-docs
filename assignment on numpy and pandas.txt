@@ -1,0 +1,38 @@
+1. create a numpy array to store marks.
+ accept the marks of 5 students in 3 subjects.
+ 
+2. find the average marks of all students in all subjects (one score)
+2a. find the total marks of every student
+
+3. find the max and minimum marks
+
+4. Give a grace of 5% to every mark
+
+5. list the marks which does not meet qualifying criteria (<=35)
+           class class_Name  price  quantity
+Room1     a     Marker    120        12
+Room2     a     Marker    100        10
+Room3     b  Projector     30         3
+Room4     b  Projector     60         6
+
+
+[[7,8,9],[4,5,6]],[[34,34,23],[12,56,16]]
+
+7 8 9   4 5 6
+34 34 23  12 56 16
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

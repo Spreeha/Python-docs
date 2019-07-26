@@ -1,0 +1,12 @@
+Read through a mbox.txt:
+ 
+1.	Write a program to build a histogram using a dictionary to count how many messages have come from each email address, and print the dictionary. 
+a.	From the above outcome print the highest from address and the lowest from address – do not use any built in methods from finding the mix and max
+b.	For Every “From address” find the sum, min max, average and standard deviation of the X-DSPAM-Confidence value -  do not use any built in methods for computing the statistics. You are allowed to use map and reduce methods for computing the statistics.
+2.	Write a program to record the domain name (domain name in abc@manipal.edu is manipal.edu) where the message was received, along with the no. of emails received from the domain as a dictionary
+3.	Write a program to convert mbox.txt into a dictionary with the following keys, Every individual value should appear as a list
+Message-ID, Mime-Version, Content-Transfer-Encoding,Date,X-Authentication-Warning,To,From,Subject,X-Content-Type-Outer-Envelope,X-Content-Type-Message-Body,Content-Type,X-DSPAM-Result,X-DSPAM-Processed,X-DSPAM-Confidence,X-DSPAM-Probability
+4.	How do you sort a dictionary based on: 
+a.	Keys
+b.	Values
+ 
