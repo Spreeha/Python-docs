@@ -1,0 +1,2362 @@
+﻿rollno,CourseName,sectioname,AvgTimeSpentInHours
+DLPJ0418CL030024,Basics  of Cloud Computing,DLPJP18CLDB4_Cloud Computing,4.2
+DLPJ0418CL030024,IT Foundation Skills,DLPJP18CLDB4_Foundation,17.6
+DLPJ0418CL030024,Life Skills,Business Communication - Cloud Stream,0.6
+DLPJ0418CL030024,PJP  Webinar,DLPJ0418Cloud_Webinar,0.5
+DLPJ0418CL030024,Testing Concepts.,DLPJP18CLDB4_Testing,1.9
+DLPJ0418CL030024,UNIX,DLPJP18CLDB4_Unix,17.6
+DLPJ0418CL030025,Basics  of Cloud Computing,DLPJP18CLDB4_Cloud Computing,5.4
+DLPJ0418CL030025,IT Foundation Skills,DLPJP18CLDB4_Foundation,15.5
+DLPJ0418CL030025,Life Skills,Business Communication - Cloud Stream,1
+DLPJ0418CL030025,PJP  Webinar,DLPJ0418Cloud_Webinar,0.5
+DLPJ0418CL030025,Testing Concepts.,DLPJP18CLDB4_Testing,1.9
+DLPJ0418CL030025,UNIX,DLPJP18CLDB4_Unix,12.9
+DLPJ0418CL030026,Basics  of Cloud Computing,DLPJP18CLDB4_Cloud Computing,3.9
+DLPJ0418CL030026,IT Foundation Skills,DLPJP18CLDB4_Foundation,16.3
+DLPJ0418CL030026,Life Skills,Business Communication - Cloud Stream,1.6
+DLPJ0418CL030026,PJP  Webinar,DLPJ0418Cloud_Webinar,0.8
+DLPJ0418CL030026,Testing Concepts.,DLPJP18CLDB4_Testing,1.6
+DLPJ0418CL030026,UNIX,DLPJP18CLDB4_Unix,11.1
+DLPJ0418CL030027,Basics  of Cloud Computing,DLPJP18CLDB4_Cloud Computing,4.1
+DLPJ0418CL030027,IT Foundation Skills,DLPJP18CLDB4_Foundation,16
+DLPJ0418CL030027,Life Skills,Business Communication - Cloud Stream,3.5
+DLPJ0418CL030027,PJP  Webinar,DLPJ0418Cloud_Webinar,1.9
+DLPJ0418CL030027,Testing Concepts.,DLPJP18CLDB4_Testing,1.2
+DLPJ0418CL030027,UNIX,DLPJP18CLDB4_Unix,8.7
+DLPJ0418CL030028,Basics  of Cloud Computing,DLPJP18CLDB4_Cloud Computing,5.9
+DLPJ0418CL030028,IT Foundation Skills,DLPJP18CLDB4_Foundation,14.1
+DLPJ0418CL030028,Life Skills,Business Communication - Cloud Stream,1.5
+DLPJ0418CL030028,PJP  Webinar,DLPJ0418Cloud_Webinar,0.8
+DLPJ0418CL030028,Testing Concepts.,DLPJP18CLDB4_Testing,2
+DLPJ0418CL030028,UNIX,DLPJP18CLDB4_Unix,12.2
+DLPJ0418CL030029,Basics  of Cloud Computing,DLPJP18CLDB4_Cloud Computing,5.7
+DLPJ0418CL030029,IT Foundation Skills,DLPJP18CLDB4_Foundation,23.3
+DLPJ0418CL030029,Life Skills,Business Communication - Cloud Stream,2.3
+DLPJ0418CL030029,PJP  Webinar,DLPJ0418Cloud_Webinar,0.1
+DLPJ0418CL030029,Testing Concepts.,DLPJP18CLDB4_Testing,1.6
+DLPJ0418CL030029,UNIX,DLPJP18CLDB4_Unix,13.3
+DLPJ0418CL030030,Basics  of Cloud Computing,DLPJP18CLDB4_Cloud Computing,12.1
+DLPJ0418CL030030,IT Foundation Skills,DLPJP18CLDB4_Foundation,17.5
+DLPJ0418CL030030,Life Skills,Business Communication - Cloud Stream,1.9
+DLPJ0418CL030030,PJP  Webinar,DLPJ0418Cloud_Webinar,0
+DLPJ0418CL030030,Testing Concepts.,DLPJP18CLDB4_Testing,4.8
+DLPJ0418CL030030,UNIX,DLPJP18CLDB4_Unix,19.9
+DLPJ0418CL030031,Basics  of Cloud Computing,DLPJP18CLDB4_Cloud Computing,7.6
+DLPJ0418CL030031,IT Foundation Skills,DLPJP18CLDB4_Foundation,12.9
+DLPJ0418CL030031,Life Skills,Business Communication - Cloud Stream,2.5
+DLPJ0418CL030031,PJP  Webinar,DLPJ0418Cloud_Webinar,0
+DLPJ0418CL030031,Testing Concepts.,DLPJP18CLDB4_Testing,3.1
+DLPJ0418CL030031,UNIX,DLPJP18CLDB4_Unix,19.2
+DLPJ0418CL030032,Basics  of Cloud Computing,DLPJP18CLDB4_Cloud Computing,2.3
+DLPJ0418CL030032,IT Foundation Skills,DLPJP18CLDB4_Foundation,6.9
+DLPJ0418CL030032,Life Skills,Business Communication - Cloud Stream,1.4
+DLPJ0418CL030032,PJP  Webinar,DLPJ0418Cloud_Webinar,0.1
+DLPJ0418CL030032,Testing Concepts.,DLPJP18CLDB4_Testing,2.6
+DLPJ0418CL030032,UNIX,DLPJP18CLDB4_Unix,12.5
+DLPJ0418CL030033,Basics  of Cloud Computing,DLPJP18CLDB4_Cloud Computing,1.9
+DLPJ0418CL030033,IT Foundation Skills,DLPJP18CLDB4_Foundation,6.3
+DLPJ0418CL030033,Life Skills,Business Communication - Cloud Stream,1
+DLPJ0418CL030033,PJP  Webinar,DLPJ0418Cloud_Webinar,1.1
+DLPJ0418CL030033,Testing Concepts.,DLPJP18CLDB4_Testing,1.1
+DLPJ0418CL030033,UNIX,DLPJP18CLDB4_Unix,9.9
+DLPJ0418CL030034,Basics  of Cloud Computing,DLPJP18CLDB4_Cloud Computing,4.5
+DLPJ0418CL030034,IT Foundation Skills,DLPJP18CLDB4_Foundation,7.3
+DLPJ0418CL030034,Life Skills,Business Communication - Cloud Stream,1.4
+DLPJ0418CL030034,PJP  Webinar,DLPJ0418Cloud_Webinar,0.1
+DLPJ0418CL030034,Testing Concepts.,DLPJP18CLDB4_Testing,1.9
+DLPJ0418CL030034,UNIX,DLPJP18CLDB4_Unix,17
+DLPJ0418CL030035,Basics  of Cloud Computing,DLPJP18CLDB4_Cloud Computing,1.4
+DLPJ0418CL030035,IT Foundation Skills,DLPJP18CLDB4_Foundation,14.6
+DLPJ0418CL030035,Life Skills,Business Communication - Cloud Stream,1
+DLPJ0418CL030035,Testing Concepts.,DLPJP18CLDB4_Testing,2.1
+DLPJ0418CL030035,UNIX,DLPJP18CLDB4_Unix,12.6
+DLPJ0418CL030036,Basics  of Cloud Computing,DLPJP18CLDB4_Cloud Computing,2.9
+DLPJ0418CL030036,IT Foundation Skills,DLPJP18CLDB4_Foundation,13.3
+DLPJ0418CL030036,Life Skills,Business Communication - Cloud Stream,1.9
+DLPJ0418CL030036,Testing Concepts.,DLPJP18CLDB4_Testing,1.1
+DLPJ0418CL030036,UNIX,DLPJP18CLDB4_Unix,10.8
+DLPJ0418CL030037,Basics  of Cloud Computing,DLPJP18CLDB4_Cloud Computing,4.9
+DLPJ0418CL030037,IT Foundation Skills,DLPJP18CLDB4_Foundation,16.6
+DLPJ0418CL030037,Life Skills,Business Communication - Cloud Stream,1.4
+DLPJ0418CL030037,PJP  Webinar,DLPJ0418Cloud_Webinar,0.1
+DLPJ0418CL030037,Testing Concepts.,DLPJP18CLDB4_Testing,2.4
+DLPJ0418CL030037,UNIX,DLPJP18CLDB4_Unix,8.7
+DLPJ0418CL030038,Basics  of Cloud Computing,DLPJP18CLDB4_Cloud Computing,6.4
+DLPJ0418CL030038,IT Foundation Skills,DLPJP18CLDB4_Foundation,15
+DLPJ0418CL030038,Life Skills,Business Communication - Cloud Stream,2
+DLPJ0418CL030038,PJP  Webinar,DLPJ0418Cloud_Webinar,0.2
+DLPJ0418CL030038,Testing Concepts.,DLPJP18CLDB4_Testing,0.7
+DLPJ0418CL030038,UNIX,DLPJP18CLDB4_Unix,13.5
+DLPJ0418CL030039,Basics  of Cloud Computing,DLPJP18CLDB4_Cloud Computing,0.9
+DLPJ0418CL030039,IT Foundation Skills,DLPJP18CLDB4_Foundation,8.3
+DLPJ0418CL030039,Life Skills,Business Communication - Cloud Stream,1.8
+DLPJ0418CL030039,PJP  Webinar,DLPJ0418Cloud_Webinar,0.3
+DLPJ0418CL030039,Testing Concepts.,DLPJP18CLDB4_Testing,0.4
+DLPJ0418CL030039,UNIX,DLPJP18CLDB4_Unix,3.3
+DLPJ0418CL030040,Basics  of Cloud Computing,DLPJP18CLDB4_Cloud Computing,3.8
+DLPJ0418CL030040,IT Foundation Skills,DLPJP18CLDB4_Foundation,8.7
+DLPJ0418CL030040,Life Skills,Business Communication - Cloud Stream,1.7
+DLPJ0418CL030040,PJP  Webinar,DLPJ0418Cloud_Webinar,1.2
+DLPJ0418CL030040,Testing Concepts.,DLPJP18CLDB4_Testing,1.1
+DLPJ0418CL030040,UNIX,DLPJP18CLDB4_Unix,11.6
+DLPJ0418CL030041,Basics  of Cloud Computing,DLPJP18CLDB4_Cloud Computing,4.3
+DLPJ0418CL030041,IT Foundation Skills,DLPJP18CLDB4_Foundation,8.9
+DLPJ0418CL030041,Life Skills,Business Communication - Cloud Stream,2.3
+DLPJ0418CL030041,PJP  Webinar,DLPJ0418Cloud_Webinar,0.1
+DLPJ0418CL030041,Testing Concepts.,DLPJP18CLDB4_Testing,3.5
+DLPJ0418CL030041,UNIX,DLPJP18CLDB4_Unix,16.8
+DLPJ0418CL030042,Basics  of Cloud Computing,DLPJP18CLDB4_Cloud Computing,5.5
+DLPJ0418CL030042,IT Foundation Skills,DLPJP18CLDB4_Foundation,15.2
+DLPJ0418CL030042,Life Skills,Business Communication - Cloud Stream,2.3
+DLPJ0418CL030042,PJP  Webinar,DLPJ0418Cloud_Webinar,0.1
+DLPJ0418CL030042,Testing Concepts.,DLPJP18CLDB4_Testing,2.8
+DLPJ0418CL030042,UNIX,DLPJP18CLDB4_Unix,25.6
+DLPJ0418CL030043,Basics  of Cloud Computing,DLPJP18CLDB4_Cloud Computing,1.7
+DLPJ0418CL030043,IT Foundation Skills,DLPJP18CLDB4_Foundation,12.1
+DLPJ0418CL030043,Life Skills,Business Communication - Cloud Stream,2.4
+DLPJ0418CL030043,PJP  Webinar,DLPJ0418Cloud_Webinar,0.4
+DLPJ0418CL030043,Testing Concepts.,DLPJP18CLDB4_Testing,1.2
+DLPJ0418CL030043,UNIX,DLPJP18CLDB4_Unix,5.1
+DLPJ0418CL030044,Basics  of Cloud Computing,DLPJP18CLDB4_Cloud Computing,2.8
+DLPJ0418CL030044,IT Foundation Skills,DLPJP18CLDB4_Foundation,28
+DLPJ0418CL030044,Life Skills,Business Communication - Cloud Stream,4.1
+DLPJ0418CL030044,PJP  Webinar,DLPJ0418Cloud_Webinar,0.6
+DLPJ0418CL030044,Testing Concepts.,DLPJP18CLDB4_Testing,2.8
+DLPJ0418CL030044,UNIX,DLPJP18CLDB4_Unix,9.9
+DLPJ0418CL030045,Basics  of Cloud Computing,DLPJP18CLDB4_Cloud Computing,3.8
+DLPJ0418CL030045,IT Foundation Skills,DLPJP18CLDB4_Foundation,19.4
+DLPJ0418CL030045,Life Skills,Business Communication - Cloud Stream,3.9
+DLPJ0418CL030045,PJP  Webinar,DLPJ0418Cloud_Webinar,3.7
+DLPJ0418CL030045,Testing Concepts.,DLPJP18CLDB4_Testing,2.4
+DLPJ0418CL030045,UNIX,DLPJP18CLDB4_Unix,19.2
+DLPJ0418CL030046,Basics  of Cloud Computing,DLPJP18CLDB4_Cloud Computing,7.3
+DLPJ0418CL030046,IT Foundation Skills,DLPJP18CLDB4_Foundation,21.4
+DLPJ0418CL030046,Life Skills,Business Communication - Cloud Stream,4.1
+DLPJ0418CL030046,PJP  Webinar,DLPJ0418Cloud_Webinar,0.1
+DLPJ0418CL030046,Testing Concepts.,DLPJP18CLDB4_Testing,2.5
+DLPJ0418CL030046,UNIX,DLPJP18CLDB4_Unix,18.1
+DLPJ0418CL030047,Basics  of Cloud Computing,DLPJP18CLDB4_Cloud Computing,2.5
+DLPJ0418CL030047,IT Foundation Skills,DLPJP18CLDB4_Foundation,6.5
+DLPJ0418CL030047,Life Skills,Business Communication - Cloud Stream,0.2
+DLPJ0418CL030047,PJP  Webinar,DLPJ0418Cloud_Webinar,0.3
+DLPJ0418CL030047,Testing Concepts.,DLPJP18CLDB4_Testing,1.9
+DLPJ0418CL030047,UNIX,DLPJP18CLDB4_Unix,10.5
+DLPJ0418CL030048,IT Foundation Skills,DLPJP18CLDB4_Foundation,0.1
+DLPJ0418CL030049,Basics  of Cloud Computing,DLPJP18CLDB4_Cloud Computing,4.8
+DLPJ0418CL030049,IT Foundation Skills,DLPJP18CLDB4_Foundation,16.3
+DLPJ0418CL030049,Life Skills,Business Communication - Cloud Stream,3.3
+DLPJ0418CL030049,PJP  Webinar,DLPJ0418Cloud_Webinar,0.5
+DLPJ0418CL030049,Testing Concepts.,DLPJP18CLDB4_Testing,2.4
+DLPJ0418CL030049,UNIX,DLPJP18CLDB4_Unix,19.9
+DLPJ0418CL030050,Basics  of Cloud Computing,DLPJP18CLDB4_Cloud Computing,4.7
+DLPJ0418CL030050,IT Foundation Skills,DLPJP18CLDB4_Foundation,20.1
+DLPJ0418CL030050,Life Skills,Business Communication - Cloud Stream,3
+DLPJ0418CL030050,PJP  Webinar,DLPJ0418Cloud_Webinar,3
+DLPJ0418CL030050,Testing Concepts.,DLPJP18CLDB4_Testing,2.1
+DLPJ0418CL030050,UNIX,DLPJP18CLDB4_Unix,17
+DLPJ0418CL030052,Basics  of Cloud Computing,DLPJP18CLDB4_Cloud Computing,3.3
+DLPJ0418CL030052,IT Foundation Skills,DLPJP18CLDB4_Foundation,11.4
+DLPJ0418CL030052,Life Skills,Business Communication - Cloud Stream,2.3
+DLPJ0418CL030052,PJP  Webinar,DLPJ0418Cloud_Webinar,0
+DLPJ0418CL030052,Testing Concepts.,DLPJP18CLDB4_Testing,3.7
+DLPJ0418CL030052,UNIX,DLPJP18CLDB4_Unix,14.6
+DLPJ0418CL030053,Basics  of Cloud Computing,DLPJP18CLDB4_Cloud Computing,2.2
+DLPJ0418CL030053,IT Foundation Skills,DLPJP18CLDB4_Foundation,13.8
+DLPJ0418CL030053,Life Skills,Business Communication - Cloud Stream,1.8
+DLPJ0418CL030053,PJP  Webinar,DLPJ0418Cloud_Webinar,0.3
+DLPJ0418CL030053,Testing Concepts.,DLPJP18CLDB4_Testing,1.5
+DLPJ0418CL030053,UNIX,DLPJP18CLDB4_Unix,11.6
+DLPJ0418CL030054,Basics  of Cloud Computing,DLPJP18CLDB4_Cloud Computing,2.8
+DLPJ0418CL030054,IT Foundation Skills,DLPJP18CLDB4_Foundation,10.1
+DLPJ0418CL030054,Life Skills,Business Communication - Cloud Stream,3
+DLPJ0418CL030054,PJP  Webinar,DLPJ0418Cloud_Webinar,0.6
+DLPJ0418CL030054,Testing Concepts.,DLPJP18CLDB4_Testing,0.6
+DLPJ0418CL030054,UNIX,DLPJP18CLDB4_Unix,3.8
+DLPJ0418CL030055,Basics  of Cloud Computing,DLPJP18CLDB4_Cloud Computing,1.2
+DLPJ0418CL030055,IT Foundation Skills,DLPJP18CLDB4_Foundation,1.2
+DLPJ0418CL030055,Testing Concepts.,DLPJP18CLDB4_Testing,1.3
+DLPJ0418CL030055,UNIX,DLPJP18CLDB4_Unix,18.1
+DLPJ0418CL030056,Basics  of Cloud Computing,DLPJP18CLDB4_Cloud Computing,2.3
+DLPJ0418CL030056,IT Foundation Skills,DLPJP18CLDB4_Foundation,2.3
+DLPJ0418CL030056,PJP  Webinar,DLPJ0418Cloud_Webinar,0.5
+DLPJ0418CL030056,Testing Concepts.,DLPJP18CLDB4_Testing,0.6
+DLPJ0418CL030056,UNIX,DLPJP18CLDB4_Unix,15.2
+DLPJ0418CP020087,Advanced C- Language,DLPJP18CPB4_Advanced C,1.7
+DLPJ0418CP020087,IT Foundation Skills,DLPJP18CPB4_Foundation,13.3
+DLPJ0418CP020087,Life Skills,Business Communication - C Stream,2.9
+DLPJ0418CP020087,PJP  Webinar,DLPJ0418C_Webinar,0.8
+DLPJ0418CP020087,Programming in C,DLPJP18CPB4_Programming in C,10.2
+DLPJ0418CP020088,IT Foundation Skills,DLPJP18CPB4_Foundation,0
+DLPJ0418CP020089,Advanced C- Language,DLPJP18CPB4_Advanced C,19.2
+DLPJ0418CP020089,IT Foundation Skills,DLPJP18CPB4_Foundation,16.7
+DLPJ0418CP020089,Life Skills,Business Communication - C Stream,2.9
+DLPJ0418CP020089,PJP  Webinar,DLPJ0418C_Webinar,0.9
+DLPJ0418CP020089,Programming in C,DLPJP18CPB4_Programming in C,19.1
+DLPJ0418CP020090,Advanced C- Language,DLPJP18CPB4_Advanced C,10.3
+DLPJ0418CP020090,IT Foundation Skills,DLPJP18CPB4_Foundation,11.3
+DLPJ0418CP020090,Life Skills,Business Communication - C Stream,1.7
+DLPJ0418CP020090,Programming in C,DLPJP18CPB4_Programming in C,11.3
+DLPJ0418CP020091,Advanced C- Language,DLPJP18CPB4_Advanced C,18.1
+DLPJ0418CP020091,IT Foundation Skills,DLPJP18CPB4_Foundation,23.5
+DLPJ0418CP020091,Life Skills,Business Communication - C Stream,2.3
+DLPJ0418CP020091,PJP  Webinar,DLPJ0418C_Webinar,0.1
+DLPJ0418CP020091,Programming in C,DLPJP18CPB4_Programming in C,25.8
+DLPJ0418CP020092,Advanced C- Language,DLPJP18CPB4_Advanced C,18.2
+DLPJ0418CP020092,IT Foundation Skills,DLPJP18CPB4_Foundation,13.1
+DLPJ0418CP020092,Life Skills,Business Communication - C Stream,1.9
+DLPJ0418CP020092,PJP  Webinar,DLPJ0418C_Webinar,1.1
+DLPJ0418CP020092,Programming in C,DLPJP18CPB4_Programming in C,18.6
+DLPJ0418CP020093,Advanced C- Language,DLPJP18CPB4_Advanced C,18
+DLPJ0418CP020093,IT Foundation Skills,DLPJP18CPB4_Foundation,14.8
+DLPJ0418CP020093,Life Skills,Business Communication - C Stream,1.2
+DLPJ0418CP020093,PJP  Webinar,DLPJ0418C_Webinar,0.2
+DLPJ0418CP020093,Programming in C,DLPJP18CPB4_Programming in C,21.5
+DLPJ0418CP020094,Advanced C- Language,DLPJP18CPB4_Advanced C,11.4
+DLPJ0418CP020094,IT Foundation Skills,DLPJP18CPB4_Foundation,12.4
+DLPJ0418CP020094,Life Skills,Business Communication - C Stream,0
+DLPJ0418CP020094,PJP  Webinar,DLPJ0418C_Webinar,0
+DLPJ0418CP020094,Programming in C,DLPJP18CPB4_Programming in C,10.1
+DLPJ0418CP020095,Advanced C- Language,DLPJP18CPB4_Advanced C,4.1
+DLPJ0418CP020095,IT Foundation Skills,DLPJP18CPB4_Foundation,5.8
+DLPJ0418CP020095,Life Skills,Business Communication - C Stream,1.5
+DLPJ0418CP020095,PJP  Webinar,DLPJ0418C_Webinar,1.3
+DLPJ0418CP020095,Programming in C,DLPJP18CPB4_Programming in C,5.1
+DLPJ0418CP020097,Advanced C- Language,DLPJP18CPB4_Advanced C,14.5
+DLPJ0418CP020097,IT Foundation Skills,DLPJP18CPB4_Foundation,9.7
+DLPJ0418CP020097,Life Skills,Business Communication - C Stream,2.6
+DLPJ0418CP020097,PJP  Webinar,DLPJ0418C_Webinar,0.7
+DLPJ0418CP020097,Programming in C,DLPJP18CPB4_Programming in C,11.4
+DLPJ0418CP020098,Advanced C- Language,DLPJP18CPB4_Advanced C,2
+DLPJ0418CP020098,IT Foundation Skills,DLPJP18CPB4_Foundation,4.5
+DLPJ0418CP020098,Life Skills,Business Communication - C Stream,0.8
+DLPJ0418CP020098,PJP  Webinar,DLPJ0418C_Webinar,0.8
+DLPJ0418CP020098,Programming in C,DLPJP18CPB4_Programming in C,4
+DLPJ0418CP020100,Life Skills,Business Communication - C Stream,0
+DLPJ0418CP020101,Advanced C- Language,DLPJP18CPB4_Advanced C,11.3
+DLPJ0418CP020101,IT Foundation Skills,DLPJP18CPB4_Foundation,9.6
+DLPJ0418CP020101,Life Skills,Business Communication - C Stream,2.1
+DLPJ0418CP020101,PJP  Webinar,DLPJ0418C_Webinar,0.1
+DLPJ0418CP020101,Programming in C,DLPJP18CPB4_Programming in C,11.6
+DLPJ0418CP020102,Advanced C- Language,DLPJP18CPB4_Advanced C,19.6
+DLPJ0418CP020102,IT Foundation Skills,DLPJP18CPB4_Foundation,14.2
+DLPJ0418CP020102,Life Skills,Business Communication - C Stream,3.7
+DLPJ0418CP020102,PJP  Webinar,DLPJ0418C_Webinar,0.6
+DLPJ0418CP020102,Programming in C,DLPJP18CPB4_Programming in C,18.3
+DLPJ0418CP020103,Advanced C- Language,DLPJP18CPB4_Advanced C,5
+DLPJ0418CP020103,IT Foundation Skills,DLPJP18CPB4_Foundation,14.9
+DLPJ0418CP020103,Life Skills,Business Communication - C Stream,2.6
+DLPJ0418CP020103,PJP  Webinar,DLPJ0418C_Webinar,0.1
+DLPJ0418CP020103,Programming in C,DLPJP18CPB4_Programming in C,13.3
+DLPJ0418CP020104,Advanced C- Language,DLPJP18CPB4_Advanced C,19
+DLPJ0418CP020104,IT Foundation Skills,DLPJP18CPB4_Foundation,12.5
+DLPJ0418CP020104,Life Skills,Business Communication - C Stream,3
+DLPJ0418CP020104,PJP  Webinar,DLPJ0418C_Webinar,0.2
+DLPJ0418CP020104,Programming in C,DLPJP18CPB4_Programming in C,13.6
+DLPJ0418CP020105,Advanced C- Language,DLPJP18CPB4_Advanced C,7.2
+DLPJ0418CP020105,IT Foundation Skills,DLPJP18CPB4_Foundation,12.6
+DLPJ0418CP020105,Life Skills,Business Communication - C Stream,1.9
+DLPJ0418CP020105,PJP  Webinar,DLPJ0418C_Webinar,0.1
+DLPJ0418CP020105,Programming in C,DLPJP18CPB4_Programming in C,9
+DLPJ0418CP020106,Advanced C- Language,DLPJP18CPB4_Advanced C,9.2
+DLPJ0418CP020106,IT Foundation Skills,DLPJP18CPB4_Foundation,12.1
+DLPJ0418CP020106,Life Skills,Business Communication - C Stream,0.5
+DLPJ0418CP020106,PJP  Webinar,DLPJ0418C_Webinar,0.3
+DLPJ0418CP020106,Programming in C,DLPJP18CPB4_Programming in C,11.2
+DLPJ0418CP020107,Advanced C- Language,DLPJP18CPB4_Advanced C,15.6
+DLPJ0418CP020107,IT Foundation Skills,DLPJP18CPB4_Foundation,12.8
+DLPJ0418CP020107,Life Skills,Business Communication - C Stream,2.2
+DLPJ0418CP020107,PJP  Webinar,DLPJ0418C_Webinar,0
+DLPJ0418CP020107,Programming in C,DLPJP18CPB4_Programming in C,17.8
+DLPJ0418CP020108,Advanced C- Language,DLPJP18CPB4_Advanced C,19.8
+DLPJ0418CP020108,IT Foundation Skills,DLPJP18CPB4_Foundation,25.8
+DLPJ0418CP020108,Life Skills,Business Communication - C Stream,3.7
+DLPJ0418CP020108,Programming in C,DLPJP18CPB4_Programming in C,21.6
+DLPJ0418CP020109,Advanced C- Language,DLPJP18CPB4_Advanced C,22.1
+DLPJ0418CP020109,IT Foundation Skills,DLPJP18CPB4_Foundation,18.7
+DLPJ0418CP020109,Life Skills,Business Communication - C Stream,3.4
+DLPJ0418CP020109,Programming in C,DLPJP18CPB4_Programming in C,19.8
+DLPJ0418CP020110,Advanced C- Language,DLPJP18CPB4_Advanced C,0.4
+DLPJ0418CP020110,IT Foundation Skills,DLPJP18CPB4_Foundation,7.9
+DLPJ0418CP020110,Life Skills,Business Communication - C Stream,0.8
+DLPJ0418CP020110,PJP  Webinar,DLPJ0418C_Webinar,0.1
+DLPJ0418CP020110,Programming in C,DLPJP18CPB4_Programming in C,0
+DLPJ0418CP020111,Advanced C- Language,DLPJP18CPB4_Advanced C,20.7
+DLPJ0418CP020111,IT Foundation Skills,DLPJP18CPB4_Foundation,13.7
+DLPJ0418CP020111,Life Skills,Business Communication - C Stream,5.2
+DLPJ0418CP020111,PJP  Webinar,DLPJ0418C_Webinar,0.5
+DLPJ0418CP020111,Programming in C,DLPJP18CPB4_Programming in C,22.7
+DLPJ0418CP020112,Advanced C- Language,DLPJP18CPB4_Advanced C,0.5
+DLPJ0418CP020112,IT Foundation Skills,DLPJP18CPB4_Foundation,4.3
+DLPJ0418CP020112,Life Skills,Business Communication - C Stream,0.6
+DLPJ0418CP020112,PJP  Webinar,DLPJ0418C_Webinar,0.4
+DLPJ0418CP020112,Programming in C,DLPJP18CPB4_Programming in C,5.7
+DLPJ0418CP020113,Advanced C- Language,DLPJP18CPB4_Advanced C,9.7
+DLPJ0418CP020113,IT Foundation Skills,DLPJP18CPB4_Foundation,11.8
+DLPJ0418CP020113,Life Skills,Business Communication - C Stream,2.4
+DLPJ0418CP020113,PJP  Webinar,DLPJ0418C_Webinar,0
+DLPJ0418CP020113,Programming in C,DLPJP18CPB4_Programming in C,9.5
+DLPJ0418CP020114,Advanced C- Language,DLPJP18CPB4_Advanced C,11.4
+DLPJ0418CP020114,IT Foundation Skills,DLPJP18CPB4_Foundation,9.4
+DLPJ0418CP020114,Life Skills,Business Communication - C Stream,2.1
+DLPJ0418CP020114,PJP  Webinar,DLPJ0418C_Webinar,0.4
+DLPJ0418CP020114,Programming in C,DLPJP18CPB4_Programming in C,14
+DLPJ0418CP020115,Advanced C- Language,DLPJP18CPB4_Advanced C,7.9
+DLPJ0418CP020115,IT Foundation Skills,DLPJP18CPB4_Foundation,17.8
+DLPJ0418CP020115,Life Skills,Business Communication - C Stream,2.3
+DLPJ0418CP020115,PJP  Webinar,DLPJ0418C_Webinar,0.1
+DLPJ0418CP020115,Programming in C,DLPJP18CPB4_Programming in C,19.6
+DLPJ0418CP020116,Advanced C- Language,DLPJP18CPB4_Advanced C,13.1
+DLPJ0418CP020116,IT Foundation Skills,DLPJP18CPB4_Foundation,14
+DLPJ0418CP020116,Life Skills,Business Communication - C Stream,3.4
+DLPJ0418CP020116,PJP  Webinar,DLPJ0418C_Webinar,1.6
+DLPJ0418CP020116,Programming in C,DLPJP18CPB4_Programming in C,17.5
+DLPJ0418CP020117,Advanced C- Language,DLPJP18CPB4_Advanced C,11.4
+DLPJ0418CP020117,IT Foundation Skills,DLPJP18CPB4_Foundation,14.4
+DLPJ0418CP020117,Life Skills,Business Communication - C Stream,2.1
+DLPJ0418CP020117,PJP  Webinar,DLPJ0418C_Webinar,0.6
+DLPJ0418CP020117,Programming in C,DLPJP18CPB4_Programming in C,13
+DLPJ0418CP020118,Advanced C- Language,DLPJP18CPB4_Advanced C,14.3
+DLPJ0418CP020118,IT Foundation Skills,DLPJP18CPB4_Foundation,15.9
+DLPJ0418CP020118,Life Skills,Business Communication - C Stream,1.4
+DLPJ0418CP020118,PJP  Webinar,DLPJ0418C_Webinar,1.6
+DLPJ0418CP020118,Programming in C,DLPJP18CPB4_Programming in C,14.6
+DLPJ0418CP020119,Advanced C- Language,DLPJP18CPB4_Advanced C,5.4
+DLPJ0418CP020119,IT Foundation Skills,DLPJP18CPB4_Foundation,10.3
+DLPJ0418CP020119,Life Skills,Business Communication - C Stream,2.3
+DLPJ0418CP020119,PJP  Webinar,DLPJ0418C_Webinar,1.9
+DLPJ0418CP020119,Programming in C,DLPJP18CPB4_Programming in C,7
+DLPJ0418CP020120,Advanced C- Language,DLPJP18CPB4_Advanced C,14.3
+DLPJ0418CP020120,IT Foundation Skills,DLPJP18CPB4_Foundation,14.5
+DLPJ0418CP020120,Life Skills,Business Communication - C Stream,2.3
+DLPJ0418CP020120,PJP  Webinar,DLPJ0418C_Webinar,0.7
+DLPJ0418CP020120,Programming in C,DLPJP18CPB4_Programming in C,13.5
+DLPJ0418CP020121,IT Foundation Skills,DLPJP18CPB4_Foundation,11.6
+DLPJ0418CP020121,Life Skills,Business Communication - C Stream,0
+DLPJ0418CP020121,PJP  Webinar,DLPJ0418C_Webinar,0
+DLPJ0418CP020121,Programming in C,DLPJP18CPB4_Programming in C,9.6
+DLPJ0418CP020122,Advanced C- Language,DLPJP18CPB4_Advanced C,0.4
+DLPJ0418CP020122,IT Foundation Skills,DLPJP18CPB4_Foundation,5.7
+DLPJ0418CP020122,Life Skills,Business Communication - C Stream,0.4
+DLPJ0418CP020122,PJP  Webinar,DLPJ0418C_Webinar,0.1
+DLPJ0418CP020122,Programming in C,DLPJP18CPB4_Programming in C,6.5
+DLPJ0418CP020123,Advanced C- Language,DLPJP18CPB4_Advanced C,2.7
+DLPJ0418CP020123,IT Foundation Skills,DLPJP18CPB4_Foundation,16.2
+DLPJ0418CP020123,Life Skills,Business Communication - C Stream,3.4
+DLPJ0418CP020123,PJP  Webinar,DLPJ0418C_Webinar,0.1
+DLPJ0418CP020123,Programming in C,DLPJP18CPB4_Programming in C,20.4
+DLPJ0418CP020124,Advanced C- Language,DLPJP18CPB4_Advanced C,13
+DLPJ0418CP020124,IT Foundation Skills,DLPJP18CPB4_Foundation,19.5
+DLPJ0418CP020124,Life Skills,Business Communication - C Stream,1.7
+DLPJ0418CP020124,PJP  Webinar,DLPJ0418C_Webinar,0.1
+DLPJ0418CP020124,Programming in C,DLPJP18CPB4_Programming in C,15
+DLPJ0418CP020125,Advanced C- Language,DLPJP18CPB4_Advanced C,7.9
+DLPJ0418CP020125,IT Foundation Skills,DLPJP18CPB4_Foundation,14.3
+DLPJ0418CP020125,Life Skills,Business Communication - C Stream,2.2
+DLPJ0418CP020125,PJP  Webinar,DLPJ0418C_Webinar,0
+DLPJ0418CP020125,Programming in C,DLPJP18CPB4_Programming in C,14.6
+DLPJ0418CP020126,Advanced C- Language,DLPJP18CPB4_Advanced C,4.1
+DLPJ0418CP020126,IT Foundation Skills,DLPJP18CPB4_Foundation,9.1
+DLPJ0418CP020126,Life Skills,Business Communication - C Stream,2.2
+DLPJ0418CP020126,PJP  Webinar,DLPJ0418C_Webinar,0.1
+DLPJ0418CP020126,Programming in C,DLPJP18CPB4_Programming in C,6.7
+DLPJ0418CP020127,Advanced C- Language,DLPJP18CPB4_Advanced C,2.1
+DLPJ0418CP020127,IT Foundation Skills,DLPJP18CPB4_Foundation,16.4
+DLPJ0418CP020127,Life Skills,Business Communication - C Stream,0.7
+DLPJ0418CP020127,PJP  Webinar,DLPJ0418C_Webinar,1.1
+DLPJ0418CP020127,Programming in C,DLPJP18CPB4_Programming in C,10.4
+DLPJ0418CP020129,Advanced C- Language,DLPJP18CPB4_Advanced C,15.3
+DLPJ0418CP020129,IT Foundation Skills,DLPJP18CPB4_Foundation,15.3
+DLPJ0418CP020129,Life Skills,Business Communication - C Stream,2
+DLPJ0418CP020129,PJP  Webinar,DLPJ0418C_Webinar,0.3
+DLPJ0418CP020129,Programming in C,DLPJP18CPB4_Programming in C,13.1
+DLPJ0418CP020130,Advanced C- Language,DLPJP18CPB4_Advanced C,7.3
+DLPJ0418CP020130,IT Foundation Skills,DLPJP18CPB4_Foundation,3.4
+DLPJ0418CP020130,Life Skills,Business Communication - C Stream,0.3
+DLPJ0418CP020130,PJP  Webinar,DLPJ0418C_Webinar,0.5
+DLPJ0418CP020130,Programming in C,DLPJP18CPB4_Programming in C,7.8
+DLPJ0418CP020131,Advanced C- Language,DLPJP18CPB4_Advanced C,9.4
+DLPJ0418CP020131,IT Foundation Skills,DLPJP18CPB4_Foundation,10.2
+DLPJ0418CP020131,Life Skills,Business Communication - C Stream,2.1
+DLPJ0418CP020131,PJP  Webinar,DLPJ0418C_Webinar,0
+DLPJ0418CP020131,Programming in C,DLPJP18CPB4_Programming in C,9.8
+DLPJ0418CP020132,Advanced C- Language,DLPJP18CPB4_Advanced C,5.9
+DLPJ0418CP020132,IT Foundation Skills,DLPJP18CPB4_Foundation,7.2
+DLPJ0418CP020132,Life Skills,Business Communication - C Stream,1.5
+DLPJ0418CP020132,PJP  Webinar,DLPJ0418C_Webinar,0.2
+DLPJ0418CP020132,Programming in C,DLPJP18CPB4_Programming in C,8.5
+DLPJ0418CP020133,Advanced C- Language,DLPJP18CPB4_Advanced C,10.8
+DLPJ0418CP020133,IT Foundation Skills,DLPJP18CPB4_Foundation,9.2
+DLPJ0418CP020133,Life Skills,Business Communication - C Stream,2.2
+DLPJ0418CP020133,PJP  Webinar,DLPJ0418C_Webinar,0.2
+DLPJ0418CP020133,Programming in C,DLPJP18CPB4_Programming in C,6.5
+DLPJ0418CP020134,Advanced C- Language,DLPJP18CPB4_Advanced C,15.1
+DLPJ0418CP020134,IT Foundation Skills,DLPJP18CPB4_Foundation,8.8
+DLPJ0418CP020134,Life Skills,Business Communication - C Stream,1.7
+DLPJ0418CP020134,PJP  Webinar,DLPJ0418C_Webinar,0
+DLPJ0418CP020134,Programming in C,DLPJP18CPB4_Programming in C,11.3
+DLPJ0418CP020135,Advanced C- Language,DLPJP18CPB4_Advanced C,10.8
+DLPJ0418CP020135,IT Foundation Skills,DLPJP18CPB4_Foundation,17.7
+DLPJ0418CP020135,Life Skills,Business Communication - C Stream,1.5
+DLPJ0418CP020135,PJP  Webinar,DLPJ0418C_Webinar,0.5
+DLPJ0418CP020135,Programming in C,DLPJP18CPB4_Programming in C,17.4
+DLPJ0418CP020136,Advanced C- Language,DLPJP18CPB4_Advanced C,9.4
+DLPJ0418CP020136,IT Foundation Skills,DLPJP18CPB4_Foundation,12.9
+DLPJ0418CP020136,Life Skills,Business Communication - C Stream,2.4
+DLPJ0418CP020136,PJP  Webinar,DLPJ0418C_Webinar,0.7
+DLPJ0418CP020136,Programming in C,DLPJP18CPB4_Programming in C,15.1
+DLPJ0418CP020137,Advanced C- Language,DLPJP18CPB4_Advanced C,11.8
+DLPJ0418CP020137,IT Foundation Skills,DLPJP18CPB4_Foundation,15.9
+DLPJ0418CP020137,Life Skills,Business Communication - C Stream,2.3
+DLPJ0418CP020137,PJP  Webinar,DLPJ0418C_Webinar,1.1
+DLPJ0418CP020137,Programming in C,DLPJP18CPB4_Programming in C,13
+DLPJ0418CP020138,Advanced C- Language,DLPJP18CPB4_Advanced C,16.8
+DLPJ0418CP020138,IT Foundation Skills,DLPJP18CPB4_Foundation,16.8
+DLPJ0418CP020138,Life Skills,Business Communication - C Stream,1.3
+DLPJ0418CP020138,PJP  Webinar,DLPJ0418C_Webinar,0.3
+DLPJ0418CP020138,Programming in C,DLPJP18CPB4_Programming in C,19.7
+DLPJ0418CP020140,Advanced C- Language,DLPJP18CPB4_Advanced C,15.4
+DLPJ0418CP020140,IT Foundation Skills,DLPJP18CPB4_Foundation,14.8
+DLPJ0418CP020140,Life Skills,Business Communication - C Stream,3.4
+DLPJ0418CP020140,PJP  Webinar,DLPJ0418C_Webinar,0
+DLPJ0418CP020140,Programming in C,DLPJP18CPB4_Programming in C,17.5
+DLPJ0418CP020141,Advanced C- Language,DLPJP18CPB4_Advanced C,14.9
+DLPJ0418CP020141,IT Foundation Skills,DLPJP18CPB4_Foundation,21.3
+DLPJ0418CP020141,Life Skills,Business Communication - C Stream,1.7
+DLPJ0418CP020141,PJP  Webinar,DLPJ0418C_Webinar,0.4
+DLPJ0418CP020141,Programming in C,DLPJP18CPB4_Programming in C,14.9
+DLPJ0418CP020142,Advanced C- Language,DLPJP18CPB4_Advanced C,8.3
+DLPJ0418CP020142,IT Foundation Skills,DLPJP18CPB4_Foundation,13.2
+DLPJ0418CP020142,Life Skills,Business Communication - C Stream,1.1
+DLPJ0418CP020142,PJP  Webinar,DLPJ0418C_Webinar,0
+DLPJ0418CP020142,Programming in C,DLPJP18CPB4_Programming in C,14.1
+DLPJ0418CP020143,IT Foundation Skills,DLPJP18CPB4_Foundation,2.9
+DLPJ0418CP020143,Life Skills,Business Communication - C Stream,3.1
+DLPJ0418CP020143,Programming in C,DLPJP18CPB4_Programming in C,1.3
+DLPJ0418CP020145,Advanced C- Language,DLPJP18CPB4_Advanced C,0.4
+DLPJ0418CP020145,IT Foundation Skills,DLPJP18CPB4_Foundation,12.9
+DLPJ0418CP020145,Life Skills,Business Communication - C Stream,0.1
+DLPJ0418CP020145,PJP  Webinar,DLPJ0418C_Webinar,0
+DLPJ0418CP020145,Programming in C,DLPJP18CPB4_Programming in C,1.9
+DLPJ0418CP020146,Advanced C- Language,DLPJP18CPB4_Advanced C,9.3
+DLPJ0418CP020146,IT Foundation Skills,DLPJP18CPB4_Foundation,10.1
+DLPJ0418CP020146,Life Skills,Business Communication - C Stream,1
+DLPJ0418CP020146,PJP  Webinar,DLPJ0418C_Webinar,0.6
+DLPJ0418CP020146,Programming in C,DLPJP18CPB4_Programming in C,16.2
+DLPJ0418CP020148,Advanced C- Language,DLPJP18CPB4_Advanced C,4.6
+DLPJ0418CP020148,IT Foundation Skills,DLPJP18CPB4_Foundation,14.8
+DLPJ0418CP020148,Life Skills,Business Communication - C Stream,1.2
+DLPJ0418CP020148,PJP  Webinar,DLPJ0418C_Webinar,0
+DLPJ0418CP020148,Programming in C,DLPJP18CPB4_Programming in C,13.8
+DLPJ0418CP020149,Advanced C- Language,DLPJP18CPB4_Advanced C,3.9
+DLPJ0418CP020149,IT Foundation Skills,DLPJP18CPB4_Foundation,13.7
+DLPJ0418CP020149,Life Skills,Business Communication - C Stream,1.8
+DLPJ0418CP020149,PJP  Webinar,DLPJ0418C_Webinar,0.1
+DLPJ0418CP020149,Programming in C,DLPJP18CPB4_Programming in C,16
+DLPJ0418CP020150,Advanced C- Language,DLPJP18CPB4_Advanced C,15.1
+DLPJ0418CP020150,IT Foundation Skills,DLPJP18CPB4_Foundation,13
+DLPJ0418CP020150,Life Skills,Business Communication - C Stream,1.8
+DLPJ0418CP020150,PJP  Webinar,DLPJ0418C_Webinar,0.1
+DLPJ0418CP020150,Programming in C,DLPJP18CPB4_Programming in C,14.7
+DLPJ0418CP020151,Advanced C- Language,DLPJP18CPB4_Advanced C,2.8
+DLPJ0418CP020151,IT Foundation Skills,DLPJP18CPB4_Foundation,5.3
+DLPJ0418CP020151,Life Skills,Business Communication - C Stream,1.3
+DLPJ0418CP020151,PJP  Webinar,DLPJ0418C_Webinar,0.2
+DLPJ0418CP020151,Programming in C,DLPJP18CPB4_Programming in C,7.8
+DLPJ0418CP020152,Advanced C- Language,DLPJP18CPB4_Advanced C,18.7
+DLPJ0418CP020152,IT Foundation Skills,DLPJP18CPB4_Foundation,14.1
+DLPJ0418CP020152,Life Skills,Business Communication - C Stream,2
+DLPJ0418CP020152,PJP  Webinar,DLPJ0418C_Webinar,0.1
+DLPJ0418CP020152,Programming in C,DLPJP18CPB4_Programming in C,13.1
+DLPJ0418CP020153,Advanced C- Language,DLPJP18CPB4_Advanced C,16.6
+DLPJ0418CP020153,IT Foundation Skills,DLPJP18CPB4_Foundation,13.3
+DLPJ0418CP020153,Life Skills,Business Communication - C Stream,1.9
+DLPJ0418CP020153,PJP  Webinar,DLPJ0418C_Webinar,0.9
+DLPJ0418CP020153,Programming in C,DLPJP18CPB4_Programming in C,11.2
+DLPJ0418CP020154,Advanced C- Language,DLPJP18CPB4_Advanced C,14.4
+DLPJ0418CP020154,IT Foundation Skills,DLPJP18CPB4_Foundation,13.1
+DLPJ0418CP020154,Life Skills,Business Communication - C Stream,4.5
+DLPJ0418CP020154,PJP  Webinar,DLPJ0418C_Webinar,0.2
+DLPJ0418CP020154,Programming in C,DLPJP18CPB4_Programming in C,10.6
+DLPJ0418CP020155,Advanced C- Language,DLPJP18CPB4_Advanced C,5.7
+DLPJ0418CP020155,IT Foundation Skills,DLPJP18CPB4_Foundation,13.3
+DLPJ0418CP020155,Life Skills,Business Communication - C Stream,5.4
+DLPJ0418CP020155,PJP  Webinar,DLPJ0418C_Webinar,0.6
+DLPJ0418CP020155,Programming in C,DLPJP18CPB4_Programming in C,11.7
+DLPJ0418CP020156,Advanced C- Language,DLPJP18CPB4_Advanced C,2.3
+DLPJ0418CP020156,IT Foundation Skills,DLPJP18CPB4_Foundation,8.9
+DLPJ0418CP020156,Life Skills,Business Communication - C Stream,2
+DLPJ0418CP020156,PJP  Webinar,DLPJ0418C_Webinar,0
+DLPJ0418CP020156,Programming in C,DLPJP18CPB4_Programming in C,5.8
+DLPJ0418CP020157,Advanced C- Language,DLPJP18CPB4_Advanced C,9.8
+DLPJ0418CP020157,IT Foundation Skills,DLPJP18CPB4_Foundation,12.9
+DLPJ0418CP020157,Life Skills,Business Communication - C Stream,3.4
+DLPJ0418CP020157,PJP  Webinar,DLPJ0418C_Webinar,1
+DLPJ0418CP020157,Programming in C,DLPJP18CPB4_Programming in C,14
+DLPJ0418CP020158,Advanced C- Language,DLPJP18CPB4_Advanced C,15.8
+DLPJ0418CP020158,IT Foundation Skills,DLPJP18CPB4_Foundation,20.9
+DLPJ0418CP020158,Life Skills,Business Communication - C Stream,2.7
+DLPJ0418CP020158,PJP  Webinar,DLPJ0418C_Webinar,0.2
+DLPJ0418CP020158,Programming in C,DLPJP18CPB4_Programming in C,18.7
+DLPJ0418CP020159,IT Foundation Skills,DLPJP18CPB4_Foundation,12.5
+DLPJ0418CP020159,Life Skills,Business Communication - C Stream,2.1
+DLPJ0418CP020159,PJP  Webinar,DLPJ0418C_Webinar,0.5
+DLPJ0418CP020159,Programming in C,DLPJP18CPB4_Programming in C,2.1
+DLPJ0418CP020160,Advanced C- Language,DLPJP18CPB4_Advanced C,23.3
+DLPJ0418CP020160,IT Foundation Skills,DLPJP18CPB4_Foundation,26.2
+DLPJ0418CP020160,Life Skills,Business Communication - C Stream,4
+DLPJ0418CP020160,PJP  Webinar,DLPJ0418C_Webinar,3
+DLPJ0418CP020160,Programming in C,DLPJP18CPB4_Programming in C,24.4
+DLPJ0418CP020161,Advanced C- Language,DLPJP18CPB4_Advanced C,2.9
+DLPJ0418CP020161,IT Foundation Skills,DLPJP18CPB4_Foundation,9.7
+DLPJ0418CP020161,Programming in C,DLPJP18CPB4_Programming in C,10.3
+DLPJ0418CP020162,Advanced C- Language,DLPJP18CPB4_Advanced C,11.9
+DLPJ0418CP020162,IT Foundation Skills,DLPJP18CPB4_Foundation,8.4
+DLPJ0418CP020162,Life Skills,Business Communication - C Stream,2.6
+DLPJ0418CP020162,PJP  Webinar,DLPJ0418C_Webinar,0.8
+DLPJ0418CP020162,Programming in C,DLPJP18CPB4_Programming in C,7.4
+DLPJ0418CP020163,Advanced C- Language,DLPJP18CPB4_Advanced C,1
+DLPJ0418CP020163,IT Foundation Skills,DLPJP18CPB4_Foundation,9.6
+DLPJ0418CP020163,Life Skills,Business Communication - C Stream,1.5
+DLPJ0418CP020163,PJP  Webinar,DLPJ0418C_Webinar,0.3
+DLPJ0418CP020163,Programming in C,DLPJP18CPB4_Programming in C,14.2
+DLPJ0418CP020164,IT Foundation Skills,DLPJP18CPB4_Foundation,0.6
+DLPJ0418CP020164,Life Skills,Business Communication - C Stream,0.3
+DLPJ0418CP020164,PJP  Webinar,DLPJ0418C_Webinar,0
+DLPJ0418CP020164,Programming in C,DLPJP18CPB4_Programming in C,0.8
+DLPJ0418CP020165,Advanced C- Language,DLPJP18CPB4_Advanced C,12.3
+DLPJ0418CP020165,IT Foundation Skills,DLPJP18CPB4_Foundation,12.7
+DLPJ0418CP020165,Life Skills,Business Communication - C Stream,1
+DLPJ0418CP020165,PJP  Webinar,DLPJ0418C_Webinar,0.2
+DLPJ0418CP020165,Programming in C,DLPJP18CPB4_Programming in C,17.3
+DLPJ0418CP020166,Advanced C- Language,DLPJP18CPB4_Advanced C,13
+DLPJ0418CP020166,IT Foundation Skills,DLPJP18CPB4_Foundation,11.2
+DLPJ0418CP020166,Life Skills,Business Communication - C Stream,0.2
+DLPJ0418CP020166,PJP  Webinar,DLPJ0418C_Webinar,1.3
+DLPJ0418CP020166,Programming in C,DLPJP18CPB4_Programming in C,13.8
+DLPJ0418CP020168,IT Foundation Skills,DLPJP18CPB4_Foundation,11.5
+DLPJ0418CP020168,Life Skills,Business Communication - C Stream,2.6
+DLPJ0418CP020168,PJP  Webinar,DLPJ0418C_Webinar,2.5
+DLPJ0418CP020168,Programming in C,DLPJP18CPB4_Programming in C,20.9
+DLPJ0418CP020169,Advanced C- Language,DLPJP18CPB4_Advanced C,0.6
+DLPJ0418CP020169,IT Foundation Skills,DLPJP18CPB4_Foundation,8.2
+DLPJ0418CP020169,Life Skills,Business Communication - C Stream,2.1
+DLPJ0418CP020169,PJP  Webinar,DLPJ0418C_Webinar,0.2
+DLPJ0418CP020169,Programming in C,DLPJP18CPB4_Programming in C,6.7
+DLPJ0418CP020170,Advanced C- Language,DLPJP18CPB4_Advanced C,1.7
+DLPJ0418CP020170,IT Foundation Skills,DLPJP18CPB4_Foundation,11.1
+DLPJ0418CP020170,Life Skills,Business Communication - C Stream,0.8
+DLPJ0418CP020170,Programming in C,DLPJP18CPB4_Programming in C,10.1
+DLPJ0418CP020171,Advanced C- Language,DLPJP18CPB4_Advanced C,6.2
+DLPJ0418CP020171,IT Foundation Skills,DLPJP18CPB4_Foundation,11.6
+DLPJ0418CP020171,Life Skills,Business Communication - C Stream,1.6
+DLPJ0418CP020171,PJP  Webinar,DLPJ0418C_Webinar,1.3
+DLPJ0418CP020171,Programming in C,DLPJP18CPB4_Programming in C,9
+DLPJ0418CP020172,Advanced C- Language,DLPJP18CPB4_Advanced C,8
+DLPJ0418CP020172,IT Foundation Skills,DLPJP18CPB4_Foundation,12.7
+DLPJ0418CP020172,Life Skills,Business Communication - C Stream,2.6
+DLPJ0418CP020172,Programming in C,DLPJP18CPB4_Programming in C,19.4
+DLPJ0418CP020173,Advanced C- Language,DLPJP18CPB4_Advanced C,26
+DLPJ0418CP020173,IT Foundation Skills,DLPJP18CPB4_Foundation,22.5
+DLPJ0418CP020173,Life Skills,Business Communication - C Stream,4.8
+DLPJ0418CP020173,Programming in C,DLPJP18CPB4_Programming in C,21.1
+DLPJ0418CP020174,Advanced C- Language,DLPJP18CPB4_Advanced C,15.6
+DLPJ0418CP020174,IT Foundation Skills,DLPJP18CPB4_Foundation,20.8
+DLPJ0418CP020174,Life Skills,Business Communication - C Stream,2.2
+DLPJ0418CP020174,PJP  Webinar,DLPJ0418C_Webinar,0.4
+DLPJ0418CP020174,Programming in C,DLPJP18CPB4_Programming in C,15.2
+DLPJ0418CP020175,Advanced C- Language,DLPJP18CPB4_Advanced C,14.8
+DLPJ0418CP020175,IT Foundation Skills,DLPJP18CPB4_Foundation,13.2
+DLPJ0418CP020175,Life Skills,Business Communication - C Stream,1.3
+DLPJ0418CP020175,PJP  Webinar,DLPJ0418C_Webinar,0.1
+DLPJ0418CP020175,Programming in C,DLPJP18CPB4_Programming in C,15.7
+DLPJ0418CP020177,Advanced C- Language,DLPJP18CPB4_Advanced C,8.2
+DLPJ0418CP020177,IT Foundation Skills,DLPJP18CPB4_Foundation,12.1
+DLPJ0418CP020177,Life Skills,Business Communication - C Stream,1.6
+DLPJ0418CP020177,Programming in C,DLPJP18CPB4_Programming in C,8.4
+DLPJ0418CP020178,Advanced C- Language,DLPJP18CPB4_Advanced C,1.4
+DLPJ0418CP020178,IT Foundation Skills,DLPJP18CPB4_Foundation,18.6
+DLPJ0418CP020178,Life Skills,Business Communication - C Stream,3
+DLPJ0418CP020178,PJP  Webinar,DLPJ0418C_Webinar,0
+DLPJ0418CP020178,Programming in C,DLPJP18CPB4_Programming in C,17.8
+DLPJ0418CP020179,Advanced C- Language,DLPJP18CPB4_Advanced C,9.7
+DLPJ0418CP020179,IT Foundation Skills,DLPJP18CPB4_Foundation,12.5
+DLPJ0418CP020179,Life Skills,Business Communication - C Stream,2.7
+DLPJ0418CP020179,PJP  Webinar,DLPJ0418C_Webinar,0.5
+DLPJ0418CP020179,Programming in C,DLPJP18CPB4_Programming in C,14.6
+DLPJ0418CP020180,Advanced C- Language,DLPJP18CPB4_Advanced C,11.5
+DLPJ0418CP020180,IT Foundation Skills,DLPJP18CPB4_Foundation,9
+DLPJ0418CP020180,Life Skills,Business Communication - C Stream,2
+DLPJ0418CP020180,PJP  Webinar,DLPJ0418C_Webinar,0
+DLPJ0418CP020180,Programming in C,DLPJP18CPB4_Programming in C,12.9
+DLPJ0418CP020182,Advanced C- Language,DLPJP18CPB4_Advanced C,0
+DLPJ0418CP020182,IT Foundation Skills,DLPJP18CPB4_Foundation,2.3
+DLPJ0418CP020182,PJP  Webinar,DLPJ0418C_Webinar,0.6
+DLPJ0418CP020182,Programming in C,DLPJP18CPB4_Programming in C,4
+DLPJ0418DN040016,DotNet Online,DLPJP18DNB4_C Sharp,15.5
+DLPJ0418DN040016,IT Foundation Skills,DLPJP18DNB4_Foundation,18
+DLPJ0418DN040016,Life Skills,Business Communication - Dotnet Stream,2.2
+DLPJ0418DN040016,PJP  Webinar,DLPJ0418DN_Webinar,0.1
+DLPJ0418DN040016,Testing Concepts.,DLPJP18DNB4_Testing,1.5
+DLPJ0418DN040017,DotNet Online,DLPJP18DNB4_C Sharp,26.1
+DLPJ0418DN040017,IT Foundation Skills,DLPJP18DNB4_Foundation,18.4
+DLPJ0418DN040017,Life Skills,Business Communication - Dotnet Stream,2.4
+DLPJ0418DN040017,Testing Concepts.,DLPJP18DNB4_Testing,2
+DLPJ0418DN040018,DotNet Online,DLPJP18DNB4_C Sharp,25.6
+DLPJ0418DN040018,IT Foundation Skills,DLPJP18DNB4_Foundation,11.4
+DLPJ0418DN040018,Life Skills,Business Communication - Dotnet Stream,1.5
+DLPJ0418DN040018,PJP  Webinar,DLPJ0418DN_Webinar,0.7
+DLPJ0418DN040018,Testing Concepts.,DLPJP18DNB4_Testing,1.2
+DLPJ0418DN040019,DotNet Online,DLPJP18DNB4_C Sharp,31.2
+DLPJ0418DN040019,IT Foundation Skills,DLPJP18DNB4_Foundation,15.8
+DLPJ0418DN040019,Life Skills,Business Communication - Dotnet Stream,2.9
+DLPJ0418DN040019,PJP  Webinar,DLPJ0418DN_Webinar,0.6
+DLPJ0418DN040019,Testing Concepts.,DLPJP18DNB4_Testing,2.6
+DLPJ0418DN040020,DotNet Online,DLPJP18DNB4_C Sharp,23.7
+DLPJ0418DN040020,IT Foundation Skills,DLPJP18DNB4_Foundation,13.9
+DLPJ0418DN040020,Life Skills,Business Communication - Dotnet Stream,2.3
+DLPJ0418DN040020,PJP  Webinar,DLPJ0418DN_Webinar,0.7
+DLPJ0418DN040020,Testing Concepts.,DLPJP18DNB4_Testing,2.7
+DLPJ0418DN040021,DotNet Online,DLPJP18DNB4_C Sharp,3.7
+DLPJ0418DN040021,IT Foundation Skills,DLPJP18DNB4_Foundation,4.3
+DLPJ0418DN040021,Life Skills,Business Communication - Dotnet Stream,0
+DLPJ0418DN040021,PJP  Webinar,DLPJ0418DN_Webinar,0
+DLPJ0418DN040021,Testing Concepts.,DLPJP18DNB4_Testing,0.2
+DLPJ0418DN040022,DotNet Online,DLPJP18DNB4_C Sharp,22.9
+DLPJ0418DN040022,IT Foundation Skills,DLPJP18DNB4_Foundation,16.1
+DLPJ0418DN040022,Life Skills,Business Communication - Dotnet Stream,1.3
+DLPJ0418DN040022,PJP  Webinar,DLPJ0418DN_Webinar,0.4
+DLPJ0418DN040022,Testing Concepts.,DLPJP18DNB4_Testing,2.6
+DLPJ0418DN040023,DotNet Online,DLPJP18DNB4_C Sharp,40.7
+DLPJ0418DN040023,IT Foundation Skills,DLPJP18DNB4_Foundation,28.5
+DLPJ0418DN040023,Life Skills,Business Communication - Dotnet Stream,4.3
+DLPJ0418DN040023,PJP  Webinar,DLPJ0418DN_Webinar,0
+DLPJ0418DN040023,Testing Concepts.,DLPJP18DNB4_Testing,4.7
+DLPJ0418DN040024,DotNet Online,DLPJP18DNB4_C Sharp,38.5
+DLPJ0418DN040024,IT Foundation Skills,DLPJP18DNB4_Foundation,19.7
+DLPJ0418DN040024,Life Skills,Business Communication - Dotnet Stream,3
+DLPJ0418DN040024,PJP  Webinar,DLPJ0418DN_Webinar,0.5
+DLPJ0418DN040024,Testing Concepts.,DLPJP18DNB4_Testing,4.9
+DLPJ0418DN040025,DotNet Online,DLPJP18DNB4_C Sharp,27.5
+DLPJ0418DN040025,IT Foundation Skills,DLPJP18DNB4_Foundation,12.4
+DLPJ0418DN040025,Life Skills,Business Communication - Dotnet Stream,2
+DLPJ0418DN040025,PJP  Webinar,DLPJ0418DN_Webinar,0.2
+DLPJ0418DN040025,Testing Concepts.,DLPJP18DNB4_Testing,1.9
+DLPJ0418DN040026,DotNet Online,DLPJP18DNB4_C Sharp,18
+DLPJ0418DN040026,IT Foundation Skills,DLPJP18DNB4_Foundation,8.5
+DLPJ0418DN040026,Life Skills,Business Communication - Dotnet Stream,1.8
+DLPJ0418DN040026,PJP  Webinar,DLPJ0418DN_Webinar,1.5
+DLPJ0418DN040026,Testing Concepts.,DLPJP18DNB4_Testing,0.2
+DLPJ0418DN040027,DotNet Online,DLPJP18DNB4_C Sharp,20.6
+DLPJ0418DN040027,IT Foundation Skills,DLPJP18DNB4_Foundation,19.7
+DLPJ0418DN040027,Life Skills,Business Communication - Dotnet Stream,2.6
+DLPJ0418DN040027,PJP  Webinar,DLPJ0418DN_Webinar,0.5
+DLPJ0418DN040027,Testing Concepts.,DLPJP18DNB4_Testing,4
+DLPJ0418DN040028,DotNet Online,DLPJP18DNB4_C Sharp,24.9
+DLPJ0418DN040028,IT Foundation Skills,DLPJP18DNB4_Foundation,17.6
+DLPJ0418DN040028,Life Skills,Business Communication - Dotnet Stream,1.5
+DLPJ0418DN040028,PJP  Webinar,DLPJ0418DN_Webinar,0.2
+DLPJ0418DN040028,Testing Concepts.,DLPJP18DNB4_Testing,1.9
+DLPJ0418DN040030,DotNet Online,DLPJP18DNB4_C Sharp,10.2
+DLPJ0418DN040030,IT Foundation Skills,DLPJP18DNB4_Foundation,10
+DLPJ0418DN040030,Life Skills,Business Communication - Dotnet Stream,1.5
+DLPJ0418DN040030,PJP  Webinar,DLPJ0418DN_Webinar,0.7
+DLPJ0418DN040030,Testing Concepts.,DLPJP18DNB4_Testing,1.3
+DLPJ0418DN040031,DotNet Online,DLPJP18DNB4_C Sharp,33.4
+DLPJ0418DN040031,IT Foundation Skills,DLPJP18DNB4_Foundation,14.2
+DLPJ0418DN040031,Life Skills,Business Communication - Dotnet Stream,1.4
+DLPJ0418DN040031,PJP  Webinar,DLPJ0418DN_Webinar,0
+DLPJ0418DN040031,Testing Concepts.,DLPJP18DNB4_Testing,1.9
+DLPJ0418DN040032,Life Skills,Business Communication - Dotnet Stream,0
+DLPJ0418DN040032,Testing Concepts.,DLPJP18DNB4_Testing,0
+DLPJ0418IM040025,IT Foundation Skills,DLPJP18INFOB4_Foundation,20.4
+DLPJ0418IM040025,Life Skills,Business Communication - Informatica Stream,1.6
+DLPJ0418IM040025,ORACLE Online,DLPJP18INFOB4_Oracle PL/SQL,33.5
+DLPJ0418IM040025,PJP  Webinar,DLPJ0418Info_Webinar,0.6
+DLPJ0418IM040025,Testing Concepts.,DLPJP18INFOB4_Testing,4.2
+DLPJ0418IM040026,IT Foundation Skills,DLPJP18INFOB4_Foundation,10.2
+DLPJ0418IM040026,Life Skills,Business Communication - Informatica Stream,2
+DLPJ0418IM040026,ORACLE Online,DLPJP18INFOB4_Oracle PL/SQL,6.7
+DLPJ0418IM040026,PJP  Webinar,DLPJ0418Info_Webinar,0.2
+DLPJ0418IM040026,Testing Concepts.,DLPJP18INFOB4_Testing,0.8
+DLPJ0418IM040027,IT Foundation Skills,DLPJP18INFOB4_Foundation,17.8
+DLPJ0418IM040027,Life Skills,Business Communication - Informatica Stream,1.7
+DLPJ0418IM040027,ORACLE Online,DLPJP18INFOB4_Oracle PL/SQL,27.9
+DLPJ0418IM040027,PJP  Webinar,DLPJ0418Info_Webinar,0.7
+DLPJ0418IM040027,Testing Concepts.,DLPJP18INFOB4_Testing,4
+DLPJ0418IM040028,IT Foundation Skills,DLPJP18INFOB4_Foundation,15
+DLPJ0418IM040028,Life Skills,Business Communication - Informatica Stream,2
+DLPJ0418IM040028,ORACLE Online,DLPJP18INFOB4_Oracle PL/SQL,24.2
+DLPJ0418IM040028,PJP  Webinar,DLPJ0418Info_Webinar,0.9
+DLPJ0418IM040028,Testing Concepts.,DLPJP18INFOB4_Testing,1
+DLPJ0418IM040029,IT Foundation Skills,DLPJP18INFOB4_Foundation,6.6
+DLPJ0418IM040029,Life Skills,Business Communication - Informatica Stream,2.1
+DLPJ0418IM040029,ORACLE Online,DLPJP18INFOB4_Oracle PL/SQL,13.6
+DLPJ0418IM040029,Testing Concepts.,DLPJP18INFOB4_Testing,1.3
+DLPJ0418IM040030,IT Foundation Skills,DLPJP18INFOB4_Foundation,16.1
+DLPJ0418IM040030,Life Skills,Business Communication - Informatica Stream,2.1
+DLPJ0418IM040030,ORACLE Online,DLPJP18INFOB4_Oracle PL/SQL,30.4
+DLPJ0418IM040030,PJP  Webinar,DLPJ0418Info_Webinar,0
+DLPJ0418IM040030,Testing Concepts.,DLPJP18INFOB4_Testing,2
+DLPJ0418IM040031,IT Foundation Skills,DLPJP18INFOB4_Foundation,12.3
+DLPJ0418IM040031,Life Skills,Business Communication - Informatica Stream,0.6
+DLPJ0418IM040031,ORACLE Online,DLPJP18INFOB4_Oracle PL/SQL,25.9
+DLPJ0418IM040031,PJP  Webinar,DLPJ0418Info_Webinar,0.8
+DLPJ0418IM040031,Testing Concepts.,DLPJP18INFOB4_Testing,2.8
+DLPJ0418IM040032,IT Foundation Skills,DLPJP18INFOB4_Foundation,10.4
+DLPJ0418IM040032,Life Skills,Business Communication - Informatica Stream,1.3
+DLPJ0418IM040032,ORACLE Online,DLPJP18INFOB4_Oracle PL/SQL,11.7
+DLPJ0418IM040032,PJP  Webinar,DLPJ0418Info_Webinar,0
+DLPJ0418IM040032,Testing Concepts.,DLPJP18INFOB4_Testing,1.6
+DLPJ0418IM040033,IT Foundation Skills,DLPJP18INFOB4_Foundation,17.1
+DLPJ0418IM040033,Life Skills,Business Communication - Informatica Stream,4.2
+DLPJ0418IM040033,ORACLE Online,DLPJP18INFOB4_Oracle PL/SQL,27.9
+DLPJ0418IM040033,PJP  Webinar,DLPJ0418Info_Webinar,0.5
+DLPJ0418IM040033,Testing Concepts.,DLPJP18INFOB4_Testing,3.6
+DLPJ0418IM040034,IT Foundation Skills,DLPJP18INFOB4_Foundation,1.3
+DLPJ0418IM040035,IT Foundation Skills,DLPJP18INFOB4_Foundation,14.5
+DLPJ0418IM040035,Life Skills,Business Communication - Informatica Stream,2.2
+DLPJ0418IM040035,ORACLE Online,DLPJP18INFOB4_Oracle PL/SQL,19.3
+DLPJ0418IM040035,PJP  Webinar,DLPJ0418Info_Webinar,1.3
+DLPJ0418IM040035,Testing Concepts.,DLPJP18INFOB4_Testing,0.2
+DLPJ0418IM040036,IT Foundation Skills,DLPJP18INFOB4_Foundation,12.3
+DLPJ0418IM040036,Life Skills,Business Communication - Informatica Stream,3.3
+DLPJ0418IM040036,ORACLE Online,DLPJP18INFOB4_Oracle PL/SQL,18.9
+DLPJ0418IM040036,PJP  Webinar,DLPJ0418Info_Webinar,0.6
+DLPJ0418IM040036,Testing Concepts.,DLPJP18INFOB4_Testing,1.2
+DLPJ0418IM040037,IT Foundation Skills,DLPJP18INFOB4_Foundation,14.7
+DLPJ0418IM040037,Life Skills,Business Communication - Informatica Stream,1.8
+DLPJ0418IM040037,ORACLE Online,DLPJP18INFOB4_Oracle PL/SQL,37.8
+DLPJ0418IM040037,PJP  Webinar,DLPJ0418Info_Webinar,3.5
+DLPJ0418IM040037,Testing Concepts.,DLPJP18INFOB4_Testing,1.2
+DLPJ0418IM040038,IT Foundation Skills,DLPJP18INFOB4_Foundation,16
+DLPJ0418IM040038,Life Skills,Business Communication - Informatica Stream,3.9
+DLPJ0418IM040038,ORACLE Online,DLPJP18INFOB4_Oracle PL/SQL,39.7
+DLPJ0418IM040038,PJP  Webinar,DLPJ0418Info_Webinar,1
+DLPJ0418IM040038,Testing Concepts.,DLPJP18INFOB4_Testing,4.7
+DLPJ0418IM040039,IT Foundation Skills,DLPJP18INFOB4_Foundation,14
+DLPJ0418IM040039,Life Skills,Business Communication - Informatica Stream,4.2
+DLPJ0418IM040039,ORACLE Online,DLPJP18INFOB4_Oracle PL/SQL,20.8
+DLPJ0418IM040039,PJP  Webinar,DLPJ0418Info_Webinar,1.5
+DLPJ0418IM040039,Testing Concepts.,DLPJP18INFOB4_Testing,2
+DLPJ0418IM040041,IT Foundation Skills,DLPJP18INFOB4_Foundation,11.9
+DLPJ0418IM040041,Life Skills,Business Communication - Informatica Stream,2
+DLPJ0418IM040041,ORACLE Online,DLPJP18INFOB4_Oracle PL/SQL,21.2
+DLPJ0418IM040041,PJP  Webinar,DLPJ0418Info_Webinar,0
+DLPJ0418IM040041,Testing Concepts.,DLPJP18INFOB4_Testing,1.2
+DLPJ0418IM040042,IT Foundation Skills,DLPJP18INFOB4_Foundation,17.5
+DLPJ0418IM040042,Life Skills,Business Communication - Informatica Stream,2.1
+DLPJ0418IM040042,ORACLE Online,DLPJP18INFOB4_Oracle PL/SQL,37.9
+DLPJ0418IM040042,PJP  Webinar,DLPJ0418Info_Webinar,0.6
+DLPJ0418IM040042,Testing Concepts.,DLPJP18INFOB4_Testing,3.1
+DLPJ0418IM040043,IT Foundation Skills,DLPJP18INFOB4_Foundation,8.2
+DLPJ0418IM040043,Life Skills,Business Communication - Informatica Stream,1.7
+DLPJ0418IM040043,ORACLE Online,DLPJP18INFOB4_Oracle PL/SQL,13.1
+DLPJ0418IM040043,PJP  Webinar,DLPJ0418Info_Webinar,2.3
+DLPJ0418IM040043,Testing Concepts.,DLPJP18INFOB4_Testing,1.3
+DLPJ0418IM040044,IT Foundation Skills,DLPJP18INFOB4_Foundation,20.6
+DLPJ0418IM040044,Life Skills,Business Communication - Informatica Stream,2.9
+DLPJ0418IM040044,ORACLE Online,DLPJP18INFOB4_Oracle PL/SQL,24
+DLPJ0418IM040044,PJP  Webinar,DLPJ0418Info_Webinar,2.3
+DLPJ0418IM040044,Testing Concepts.,DLPJP18INFOB4_Testing,1.8
+DLPJ0418IM040045,IT Foundation Skills,DLPJP18INFOB4_Foundation,17.8
+DLPJ0418IM040045,Life Skills,Business Communication - Informatica Stream,2.4
+DLPJ0418IM040045,ORACLE Online,DLPJP18INFOB4_Oracle PL/SQL,27.5
+DLPJ0418IM040045,PJP  Webinar,DLPJ0418Info_Webinar,0
+DLPJ0418IM040045,Testing Concepts.,DLPJP18INFOB4_Testing,3
+DLPJ0418IM040046,IT Foundation Skills,DLPJP18INFOB4_Foundation,21.3
+DLPJ0418IM040046,Life Skills,Business Communication - Informatica Stream,2.9
+DLPJ0418IM040046,ORACLE Online,DLPJP18INFOB4_Oracle PL/SQL,28.8
+DLPJ0418IM040046,PJP  Webinar,DLPJ0418Info_Webinar,0.5
+DLPJ0418IM040046,Testing Concepts.,DLPJP18INFOB4_Testing,2.3
+DLPJ0418IM040048,IT Foundation Skills,DLPJP18INFOB4_Foundation,11.5
+DLPJ0418IM040048,Life Skills,Business Communication - Informatica Stream,2
+DLPJ0418IM040048,ORACLE Online,DLPJP18INFOB4_Oracle PL/SQL,13.4
+DLPJ0418IM040048,PJP  Webinar,DLPJ0418Info_Webinar,0.6
+DLPJ0418IM040048,Testing Concepts.,DLPJP18INFOB4_Testing,3.9
+DLPJ0418IM040049,IT Foundation Skills,DLPJP18INFOB4_Foundation,13.9
+DLPJ0418IM040049,Life Skills,Business Communication - Informatica Stream,1.3
+DLPJ0418IM040049,ORACLE Online,DLPJP18INFOB4_Oracle PL/SQL,19.3
+DLPJ0418IM040049,PJP  Webinar,DLPJ0418Info_Webinar,0.6
+DLPJ0418IM040049,Testing Concepts.,DLPJP18INFOB4_Testing,2.5
+DLPJ0418IM040050,IT Foundation Skills,DLPJP18INFOB4_Foundation,10.8
+DLPJ0418IM040050,Life Skills,Business Communication - Informatica Stream,0.1
+DLPJ0418IM040050,PJP  Webinar,DLPJ0418Info_Webinar,0.6
+DLPJ0418IM040050,Testing Concepts.,DLPJP18INFOB4_Testing,1
+DLPJ0418IM040051,IT Foundation Skills,DLPJP18INFOB4_Foundation,13.1
+DLPJ0418IM040051,Life Skills,Business Communication - Informatica Stream,0.8
+DLPJ0418IM040051,ORACLE Online,DLPJP18INFOB4_Oracle PL/SQL,9.8
+DLPJ0418IM040051,PJP  Webinar,DLPJ0418Info_Webinar,0.6
+DLPJ0418IM040051,Testing Concepts.,DLPJP18INFOB4_Testing,0.3
+DLPJ0418IM040052,IT Foundation Skills,DLPJP18INFOB4_Foundation,16
+DLPJ0418IM040052,Life Skills,Business Communication - Informatica Stream,1.2
+DLPJ0418IM040052,ORACLE Online,DLPJP18INFOB4_Oracle PL/SQL,31.4
+DLPJ0418IM040052,PJP  Webinar,DLPJ0418Info_Webinar,0.5
+DLPJ0418IM040052,Testing Concepts.,DLPJP18INFOB4_Testing,2.4
+DLPJ0418JA040661,IT Foundation Skills,DLPJP18JAVAB4_Foundation,8.1
+DLPJ0418JA040661,JAVA - Online,DLPJP18JAVAB4_Java Programming Fundamentals,13
+DLPJ0418JA040661,Life Skills,Business Communication - Java Stream,2
+DLPJ0418JA040661,PJP  Webinar,DLPJ0418Java_Webinar,0.6
+DLPJ0418JA040661,Testing Concepts.,DLPJP18JAVAB4_Testing,0.2
+DLPJ0418JA040662,IT Foundation Skills,DLPJP18JAVAB4_Foundation,8.2
+DLPJ0418JA040662,JAVA - Online,DLPJP18JAVAB4_Java Programming Fundamentals,26.2
+DLPJ0418JA040662,Life Skills,Business Communication - Java Stream,0.4
+DLPJ0418JA040662,PJP  Webinar,DLPJ0418Java_Webinar,0
+DLPJ0418JA040662,Testing Concepts.,DLPJP18JAVAB4_Testing,0.7
+DLPJ0418JA040663,IT Foundation Skills,DLPJP18JAVAB4_Foundation,9.7
+DLPJ0418JA040663,JAVA - Online,DLPJP18JAVAB4_Java Programming Fundamentals,32.6
+DLPJ0418JA040663,Life Skills,Business Communication - Java Stream,2.3
+DLPJ0418JA040663,PJP  Webinar,DLPJ0418Java_Webinar,0
+DLPJ0418JA040663,Testing Concepts.,DLPJP18JAVAB4_Testing,1.7
+DLPJ0418JA040664,IT Foundation Skills,DLPJP18JAVAB4_Foundation,6.6
+DLPJ0418JA040664,JAVA - Online,DLPJP18JAVAB4_Java Programming Fundamentals,8.5
+DLPJ0418JA040664,Life Skills,Business Communication - Java Stream,2
+DLPJ0418JA040664,PJP  Webinar,DLPJ0418Java_Webinar,1.3
+DLPJ0418JA040664,Testing Concepts.,DLPJP18JAVAB4_Testing,0.4
+DLPJ0418JA040665,IT Foundation Skills,DLPJP18JAVAB4_Foundation,12.8
+DLPJ0418JA040665,JAVA - Online,DLPJP18JAVAB4_Java Programming Fundamentals,19
+DLPJ0418JA040665,Life Skills,Business Communication - Java Stream,3.8
+DLPJ0418JA040665,PJP  Webinar,DLPJ0418Java_Webinar,0
+DLPJ0418JA040665,Testing Concepts.,DLPJP18JAVAB4_Testing,0.5
+DLPJ0418JA040666,IT Foundation Skills,DLPJP18JAVAB4_Foundation,16.4
+DLPJ0418JA040666,JAVA - Online,DLPJP18JAVAB4_Java Programming Fundamentals,40.2
+DLPJ0418JA040666,Life Skills,Business Communication - Java Stream,2.2
+DLPJ0418JA040666,PJP  Webinar,DLPJ0418Java_Webinar,1.6
+DLPJ0418JA040666,Testing Concepts.,DLPJP18JAVAB4_Testing,2.6
+DLPJ0418JA040667,IT Foundation Skills,DLPJP18JAVAB4_Foundation,18.6
+DLPJ0418JA040667,JAVA - Online,DLPJP18JAVAB4_Java Programming Fundamentals,30.6
+DLPJ0418JA040667,Life Skills,Business Communication - Java Stream,0.2
+DLPJ0418JA040667,PJP  Webinar,DLPJ0418Java_Webinar,1.7
+DLPJ0418JA040667,Testing Concepts.,DLPJP18JAVAB4_Testing,0.7
+DLPJ0418JA040668,IT Foundation Skills,DLPJP18JAVAB4_Foundation,16.6
+DLPJ0418JA040668,JAVA - Online,DLPJP18JAVAB4_Java Programming Fundamentals,27.1
+DLPJ0418JA040668,Life Skills,Business Communication - Java Stream,4.2
+DLPJ0418JA040668,PJP  Webinar,DLPJ0418Java_Webinar,0.2
+DLPJ0418JA040668,Testing Concepts.,DLPJP18JAVAB4_Testing,3.6
+DLPJ0418JA040669,IT Foundation Skills,DLPJP18JAVAB4_Foundation,14.6
+DLPJ0418JA040669,JAVA - Online,DLPJP18JAVAB4_Java Programming Fundamentals,3.4
+DLPJ0418JA040669,Life Skills,Business Communication - Java Stream,2
+DLPJ0418JA040669,PJP  Webinar,DLPJ0418Java_Webinar,1.5
+DLPJ0418JA040669,Testing Concepts.,DLPJP18JAVAB4_Testing,1.2
+DLPJ0418JA040670,IT Foundation Skills,DLPJP18JAVAB4_Foundation,12.6
+DLPJ0418JA040670,JAVA - Online,DLPJP18JAVAB4_Java Programming Fundamentals,20.1
+DLPJ0418JA040670,Life Skills,Business Communication - Java Stream,2.3
+DLPJ0418JA040670,PJP  Webinar,DLPJ0418Java_Webinar,1.5
+DLPJ0418JA040670,Testing Concepts.,DLPJP18JAVAB4_Testing,0.6
+DLPJ0418JA040671,Life Skills,Business Communication - Java Stream,0.5
+DLPJ0418JA040672,IT Foundation Skills,DLPJP18JAVAB4_Foundation,17
+DLPJ0418JA040672,JAVA - Online,DLPJP18JAVAB4_Java Programming Fundamentals,35.3
+DLPJ0418JA040672,Life Skills,Business Communication - Java Stream,2.7
+DLPJ0418JA040672,PJP  Webinar,DLPJ0418Java_Webinar,1
+DLPJ0418JA040672,Testing Concepts.,DLPJP18JAVAB4_Testing,2.5
+DLPJ0418JA040673,IT Foundation Skills,DLPJP18JAVAB4_Foundation,13.2
+DLPJ0418JA040673,JAVA - Online,DLPJP18JAVAB4_Java Programming Fundamentals,34.5
+DLPJ0418JA040673,Life Skills,Business Communication - Java Stream,3.5
+DLPJ0418JA040673,Testing Concepts.,DLPJP18JAVAB4_Testing,2.7
+DLPJ0418JA040674,Life Skills,Business Communication - Java Stream,0.5
+DLPJ0418JA040674,PJP  Webinar,DLPJ0418Java_Webinar,0.2
+DLPJ0418JA040675,IT Foundation Skills,DLPJP18JAVAB4_Foundation,21
+DLPJ0418JA040675,JAVA - Online,DLPJP18JAVAB4_Java Programming Fundamentals,43.8
+DLPJ0418JA040675,Life Skills,Business Communication - Java Stream,5.5
+DLPJ0418JA040675,PJP  Webinar,DLPJ0418Java_Webinar,0.4
+DLPJ0418JA040675,Testing Concepts.,DLPJP18JAVAB4_Testing,4.9
+DLPJ0418JA040676,IT Foundation Skills,DLPJP18JAVAB4_Foundation,9.4
+DLPJ0418JA040676,JAVA - Online,DLPJP18JAVAB4_Java Programming Fundamentals,8.8
+DLPJ0418JA040676,Life Skills,Business Communication - Java Stream,0.8
+DLPJ0418JA040676,PJP  Webinar,DLPJ0418Java_Webinar,0.3
+DLPJ0418JA040676,Testing Concepts.,DLPJP18JAVAB4_Testing,3.6
+DLPJ0418JA040677,Life Skills,Business Communication - Java Stream,5.2
+DLPJ0418JA040678,IT Foundation Skills,DLPJP18JAVAB4_Foundation,9.8
+DLPJ0418JA040678,JAVA - Online,DLPJP18JAVAB4_Java Programming Fundamentals,17.6
+DLPJ0418JA040678,Life Skills,Business Communication - Java Stream,2.5
+DLPJ0418JA040678,PJP  Webinar,DLPJ0418Java_Webinar,0
+DLPJ0418JA040678,Testing Concepts.,DLPJP18JAVAB4_Testing,2.8
+DLPJ0418JA040679,IT Foundation Skills,DLPJP18JAVAB4_Foundation,11.8
+DLPJ0418JA040679,JAVA - Online,DLPJP18JAVAB4_Java Programming Fundamentals,20.2
+DLPJ0418JA040679,Life Skills,Business Communication - Java Stream,1.3
+DLPJ0418JA040679,PJP  Webinar,DLPJ0418Java_Webinar,0.4
+DLPJ0418JA040679,Testing Concepts.,DLPJP18JAVAB4_Testing,1.3
+DLPJ0418JA040680,IT Foundation Skills,DLPJP18JAVAB4_Foundation,16.4
+DLPJ0418JA040680,JAVA - Online,DLPJP18JAVAB4_Java Programming Fundamentals,40.4
+DLPJ0418JA040680,Life Skills,Business Communication - Java Stream,2.2
+DLPJ0418JA040680,PJP  Webinar,DLPJ0418Java_Webinar,0.2
+DLPJ0418JA040680,Testing Concepts.,DLPJP18JAVAB4_Testing,3.5
+DLPJ0418JA040681,IT Foundation Skills,DLPJP18JAVAB4_Foundation,12.6
+DLPJ0418JA040681,JAVA - Online,DLPJP18JAVAB4_Java Programming Fundamentals,22.7
+DLPJ0418JA040681,Life Skills,Business Communication - Java Stream,2.1
+DLPJ0418JA040681,PJP  Webinar,DLPJ0418Java_Webinar,1.2
+DLPJ0418JA040681,Testing Concepts.,DLPJP18JAVAB4_Testing,0.9
+DLPJ0418JA040682,IT Foundation Skills,DLPJP18JAVAB4_Foundation,11.5
+DLPJ0418JA040682,JAVA - Online,DLPJP18JAVAB4_Java Programming Fundamentals,13.7
+DLPJ0418JA040682,Life Skills,Business Communication - Java Stream,1.2
+DLPJ0418JA040682,PJP  Webinar,DLPJ0418Java_Webinar,0
+DLPJ0418JA040682,Testing Concepts.,DLPJP18JAVAB4_Testing,1.5
+DLPJ0418JA040683,IT Foundation Skills,DLPJP18JAVAB4_Foundation,13.2
+DLPJ0418JA040683,JAVA - Online,DLPJP18JAVAB4_Java Programming Fundamentals,29
+DLPJ0418JA040683,Life Skills,Business Communication - Java Stream,2.4
+DLPJ0418JA040683,PJP  Webinar,DLPJ0418Java_Webinar,0.4
+DLPJ0418JA040683,Testing Concepts.,DLPJP18JAVAB4_Testing,2.9
+DLPJ0418JA040684,IT Foundation Skills,DLPJP18JAVAB4_Foundation,19.7
+DLPJ0418JA040684,JAVA - Online,DLPJP18JAVAB4_Java Programming Fundamentals,20.9
+DLPJ0418JA040684,Life Skills,Business Communication - Java Stream,2.2
+DLPJ0418JA040684,PJP  Webinar,DLPJ0418Java_Webinar,1.1
+DLPJ0418JA040684,Testing Concepts.,DLPJP18JAVAB4_Testing,3.3
+DLPJ0418JA040685,IT Foundation Skills,DLPJP18JAVAB4_Foundation,15.8
+DLPJ0418JA040685,JAVA - Online,DLPJP18JAVAB4_Java Programming Fundamentals,16.5
+DLPJ0418JA040685,Life Skills,Business Communication - Java Stream,1.5
+DLPJ0418JA040685,PJP  Webinar,DLPJ0418Java_Webinar,1.5
+DLPJ0418JA040685,Testing Concepts.,DLPJP18JAVAB4_Testing,1.5
+DLPJ0418JA040686,IT Foundation Skills,DLPJP18JAVAB4_Foundation,16.6
+DLPJ0418JA040686,JAVA - Online,DLPJP18JAVAB4_Java Programming Fundamentals,41.9
+DLPJ0418JA040686,Life Skills,Business Communication - Java Stream,2.2
+DLPJ0418JA040686,PJP  Webinar,DLPJ0418Java_Webinar,0.5
+DLPJ0418JA040686,Testing Concepts.,DLPJP18JAVAB4_Testing,1.8
+DLPJ0418JA040687,IT Foundation Skills,DLPJP18JAVAB4_Foundation,11.1
+DLPJ0418JA040687,JAVA - Online,DLPJP18JAVAB4_Java Programming Fundamentals,24
+DLPJ0418JA040687,Life Skills,Business Communication - Java Stream,0
+DLPJ0418JA040687,PJP  Webinar,DLPJ0418Java_Webinar,0
+DLPJ0418JA040687,Testing Concepts.,DLPJP18JAVAB4_Testing,1.8
+DLPJ0418JA040691,IT Foundation Skills,DLPJP18JAVAB4_Foundation,13.2
+DLPJ0418JA040691,JAVA - Online,DLPJP18JAVAB4_Java Programming Fundamentals,33.3
+DLPJ0418JA040691,Life Skills,Business Communication - Java Stream,0.9
+DLPJ0418JA040691,PJP  Webinar,DLPJ0418Java_Webinar,0.2
+DLPJ0418JA040691,Testing Concepts.,DLPJP18JAVAB4_Testing,2.3
+DLPJ0418JA040692,IT Foundation Skills,DLPJP18JAVAB4_Foundation,13.5
+DLPJ0418JA040692,JAVA - Online,DLPJP18JAVAB4_Java Programming Fundamentals,18.3
+DLPJ0418JA040692,Life Skills,Business Communication - Java Stream,2.9
+DLPJ0418JA040692,PJP  Webinar,DLPJ0418Java_Webinar,0.1
+DLPJ0418JA040692,Testing Concepts.,DLPJP18JAVAB4_Testing,1.4
+DLPJ0418JA040693,IT Foundation Skills,DLPJP18JAVAB4_Foundation,5.1
+DLPJ0418JA040693,JAVA - Online,DLPJP18JAVAB4_Java Programming Fundamentals,10.7
+DLPJ0418JA040693,Life Skills,Business Communication - Java Stream,1.4
+DLPJ0418JA040693,PJP  Webinar,DLPJ0418Java_Webinar,0.1
+DLPJ0418JA040693,Testing Concepts.,DLPJP18JAVAB4_Testing,0.9
+DLPJ0418JA040694,IT Foundation Skills,DLPJP18JAVAB4_Foundation,8.4
+DLPJ0418JA040694,JAVA - Online,DLPJP18JAVAB4_Java Programming Fundamentals,22.1
+DLPJ0418JA040694,Life Skills,Business Communication - Java Stream,1.4
+DLPJ0418JA040694,PJP  Webinar,DLPJ0418Java_Webinar,0.7
+DLPJ0418JA040694,Testing Concepts.,DLPJP18JAVAB4_Testing,1
+DLPJ0418JA040695,IT Foundation Skills,DLPJP18JAVAB4_Foundation,10.6
+DLPJ0418JA040695,JAVA - Online,DLPJP18JAVAB4_Java Programming Fundamentals,23.3
+DLPJ0418JA040695,Life Skills,Business Communication - Java Stream,2.2
+DLPJ0418JA040695,PJP  Webinar,DLPJ0418Java_Webinar,0.4
+DLPJ0418JA040695,Testing Concepts.,DLPJP18JAVAB4_Testing,1.9
+DLPJ0418JA040696,IT Foundation Skills,DLPJP18JAVAB4_Foundation,20.9
+DLPJ0418JA040696,JAVA - Online,DLPJP18JAVAB4_Java Programming Fundamentals,40.5
+DLPJ0418JA040696,Life Skills,Business Communication - Java Stream,3.2
+DLPJ0418JA040696,PJP  Webinar,DLPJ0418Java_Webinar,0.1
+DLPJ0418JA040696,Testing Concepts.,DLPJP18JAVAB4_Testing,1.9
+DLPJ0418JA040697,IT Foundation Skills,DLPJP18JAVAB4_Foundation,13.7
+DLPJ0418JA040697,JAVA - Online,DLPJP18JAVAB4_Java Programming Fundamentals,38.3
+DLPJ0418JA040697,PJP  Webinar,DLPJ0418Java_Webinar,0.1
+DLPJ0418JA040698,PJP  Webinar,DLPJ0418Java_Webinar,0
+DLPJ0418JA040700,IT Foundation Skills,DLPJP18JAVAB4_Foundation,10
+DLPJ0418JA040700,JAVA - Online,DLPJP18JAVAB4_Java Programming Fundamentals,25.7
+DLPJ0418JA040700,Life Skills,Business Communication - Java Stream,1.6
+DLPJ0418JA040700,PJP  Webinar,DLPJ0418Java_Webinar,0.2
+DLPJ0418JA040700,Testing Concepts.,DLPJP18JAVAB4_Testing,1.4
+DLPJ0418JA040701,IT Foundation Skills,DLPJP18JAVAB4_Foundation,13.9
+DLPJ0418JA040701,JAVA - Online,DLPJP18JAVAB4_Java Programming Fundamentals,9.6
+DLPJ0418JA040701,Life Skills,Business Communication - Java Stream,2.5
+DLPJ0418JA040701,PJP  Webinar,DLPJ0418Java_Webinar,2.1
+DLPJ0418JA040701,Testing Concepts.,DLPJP18JAVAB4_Testing,1.9
+DLPJ0418JA040702,IT Foundation Skills,DLPJP18JAVAB4_Foundation,5.9
+DLPJ0418JA040702,JAVA - Online,DLPJP18JAVAB4_Java Programming Fundamentals,31.7
+DLPJ0418JA040702,Life Skills,Business Communication - Java Stream,1.4
+DLPJ0418JA040702,PJP  Webinar,DLPJ0418Java_Webinar,0.1
+DLPJ0418JA040702,Testing Concepts.,DLPJP18JAVAB4_Testing,2.1
+DLPJ0418JA040703,Life Skills,Business Communication - Java Stream,0
+DLPJ0418JA040703,PJP  Webinar,DLPJ0418Java_Webinar,0
+DLPJ0418JA040704,IT Foundation Skills,DLPJP18JAVAB4_Foundation,12.6
+DLPJ0418JA040704,JAVA - Online,DLPJP18JAVAB4_Java Programming Fundamentals,50.6
+DLPJ0418JA040704,Life Skills,Business Communication - Java Stream,2.2
+DLPJ0418JA040704,PJP  Webinar,DLPJ0418Java_Webinar,0.2
+DLPJ0418JA040704,Testing Concepts.,DLPJP18JAVAB4_Testing,3.6
+DLPJ0418JA040707,IT Foundation Skills,DLPJP18JAVAB4_Foundation,12.7
+DLPJ0418JA040707,JAVA - Online,DLPJP18JAVAB4_Java Programming Fundamentals,28.7
+DLPJ0418JA040707,Life Skills,Business Communication - Java Stream,0.7
+DLPJ0418JA040707,PJP  Webinar,DLPJ0418Java_Webinar,0.1
+DLPJ0418JA040707,Testing Concepts.,DLPJP18JAVAB4_Testing,1.8
+DLPJ0418JA040708,IT Foundation Skills,DLPJP18JAVAB4_Foundation,17
+DLPJ0418JA040708,JAVA - Online,DLPJP18JAVAB4_Java Programming Fundamentals,41.8
+DLPJ0418JA040708,Life Skills,Business Communication - Java Stream,2.4
+DLPJ0418JA040708,PJP  Webinar,DLPJ0418Java_Webinar,2.4
+DLPJ0418JA040708,Testing Concepts.,DLPJP18JAVAB4_Testing,2.2
+DLPJ0418JA040709,IT Foundation Skills,DLPJP18JAVAB4_Foundation,10.3
+DLPJ0418JA040709,JAVA - Online,DLPJP18JAVAB4_Java Programming Fundamentals,21.1
+DLPJ0418JA040709,Life Skills,Business Communication - Java Stream,0.3
+DLPJ0418JA040709,PJP  Webinar,DLPJ0418Java_Webinar,0
+DLPJ0418JA040709,Testing Concepts.,DLPJP18JAVAB4_Testing,0.7
+DLPJ0418JA040711,IT Foundation Skills,DLPJP18JAVAB4_Foundation,6.5
+DLPJ0418JA040711,JAVA - Online,DLPJP18JAVAB4_Java Programming Fundamentals,9.6
+DLPJ0418JA040711,Life Skills,Business Communication - Java Stream,2.6
+DLPJ0418JA040711,Testing Concepts.,DLPJP18JAVAB4_Testing,1.3
+DLPJ0418JA040712,IT Foundation Skills,DLPJP18JAVAB4_Foundation,14.4
+DLPJ0418JA040712,JAVA - Online,DLPJP18JAVAB4_Java Programming Fundamentals,6.7
+DLPJ0418JA040712,Life Skills,Business Communication - Java Stream,1.4
+DLPJ0418JA040712,PJP  Webinar,DLPJ0418Java_Webinar,0
+DLPJ0418JA040712,Testing Concepts.,DLPJP18JAVAB4_Testing,0.9
+DLPJ0418JA040713,IT Foundation Skills,DLPJP18JAVAB4_Foundation,5.3
+DLPJ0418JA040713,JAVA - Online,DLPJP18JAVAB4_Java Programming Fundamentals,17.2
+DLPJ0418JA040713,Life Skills,Business Communication - Java Stream,0.9
+DLPJ0418JA040713,PJP  Webinar,DLPJ0418Java_Webinar,0.3
+DLPJ0418JA040713,Testing Concepts.,DLPJP18JAVAB4_Testing,1.1
+DLPJ0418JA040714,IT Foundation Skills,DLPJP18JAVAB4_Foundation,11.5
+DLPJ0418JA040714,JAVA - Online,DLPJP18JAVAB4_Java Programming Fundamentals,5.3
+DLPJ0418JA040714,Life Skills,Business Communication - Java Stream,1.7
+DLPJ0418JA040714,PJP  Webinar,DLPJ0418Java_Webinar,0
+DLPJ0418JA040714,Testing Concepts.,DLPJP18JAVAB4_Testing,0.1
+DLPJ0418JA040715,IT Foundation Skills,DLPJP18JAVAB4_Foundation,18.4
+DLPJ0418JA040715,JAVA - Online,DLPJP18JAVAB4_Java Programming Fundamentals,39.2
+DLPJ0418JA040715,Life Skills,Business Communication - Java Stream,2.4
+DLPJ0418JA040715,PJP  Webinar,DLPJ0418Java_Webinar,0.4
+DLPJ0418JA040715,Testing Concepts.,DLPJP18JAVAB4_Testing,1.5
+DLPJ0418JA040718,IT Foundation Skills,DLPJP18JAVAB4_Foundation,25.3
+DLPJ0418JA040718,JAVA - Online,DLPJP18JAVAB4_Java Programming Fundamentals,69
+DLPJ0418JA040718,Life Skills,Business Communication - Java Stream,2.8
+DLPJ0418JA040718,PJP  Webinar,DLPJ0418Java_Webinar,0.3
+DLPJ0418JA040718,Testing Concepts.,DLPJP18JAVAB4_Testing,2.1
+DLPJ0418JA040719,IT Foundation Skills,DLPJP18JAVAB4_Foundation,18.2
+DLPJ0418JA040719,JAVA - Online,DLPJP18JAVAB4_Java Programming Fundamentals,51.9
+DLPJ0418JA040719,Life Skills,Business Communication - Java Stream,2.6
+DLPJ0418JA040719,PJP  Webinar,DLPJ0418Java_Webinar,1.9
+DLPJ0418JA040719,Testing Concepts.,DLPJP18JAVAB4_Testing,3.5
+DLPJ0418JA040721,IT Foundation Skills,DLPJP18JAVAB4_Foundation,1.7
+DLPJ0418JA040721,Life Skills,Business Communication - Java Stream,1.4
+DLPJ0418JA040721,PJP  Webinar,DLPJ0418Java_Webinar,0.2
+DLPJ0418JA040722,IT Foundation Skills,DLPJP18JAVAB4_Foundation,5.7
+DLPJ0418JA040722,JAVA - Online,DLPJP18JAVAB4_Java Programming Fundamentals,9.3
+DLPJ0418JA040722,Life Skills,Business Communication - Java Stream,1.6
+DLPJ0418JA040722,PJP  Webinar,DLPJ0418Java_Webinar,0.8
+DLPJ0418JA040722,Testing Concepts.,DLPJP18JAVAB4_Testing,0.6
+DLPJ0418JA040724,IT Foundation Skills,DLPJP18JAVAB4_Foundation,7.8
+DLPJ0418JA040724,JAVA - Online,DLPJP18JAVAB4_Java Programming Fundamentals,28.6
+DLPJ0418JA040724,Life Skills,Business Communication - Java Stream,1.3
+DLPJ0418JA040724,PJP  Webinar,DLPJ0418Java_Webinar,0.5
+DLPJ0418JA040724,Testing Concepts.,DLPJP18JAVAB4_Testing,2.1
+DLPJ0418JA040725,IT Foundation Skills,DLPJP18JAVAB4_Foundation,13.5
+DLPJ0418JA040725,JAVA - Online,DLPJP18JAVAB4_Java Programming Fundamentals,31.4
+DLPJ0418JA040725,Life Skills,Business Communication - Java Stream,1.6
+DLPJ0418JA040725,PJP  Webinar,DLPJ0418Java_Webinar,1
+DLPJ0418JA040725,Testing Concepts.,DLPJP18JAVAB4_Testing,1.3
+DLPJ0418JA040726,IT Foundation Skills,DLPJP18JAVAB4_Foundation,18.7
+DLPJ0418JA040726,JAVA - Online,DLPJP18JAVAB4_Java Programming Fundamentals,33.4
+DLPJ0418JA040726,Life Skills,Business Communication - Java Stream,1.3
+DLPJ0418JA040726,PJP  Webinar,DLPJ0418Java_Webinar,0.1
+DLPJ0418JA040726,Testing Concepts.,DLPJP18JAVAB4_Testing,4
+DLPJ0418JA040727,IT Foundation Skills,DLPJP18JAVAB4_Foundation,2.7
+DLPJ0418JA040727,JAVA - Online,DLPJP18JAVAB4_Java Programming Fundamentals,1.4
+DLPJ0418JA040727,Life Skills,Business Communication - Java Stream,0.9
+DLPJ0418JA040727,PJP  Webinar,DLPJ0418Java_Webinar,0.2
+DLPJ0418JA040727,Testing Concepts.,DLPJP18JAVAB4_Testing,0.1
+DLPJ0418JA040728,IT Foundation Skills,DLPJP18JAVAB4_Foundation,17.8
+DLPJ0418JA040728,JAVA - Online,DLPJP18JAVAB4_Java Programming Fundamentals,45
+DLPJ0418JA040728,Life Skills,Business Communication - Java Stream,0.1
+DLPJ0418JA040728,PJP  Webinar,DLPJ0418Java_Webinar,2
+DLPJ0418JA040728,Testing Concepts.,DLPJP18JAVAB4_Testing,1.9
+DLPJ0418JA040729,IT Foundation Skills,DLPJP18JAVAB4_Foundation,17.1
+DLPJ0418JA040729,JAVA - Online,DLPJP18JAVAB4_Java Programming Fundamentals,32.1
+DLPJ0418JA040729,Life Skills,Business Communication - Java Stream,2.8
+DLPJ0418JA040729,PJP  Webinar,DLPJ0418Java_Webinar,0.3
+DLPJ0418JA040729,Testing Concepts.,DLPJP18JAVAB4_Testing,4.5
+DLPJ0418JA040730,IT Foundation Skills,DLPJP18JAVAB4_Foundation,15.4
+DLPJ0418JA040730,JAVA - Online,DLPJP18JAVAB4_Java Programming Fundamentals,20.7
+DLPJ0418JA040730,Life Skills,Business Communication - Java Stream,1.2
+DLPJ0418JA040730,PJP  Webinar,DLPJ0418Java_Webinar,0.2
+DLPJ0418JA040730,Testing Concepts.,DLPJP18JAVAB4_Testing,2.5
+DLPJ0418JA040732,IT Foundation Skills,DLPJP18JAVAB4_Foundation,18.2
+DLPJ0418JA040732,JAVA - Online,DLPJP18JAVAB4_Java Programming Fundamentals,47.3
+DLPJ0418JA040732,Life Skills,Business Communication - Java Stream,2.7
+DLPJ0418JA040732,PJP  Webinar,DLPJ0418Java_Webinar,0
+DLPJ0418JA040732,Testing Concepts.,DLPJP18JAVAB4_Testing,4.6
+DLPJ0418JA040733,IT Foundation Skills,DLPJP18JAVAB4_Foundation,7
+DLPJ0418JA040733,JAVA - Online,DLPJP18JAVAB4_Java Programming Fundamentals,18.7
+DLPJ0418JA040733,Life Skills,Business Communication - Java Stream,2.3
+DLPJ0418JA040734,IT Foundation Skills,DLPJP18JAVAB4_Foundation,12.4
+DLPJ0418JA040734,JAVA - Online,DLPJP18JAVAB4_Java Programming Fundamentals,16.9
+DLPJ0418JA040734,Life Skills,Business Communication - Java Stream,1.4
+DLPJ0418JA040734,PJP  Webinar,DLPJ0418Java_Webinar,1.1
+DLPJ0418JA040734,Testing Concepts.,DLPJP18JAVAB4_Testing,0.9
+DLPJ0418JA040735,IT Foundation Skills,DLPJP18JAVAB4_Foundation,20.8
+DLPJ0418JA040735,JAVA - Online,DLPJP18JAVAB4_Java Programming Fundamentals,20.3
+DLPJ0418JA040735,Life Skills,Business Communication - Java Stream,2.3
+DLPJ0418JA040735,PJP  Webinar,DLPJ0418Java_Webinar,0.2
+DLPJ0418JA040735,Testing Concepts.,DLPJP18JAVAB4_Testing,2.2
+DLPJ0418JA040736,IT Foundation Skills,DLPJP18JAVAB4_Foundation,16.3
+DLPJ0418JA040736,JAVA - Online,DLPJP18JAVAB4_Java Programming Fundamentals,44.5
+DLPJ0418JA040736,Life Skills,Business Communication - Java Stream,0.4
+DLPJ0418JA040736,PJP  Webinar,DLPJ0418Java_Webinar,1.6
+DLPJ0418JA040736,Testing Concepts.,DLPJP18JAVAB4_Testing,3.8
+DLPJ0418JA040737,IT Foundation Skills,DLPJP18JAVAB4_Foundation,16
+DLPJ0418JA040737,JAVA - Online,DLPJP18JAVAB4_Java Programming Fundamentals,46.9
+DLPJ0418JA040737,Life Skills,Business Communication - Java Stream,2.2
+DLPJ0418JA040737,PJP  Webinar,DLPJ0418Java_Webinar,1.1
+DLPJ0418JA040737,Testing Concepts.,DLPJP18JAVAB4_Testing,3.3
+DLPJ0418JA040738,IT Foundation Skills,DLPJP18JAVAB4_Foundation,17.4
+DLPJ0418JA040738,JAVA - Online,DLPJP18JAVAB4_Java Programming Fundamentals,40.3
+DLPJ0418JA040738,Life Skills,Business Communication - Java Stream,0.5
+DLPJ0418JA040738,Testing Concepts.,DLPJP18JAVAB4_Testing,2
+DLPJ0418JA040739,IT Foundation Skills,DLPJP18JAVAB4_Foundation,11.7
+DLPJ0418JA040739,JAVA - Online,DLPJP18JAVAB4_Java Programming Fundamentals,30.4
+DLPJ0418JA040739,Life Skills,Business Communication - Java Stream,1.8
+DLPJ0418JA040739,PJP  Webinar,DLPJ0418Java_Webinar,0
+DLPJ0418JA040739,Testing Concepts.,DLPJP18JAVAB4_Testing,1.8
+DLPJ0418JA040740,IT Foundation Skills,DLPJP18JAVAB4_Foundation,12.2
+DLPJ0418JA040740,JAVA - Online,DLPJP18JAVAB4_Java Programming Fundamentals,23.1
+DLPJ0418JA040740,Life Skills,Business Communication - Java Stream,1.6
+DLPJ0418JA040740,PJP  Webinar,DLPJ0418Java_Webinar,0.3
+DLPJ0418JA040740,Testing Concepts.,DLPJP18JAVAB4_Testing,1.8
+DLPJ0418JA040741,IT Foundation Skills,DLPJP18JAVAB4_Foundation,16.1
+DLPJ0418JA040741,JAVA - Online,DLPJP18JAVAB4_Java Programming Fundamentals,35.7
+DLPJ0418JA040741,Life Skills,Business Communication - Java Stream,3.4
+DLPJ0418JA040741,PJP  Webinar,DLPJ0418Java_Webinar,0.5
+DLPJ0418JA040741,Testing Concepts.,DLPJP18JAVAB4_Testing,3.3
+DLPJ0418JA040742,IT Foundation Skills,DLPJP18JAVAB4_Foundation,5.6
+DLPJ0418JA040742,JAVA - Online,DLPJP18JAVAB4_Java Programming Fundamentals,19
+DLPJ0418JA040742,Life Skills,Business Communication - Java Stream,1.1
+DLPJ0418JA040742,PJP  Webinar,DLPJ0418Java_Webinar,1.3
+DLPJ0418JA040742,Testing Concepts.,DLPJP18JAVAB4_Testing,2
+DLPJ0418JA040744,IT Foundation Skills,DLPJP18JAVAB4_Foundation,25.2
+DLPJ0418JA040744,JAVA - Online,DLPJP18JAVAB4_Java Programming Fundamentals,38.2
+DLPJ0418JA040744,Life Skills,Business Communication - Java Stream,1.7
+DLPJ0418JA040744,PJP  Webinar,DLPJ0418Java_Webinar,0.6
+DLPJ0418JA040744,Testing Concepts.,DLPJP18JAVAB4_Testing,2.2
+DLPJ0418JA040745,IT Foundation Skills,DLPJP18JAVAB4_Foundation,6.7
+DLPJ0418JA040745,JAVA - Online,DLPJP18JAVAB4_Java Programming Fundamentals,13.6
+DLPJ0418JA040745,Life Skills,Business Communication - Java Stream,0.8
+DLPJ0418JA040745,Testing Concepts.,DLPJP18JAVAB4_Testing,1.1
+DLPJ0418JA040746,IT Foundation Skills,DLPJP18JAVAB4_Foundation,3.2
+DLPJ0418JA040746,Life Skills,Business Communication - Java Stream,1.7
+DLPJ0418JA040748,IT Foundation Skills,DLPJP18JAVAB4_Foundation,21.8
+DLPJ0418JA040748,JAVA - Online,DLPJP18JAVAB4_Java Programming Fundamentals,22.7
+DLPJ0418JA040748,Life Skills,Business Communication - Java Stream,2.6
+DLPJ0418JA040748,PJP  Webinar,DLPJ0418Java_Webinar,1.8
+DLPJ0418JA040748,Testing Concepts.,DLPJP18JAVAB4_Testing,5.2
+DLPJ0418JA040749,IT Foundation Skills,DLPJP18JAVAB4_Foundation,6.9
+DLPJ0418JA040749,JAVA - Online,DLPJP18JAVAB4_Java Programming Fundamentals,24.8
+DLPJ0418JA040749,Life Skills,Business Communication - Java Stream,0.4
+DLPJ0418JA040749,PJP  Webinar,DLPJ0418Java_Webinar,0.1
+DLPJ0418JA040749,Testing Concepts.,DLPJP18JAVAB4_Testing,1
+DLPJ0418JA040750,IT Foundation Skills,DLPJP18JAVAB4_Foundation,16.8
+DLPJ0418JA040750,JAVA - Online,DLPJP18JAVAB4_Java Programming Fundamentals,24.2
+DLPJ0418JA040750,Life Skills,Business Communication - Java Stream,4.3
+DLPJ0418JA040750,PJP  Webinar,DLPJ0418Java_Webinar,1
+DLPJ0418JA040750,Testing Concepts.,DLPJP18JAVAB4_Testing,3.4
+DLPJ0418JA040751,IT Foundation Skills,DLPJP18JAVAB4_Foundation,18.3
+DLPJ0418JA040751,JAVA - Online,DLPJP18JAVAB4_Java Programming Fundamentals,16.5
+DLPJ0418JA040751,Life Skills,Business Communication - Java Stream,2.3
+DLPJ0418JA040751,PJP  Webinar,DLPJ0418Java_Webinar,0.6
+DLPJ0418JA040751,Testing Concepts.,DLPJP18JAVAB4_Testing,3.1
+DLPJ0418JA040752,IT Foundation Skills,DLPJP18JAVAB4_Foundation,3.9
+DLPJ0418JA040752,Life Skills,Business Communication - Java Stream,3.2
+DLPJ0418JA040752,PJP  Webinar,DLPJ0418Java_Webinar,0.5
+DLPJ0418JA040753,IT Foundation Skills,DLPJP18JAVAB4_Foundation,11.5
+DLPJ0418JA040753,JAVA - Online,DLPJP18JAVAB4_Java Programming Fundamentals,32.2
+DLPJ0418JA040753,PJP  Webinar,DLPJ0418Java_Webinar,1.7
+DLPJ0418JA040753,Testing Concepts.,DLPJP18JAVAB4_Testing,2.6
+DLPJ0418JA040755,IT Foundation Skills,DLPJP18JAVAB4_Foundation,27.6
+DLPJ0418JA040755,JAVA - Online,DLPJP18JAVAB4_Java Programming Fundamentals,33.7
+DLPJ0418JA040755,Life Skills,Business Communication - Java Stream,6.9
+DLPJ0418JA040755,PJP  Webinar,DLPJ0418Java_Webinar,1
+DLPJ0418JA040755,Testing Concepts.,DLPJP18JAVAB4_Testing,7.3
+DLPJ0418JA040756,IT Foundation Skills,DLPJP18JAVAB4_Foundation,12.5
+DLPJ0418JA040756,JAVA - Online,DLPJP18JAVAB4_Java Programming Fundamentals,14.9
+DLPJ0418JA040756,Life Skills,Business Communication - Java Stream,3
+DLPJ0418JA040756,PJP  Webinar,DLPJ0418Java_Webinar,0
+DLPJ0418JA040756,Testing Concepts.,DLPJP18JAVAB4_Testing,0.8
+DLPJ0418JA040757,IT Foundation Skills,DLPJP18JAVAB4_Foundation,5.3
+DLPJ0418JA040757,JAVA - Online,DLPJP18JAVAB4_Java Programming Fundamentals,13.6
+DLPJ0418JA040757,Life Skills,Business Communication - Java Stream,0.3
+DLPJ0418JA040757,PJP  Webinar,DLPJ0418Java_Webinar,0
+DLPJ0418JA040757,Testing Concepts.,DLPJP18JAVAB4_Testing,0.1
+DLPJ0418JA040758,IT Foundation Skills,DLPJP18JAVAB4_Foundation,13.3
+DLPJ0418JA040758,JAVA - Online,DLPJP18JAVAB4_Java Programming Fundamentals,1.6
+DLPJ0418JA040758,Life Skills,Business Communication - Java Stream,0.5
+DLPJ0418JA040758,PJP  Webinar,DLPJ0418Java_Webinar,0
+DLPJ0418JA040759,IT Foundation Skills,DLPJP18JAVAB4_Foundation,9.6
+DLPJ0418JA040759,JAVA - Online,DLPJP18JAVAB4_Java Programming Fundamentals,15.5
+DLPJ0418JA040759,Life Skills,Business Communication - Java Stream,2
+DLPJ0418JA040759,PJP  Webinar,DLPJ0418Java_Webinar,0.3
+DLPJ0418JA040759,Testing Concepts.,DLPJP18JAVAB4_Testing,1.8
+DLPJ0418JA040761,IT Foundation Skills,DLPJP18JAVAB4_Foundation,21.2
+DLPJ0418JA040761,JAVA - Online,DLPJP18JAVAB4_Java Programming Fundamentals,26.8
+DLPJ0418JA040761,Life Skills,Business Communication - Java Stream,3.5
+DLPJ0418JA040761,PJP  Webinar,DLPJ0418Java_Webinar,0
+DLPJ0418JA040761,Testing Concepts.,DLPJP18JAVAB4_Testing,3.3
+DLPJ0418JA040762,IT Foundation Skills,DLPJP18JAVAB4_Foundation,16.5
+DLPJ0418JA040762,JAVA - Online,DLPJP18JAVAB4_Java Programming Fundamentals,7.5
+DLPJ0418JA040762,Life Skills,Business Communication - Java Stream,3
+DLPJ0418JA040762,PJP  Webinar,DLPJ0418Java_Webinar,0
+DLPJ0418JA040762,Testing Concepts.,DLPJP18JAVAB4_Testing,1.4
+DLPJ0418JA040763,IT Foundation Skills,DLPJP18JAVAB4_Foundation,14.2
+DLPJ0418JA040763,JAVA - Online,DLPJP18JAVAB4_Java Programming Fundamentals,41.7
+DLPJ0418JA040763,Life Skills,Business Communication - Java Stream,0.2
+DLPJ0418JA040763,PJP  Webinar,DLPJ0418Java_Webinar,2.5
+DLPJ0418JA040763,Testing Concepts.,DLPJP18JAVAB4_Testing,2.6
+DLPJ0418JA040764,IT Foundation Skills,DLPJP18JAVAB4_Foundation,11.2
+DLPJ0418JA040764,JAVA - Online,DLPJP18JAVAB4_Java Programming Fundamentals,20.1
+DLPJ0418JA040764,Life Skills,Business Communication - Java Stream,1.6
+DLPJ0418JA040764,PJP  Webinar,DLPJ0418Java_Webinar,2.8
+DLPJ0418JA040764,Testing Concepts.,DLPJP18JAVAB4_Testing,0.4
+DLPJ0418JA040765,IT Foundation Skills,DLPJP18JAVAB4_Foundation,16.4
+DLPJ0418JA040765,JAVA - Online,DLPJP18JAVAB4_Java Programming Fundamentals,8.9
+DLPJ0418JA040765,Life Skills,Business Communication - Java Stream,0.2
+DLPJ0418JA040765,PJP  Webinar,DLPJ0418Java_Webinar,0.6
+DLPJ0418JA040765,Testing Concepts.,DLPJP18JAVAB4_Testing,1.6
+DLPJ0418JA040766,IT Foundation Skills,DLPJP18JAVAB4_Foundation,16.5
+DLPJ0418JA040766,JAVA - Online,DLPJP18JAVAB4_Java Programming Fundamentals,34.5
+DLPJ0418JA040766,Life Skills,Business Communication - Java Stream,0.4
+DLPJ0418JA040766,PJP  Webinar,DLPJ0418Java_Webinar,1.4
+DLPJ0418JA040766,Testing Concepts.,DLPJP18JAVAB4_Testing,3.6
+DLPJ0418JA040767,IT Foundation Skills,DLPJP18JAVAB4_Foundation,20.9
+DLPJ0418JA040767,JAVA - Online,DLPJP18JAVAB4_Java Programming Fundamentals,38.2
+DLPJ0418JA040767,Life Skills,Business Communication - Java Stream,2.4
+DLPJ0418JA040767,PJP  Webinar,DLPJ0418Java_Webinar,0.2
+DLPJ0418JA040767,Testing Concepts.,DLPJP18JAVAB4_Testing,1.7
+DLPJ0418JA040768,IT Foundation Skills,DLPJP18JAVAB4_Foundation,8.3
+DLPJ0418JA040768,JAVA - Online,DLPJP18JAVAB4_Java Programming Fundamentals,12.1
+DLPJ0418JA040768,Life Skills,Business Communication - Java Stream,0.8
+DLPJ0418JA040768,PJP  Webinar,DLPJ0418Java_Webinar,0
+DLPJ0418JA040768,Testing Concepts.,DLPJP18JAVAB4_Testing,1
+DLPJ0418JA040770,IT Foundation Skills,DLPJP18JAVAB4_Foundation,2.5
+DLPJ0418JA040770,JAVA - Online,DLPJP18JAVAB4_Java Programming Fundamentals,0.6
+DLPJ0418JA040770,Life Skills,Business Communication - Java Stream,2.5
+DLPJ0418JA040770,PJP  Webinar,DLPJ0418Java_Webinar,0
+DLPJ0418JA040770,Testing Concepts.,DLPJP18JAVAB4_Testing,0.6
+DLPJ0418JA040771,IT Foundation Skills,DLPJP18JAVAB4_Foundation,9.3
+DLPJ0418JA040771,JAVA - Online,DLPJP18JAVAB4_Java Programming Fundamentals,31.1
+DLPJ0418JA040771,Life Skills,Business Communication - Java Stream,2.1
+DLPJ0418JA040771,PJP  Webinar,DLPJ0418Java_Webinar,0.1
+DLPJ0418JA040771,Testing Concepts.,DLPJP18JAVAB4_Testing,1.8
+DLPJ0418JA040772,IT Foundation Skills,DLPJP18JAVAB4_Foundation,11.7
+DLPJ0418JA040772,JAVA - Online,DLPJP18JAVAB4_Java Programming Fundamentals,39.1
+DLPJ0418JA040772,Life Skills,Business Communication - Java Stream,3.6
+DLPJ0418JA040772,PJP  Webinar,DLPJ0418Java_Webinar,1.6
+DLPJ0418JA040772,Testing Concepts.,DLPJP18JAVAB4_Testing,4.3
+DLPJ0418JA040773,IT Foundation Skills,DLPJP18JAVAB4_Foundation,21.8
+DLPJ0418JA040773,JAVA - Online,DLPJP18JAVAB4_Java Programming Fundamentals,32.5
+DLPJ0418JA040773,Life Skills,Business Communication - Java Stream,1.4
+DLPJ0418JA040773,PJP  Webinar,DLPJ0418Java_Webinar,0
+DLPJ0418JA040773,Testing Concepts.,DLPJP18JAVAB4_Testing,2.8
+DLPJ0418JA040774,IT Foundation Skills,DLPJP18JAVAB4_Foundation,20.1
+DLPJ0418JA040774,JAVA - Online,DLPJP18JAVAB4_Java Programming Fundamentals,38.5
+DLPJ0418JA040774,Life Skills,Business Communication - Java Stream,3.1
+DLPJ0418JA040774,PJP  Webinar,DLPJ0418Java_Webinar,1
+DLPJ0418JA040774,Testing Concepts.,DLPJP18JAVAB4_Testing,1.2
+DLPJ0418JA040775,IT Foundation Skills,DLPJP18JAVAB4_Foundation,18.9
+DLPJ0418JA040775,JAVA - Online,DLPJP18JAVAB4_Java Programming Fundamentals,43.8
+DLPJ0418JA040775,Life Skills,Business Communication - Java Stream,4.1
+DLPJ0418JA040775,PJP  Webinar,DLPJ0418Java_Webinar,0.5
+DLPJ0418JA040775,Testing Concepts.,DLPJP18JAVAB4_Testing,5.7
+DLPJ0418JA040776,IT Foundation Skills,DLPJP18JAVAB4_Foundation,16.9
+DLPJ0418JA040776,JAVA - Online,DLPJP18JAVAB4_Java Programming Fundamentals,17.6
+DLPJ0418JA040776,Life Skills,Business Communication - Java Stream,1.4
+DLPJ0418JA040776,PJP  Webinar,DLPJ0418Java_Webinar,0
+DLPJ0418JA040776,Testing Concepts.,DLPJP18JAVAB4_Testing,0.9
+DLPJ0418JA040777,IT Foundation Skills,DLPJP18JAVAB4_Foundation,10.7
+DLPJ0418JA040777,JAVA - Online,DLPJP18JAVAB4_Java Programming Fundamentals,3.1
+DLPJ0418JA040777,Life Skills,Business Communication - Java Stream,1.9
+DLPJ0418JA040777,PJP  Webinar,DLPJ0418Java_Webinar,0.4
+DLPJ0418JA040777,Testing Concepts.,DLPJP18JAVAB4_Testing,0.8
+DLPJ0418JA040778,IT Foundation Skills,DLPJP18JAVAB4_Foundation,7.7
+DLPJ0418JA040778,JAVA - Online,DLPJP18JAVAB4_Java Programming Fundamentals,12.5
+DLPJ0418JA040778,Life Skills,Business Communication - Java Stream,1.6
+DLPJ0418JA040778,PJP  Webinar,DLPJ0418Java_Webinar,0.5
+DLPJ0418JA040778,Testing Concepts.,DLPJP18JAVAB4_Testing,0.9
+DLPJ0418JA040779,IT Foundation Skills,DLPJP18JAVAB4_Foundation,19
+DLPJ0418JA040779,JAVA - Online,DLPJP18JAVAB4_Java Programming Fundamentals,34.5
+DLPJ0418JA040779,Life Skills,Business Communication - Java Stream,1.1
+DLPJ0418JA040779,PJP  Webinar,DLPJ0418Java_Webinar,0.1
+DLPJ0418JA040779,Testing Concepts.,DLPJP18JAVAB4_Testing,2.1
+DLPJ0418JA040780,IT Foundation Skills,DLPJP18JAVAB4_Foundation,7.1
+DLPJ0418JA040780,JAVA - Online,DLPJP18JAVAB4_Java Programming Fundamentals,21.3
+DLPJ0418JA040780,Life Skills,Business Communication - Java Stream,1.2
+DLPJ0418JA040780,PJP  Webinar,DLPJ0418Java_Webinar,0.4
+DLPJ0418JA040780,Testing Concepts.,DLPJP18JAVAB4_Testing,1.4
+DLPJ0418JA040781,IT Foundation Skills,DLPJP18JAVAB4_Foundation,11.6
+DLPJ0418JA040781,JAVA - Online,DLPJP18JAVAB4_Java Programming Fundamentals,7.5
+DLPJ0418JA040781,Life Skills,Business Communication - Java Stream,1.9
+DLPJ0418JA040781,PJP  Webinar,DLPJ0418Java_Webinar,0.1
+DLPJ0418JA040781,Testing Concepts.,DLPJP18JAVAB4_Testing,0.4
+DLPJ0418JA040782,IT Foundation Skills,DLPJP18JAVAB4_Foundation,12.1
+DLPJ0418JA040782,JAVA - Online,DLPJP18JAVAB4_Java Programming Fundamentals,35.6
+DLPJ0418JA040782,Life Skills,Business Communication - Java Stream,1.6
+DLPJ0418JA040782,PJP  Webinar,DLPJ0418Java_Webinar,0.3
+DLPJ0418JA040782,Testing Concepts.,DLPJP18JAVAB4_Testing,2
+DLPJ0418JA040783,IT Foundation Skills,DLPJP18JAVAB4_Foundation,9.3
+DLPJ0418JA040783,JAVA - Online,DLPJP18JAVAB4_Java Programming Fundamentals,12.6
+DLPJ0418JA040783,Life Skills,Business Communication - Java Stream,0
+DLPJ0418JA040783,PJP  Webinar,DLPJ0418Java_Webinar,0.4
+DLPJ0418JA040784,IT Foundation Skills,DLPJP18JAVAB4_Foundation,1
+DLPJ0418JA040784,Life Skills,Business Communication - Java Stream,2
+DLPJ0418JA040784,PJP  Webinar,DLPJ0418Java_Webinar,0.1
+DLPJ0418JA040785,IT Foundation Skills,DLPJP18JAVAB4_Foundation,28.1
+DLPJ0418JA040785,JAVA - Online,DLPJP18JAVAB4_Java Programming Fundamentals,28.4
+DLPJ0418JA040785,Life Skills,Business Communication - Java Stream,4.6
+DLPJ0418JA040785,PJP  Webinar,DLPJ0418Java_Webinar,0.6
+DLPJ0418JA040786,IT Foundation Skills,DLPJP18JAVAB4_Foundation,14.4
+DLPJ0418JA040786,JAVA - Online,DLPJP18JAVAB4_Java Programming Fundamentals,18.3
+DLPJ0418JA040786,Life Skills,Business Communication - Java Stream,2.3
+DLPJ0418JA040786,PJP  Webinar,DLPJ0418Java_Webinar,1.8
+DLPJ0418JA040786,Testing Concepts.,DLPJP18JAVAB4_Testing,3.5
+DLPJ0418JA040787,IT Foundation Skills,DLPJP18JAVAB4_Foundation,0.1
+DLPJ0418JA040787,Life Skills,Business Communication - Java Stream,2.5
+DLPJ0418JA040787,PJP  Webinar,DLPJ0418Java_Webinar,0
+DLPJ0418JA040789,IT Foundation Skills,DLPJP18JAVAB4_Foundation,16.1
+DLPJ0418JA040789,JAVA - Online,DLPJP18JAVAB4_Java Programming Fundamentals,28
+DLPJ0418JA040789,Life Skills,Business Communication - Java Stream,3.6
+DLPJ0418JA040789,PJP  Webinar,DLPJ0418Java_Webinar,0.1
+DLPJ0418JA040789,Testing Concepts.,DLPJP18JAVAB4_Testing,1.2
+DLPJ0418JA040790,IT Foundation Skills,DLPJP18JAVAB4_Foundation,10
+DLPJ0418JA040790,JAVA - Online,DLPJP18JAVAB4_Java Programming Fundamentals,20.7
+DLPJ0418JA040790,Life Skills,Business Communication - Java Stream,1.9
+DLPJ0418JA040790,PJP  Webinar,DLPJ0418Java_Webinar,0.3
+DLPJ0418JA040790,Testing Concepts.,DLPJP18JAVAB4_Testing,1.4
+DLPJ0418JA040791,IT Foundation Skills,DLPJP18JAVAB4_Foundation,11.3
+DLPJ0418JA040791,JAVA - Online,DLPJP18JAVAB4_Java Programming Fundamentals,27.9
+DLPJ0418JA040791,Life Skills,Business Communication - Java Stream,1.1
+DLPJ0418JA040791,PJP  Webinar,DLPJ0418Java_Webinar,0.7
+DLPJ0418JA040791,Testing Concepts.,DLPJP18JAVAB4_Testing,2.8
+DLPJ0418JA040792,IT Foundation Skills,DLPJP18JAVAB4_Foundation,13.6
+DLPJ0418JA040792,JAVA - Online,DLPJP18JAVAB4_Java Programming Fundamentals,15.7
+DLPJ0418JA040792,Life Skills,Business Communication - Java Stream,1.2
+DLPJ0418JA040792,PJP  Webinar,DLPJ0418Java_Webinar,0.7
+DLPJ0418JA040792,Testing Concepts.,DLPJP18JAVAB4_Testing,4.1
+DLPJ0418JA040793,IT Foundation Skills,DLPJP18JAVAB4_Foundation,11.5
+DLPJ0418JA040793,JAVA - Online,DLPJP18JAVAB4_Java Programming Fundamentals,32.7
+DLPJ0418JA040793,Life Skills,Business Communication - Java Stream,1.1
+DLPJ0418JA040793,PJP  Webinar,DLPJ0418Java_Webinar,0.3
+DLPJ0418JA040793,Testing Concepts.,DLPJP18JAVAB4_Testing,0.8
+DLPJ0418JA040794,IT Foundation Skills,DLPJP18JAVAB4_Foundation,6.4
+DLPJ0418JA040794,JAVA - Online,DLPJP18JAVAB4_Java Programming Fundamentals,2.2
+DLPJ0418JA040794,Life Skills,Business Communication - Java Stream,2.4
+DLPJ0418JA040794,PJP  Webinar,DLPJ0418Java_Webinar,0.1
+DLPJ0418JA040794,Testing Concepts.,DLPJP18JAVAB4_Testing,0.5
+DLPJ0418JA040795,IT Foundation Skills,DLPJP18JAVAB4_Foundation,12.5
+DLPJ0418JA040795,JAVA - Online,DLPJP18JAVAB4_Java Programming Fundamentals,23.5
+DLPJ0418JA040795,Life Skills,Business Communication - Java Stream,1.5
+DLPJ0418JA040795,PJP  Webinar,DLPJ0418Java_Webinar,0.6
+DLPJ0418JA040795,Testing Concepts.,DLPJP18JAVAB4_Testing,1.2
+DLPJ0418JA040796,IT Foundation Skills,DLPJP18JAVAB4_Foundation,25.9
+DLPJ0418JA040796,JAVA - Online,DLPJP18JAVAB4_Java Programming Fundamentals,32.7
+DLPJ0418JA040796,Life Skills,Business Communication - Java Stream,0.5
+DLPJ0418JA040796,PJP  Webinar,DLPJ0418Java_Webinar,1
+DLPJ0418JA040796,Testing Concepts.,DLPJP18JAVAB4_Testing,5
+DLPJ0418JA040797,IT Foundation Skills,DLPJP18JAVAB4_Foundation,10.1
+DLPJ0418JA040797,JAVA - Online,DLPJP18JAVAB4_Java Programming Fundamentals,10.7
+DLPJ0418JA040797,Life Skills,Business Communication - Java Stream,1.5
+DLPJ0418JA040797,PJP  Webinar,DLPJ0418Java_Webinar,0
+DLPJ0418JA040797,Testing Concepts.,DLPJP18JAVAB4_Testing,1.1
+DLPJ0418JA040798,IT Foundation Skills,DLPJP18JAVAB4_Foundation,26.2
+DLPJ0418JA040798,JAVA - Online,DLPJP18JAVAB4_Java Programming Fundamentals,36.6
+DLPJ0418JA040798,Life Skills,Business Communication - Java Stream,1.2
+DLPJ0418JA040798,PJP  Webinar,DLPJ0418Java_Webinar,0
+DLPJ0418JA040798,Testing Concepts.,DLPJP18JAVAB4_Testing,2
+DLPJ0418JA040801,IT Foundation Skills,DLPJP18JAVAB4_Foundation,12.3
+DLPJ0418JA040801,JAVA - Online,DLPJP18JAVAB4_Java Programming Fundamentals,10
+DLPJ0418JA040801,Life Skills,Business Communication - Java Stream,2.3
+DLPJ0418JA040801,PJP  Webinar,DLPJ0418Java_Webinar,0.5
+DLPJ0418JA040801,Testing Concepts.,DLPJP18JAVAB4_Testing,2.3
+DLPJ0418JA040802,IT Foundation Skills,DLPJP18JAVAB4_Foundation,11.2
+DLPJ0418JA040802,JAVA - Online,DLPJP18JAVAB4_Java Programming Fundamentals,27.9
+DLPJ0418JA040802,Life Skills,Business Communication - Java Stream,0.8
+DLPJ0418JA040802,PJP  Webinar,DLPJ0418Java_Webinar,0.8
+DLPJ0418JA040802,Testing Concepts.,DLPJP18JAVAB4_Testing,1.7
+DLPJ0418JA040803,IT Foundation Skills,DLPJP18JAVAB4_Foundation,23.5
+DLPJ0418JA040803,JAVA - Online,DLPJP18JAVAB4_Java Programming Fundamentals,14.8
+DLPJ0418JA040803,Life Skills,Business Communication - Java Stream,4.2
+DLPJ0418JA040803,PJP  Webinar,DLPJ0418Java_Webinar,3.2
+DLPJ0418JA040803,Testing Concepts.,DLPJP18JAVAB4_Testing,3.8
+DLPJ0418JA040804,IT Foundation Skills,DLPJP18JAVAB4_Foundation,20.4
+DLPJ0418JA040804,JAVA - Online,DLPJP18JAVAB4_Java Programming Fundamentals,26.3
+DLPJ0418JA040804,Life Skills,Business Communication - Java Stream,1.5
+DLPJ0418JA040804,PJP  Webinar,DLPJ0418Java_Webinar,0
+DLPJ0418JA040804,Testing Concepts.,DLPJP18JAVAB4_Testing,2.9
+DLPJ0418JA040805,IT Foundation Skills,DLPJP18JAVAB4_Foundation,11.7
+DLPJ0418JA040805,JAVA - Online,DLPJP18JAVAB4_Java Programming Fundamentals,34.7
+DLPJ0418JA040805,Life Skills,Business Communication - Java Stream,1.7
+DLPJ0418JA040805,PJP  Webinar,DLPJ0418Java_Webinar,0.9
+DLPJ0418JA040805,Testing Concepts.,DLPJP18JAVAB4_Testing,3
+DLPJ0418JA040806,IT Foundation Skills,DLPJP18JAVAB4_Foundation,13.9
+DLPJ0418JA040806,JAVA - Online,DLPJP18JAVAB4_Java Programming Fundamentals,20.1
+DLPJ0418JA040806,Life Skills,Business Communication - Java Stream,0.2
+DLPJ0418JA040806,PJP  Webinar,DLPJ0418Java_Webinar,1.1
+DLPJ0418JA040806,Testing Concepts.,DLPJP18JAVAB4_Testing,2.5
+DLPJ0418JA040807,IT Foundation Skills,DLPJP18JAVAB4_Foundation,12.2
+DLPJ0418JA040807,JAVA - Online,DLPJP18JAVAB4_Java Programming Fundamentals,27.4
+DLPJ0418JA040807,Life Skills,Business Communication - Java Stream,2.3
+DLPJ0418JA040807,PJP  Webinar,DLPJ0418Java_Webinar,0
+DLPJ0418JA040807,Testing Concepts.,DLPJP18JAVAB4_Testing,1.6
+DLPJ0418JA040810,IT Foundation Skills,DLPJP18JAVAB4_Foundation,18.9
+DLPJ0418JA040810,JAVA - Online,DLPJP18JAVAB4_Java Programming Fundamentals,30.2
+DLPJ0418JA040810,Life Skills,Business Communication - Java Stream,2.3
+DLPJ0418JA040810,PJP  Webinar,DLPJ0418Java_Webinar,0
+DLPJ0418JA040810,Testing Concepts.,DLPJP18JAVAB4_Testing,1.3
+DLPJ0418JA040811,IT Foundation Skills,DLPJP18JAVAB4_Foundation,13.3
+DLPJ0418JA040811,JAVA - Online,DLPJP18JAVAB4_Java Programming Fundamentals,28.9
+DLPJ0418JA040811,Life Skills,Business Communication - Java Stream,2
+DLPJ0418JA040811,Testing Concepts.,DLPJP18JAVAB4_Testing,2.1
+DLPJ0418JA040812,IT Foundation Skills,DLPJP18JAVAB4_Foundation,8.9
+DLPJ0418JA040812,JAVA - Online,DLPJP18JAVAB4_Java Programming Fundamentals,6.7
+DLPJ0418JA040812,Life Skills,Business Communication - Java Stream,2.1
+DLPJ0418JA040812,PJP  Webinar,DLPJ0418Java_Webinar,0.1
+DLPJ0418JA040812,Testing Concepts.,DLPJP18JAVAB4_Testing,0.8
+DLPJ0418JA040813,IT Foundation Skills,DLPJP18JAVAB4_Foundation,18.5
+DLPJ0418JA040813,JAVA - Online,DLPJP18JAVAB4_Java Programming Fundamentals,31.3
+DLPJ0418JA040813,Life Skills,Business Communication - Java Stream,1.7
+DLPJ0418JA040813,PJP  Webinar,DLPJ0418Java_Webinar,0
+DLPJ0418JA040813,Testing Concepts.,DLPJP18JAVAB4_Testing,3.1
+DLPJ0418JA040814,IT Foundation Skills,DLPJP18JAVAB4_Foundation,6.8
+DLPJ0418JA040814,JAVA - Online,DLPJP18JAVAB4_Java Programming Fundamentals,17.5
+DLPJ0418JA040814,Life Skills,Business Communication - Java Stream,1.8
+DLPJ0418JA040814,Testing Concepts.,DLPJP18JAVAB4_Testing,1.1
+DLPJ0418JA040815,IT Foundation Skills,DLPJP18JAVAB4_Foundation,11.3
+DLPJ0418JA040815,JAVA - Online,DLPJP18JAVAB4_Java Programming Fundamentals,16.8
+DLPJ0418JA040815,Life Skills,Business Communication - Java Stream,0.8
+DLPJ0418JA040815,PJP  Webinar,DLPJ0418Java_Webinar,0.1
+DLPJ0418JA040815,Testing Concepts.,DLPJP18JAVAB4_Testing,1.7
+DLPJ0418JA040816,IT Foundation Skills,DLPJP18JAVAB4_Foundation,14.2
+DLPJ0418JA040816,JAVA - Online,DLPJP18JAVAB4_Java Programming Fundamentals,23.2
+DLPJ0418JA040816,Life Skills,Business Communication - Java Stream,0.1
+DLPJ0418JA040816,PJP  Webinar,DLPJ0418Java_Webinar,0
+DLPJ0418JA040816,Testing Concepts.,DLPJP18JAVAB4_Testing,0.3
+DLPJ0418JA040817,IT Foundation Skills,DLPJP18JAVAB4_Foundation,10.2
+DLPJ0418JA040817,JAVA - Online,DLPJP18JAVAB4_Java Programming Fundamentals,20.4
+DLPJ0418JA040817,Life Skills,Business Communication - Java Stream,1.9
+DLPJ0418JA040817,Testing Concepts.,DLPJP18JAVAB4_Testing,2.5
+DLPJ0418JA040818,IT Foundation Skills,DLPJP18JAVAB4_Foundation,17.6
+DLPJ0418JA040818,JAVA - Online,DLPJP18JAVAB4_Java Programming Fundamentals,39.1
+DLPJ0418JA040818,Life Skills,Business Communication - Java Stream,0
+DLPJ0418JA040818,PJP  Webinar,DLPJ0418Java_Webinar,0
+DLPJ0418JA040818,Testing Concepts.,DLPJP18JAVAB4_Testing,2.4
+DLPJ0418JA040819,IT Foundation Skills,DLPJP18JAVAB4_Foundation,8.2
+DLPJ0418JA040819,JAVA - Online,DLPJP18JAVAB4_Java Programming Fundamentals,13.7
+DLPJ0418JA040819,Life Skills,Business Communication - Java Stream,1.5
+DLPJ0418JA040819,PJP  Webinar,DLPJ0418Java_Webinar,0
+DLPJ0418JA040819,Testing Concepts.,DLPJP18JAVAB4_Testing,1
+DLPJ0418JA040820,IT Foundation Skills,DLPJP18JAVAB4_Foundation,11.4
+DLPJ0418JA040820,JAVA - Online,DLPJP18JAVAB4_Java Programming Fundamentals,12.5
+DLPJ0418JA040820,Life Skills,Business Communication - Java Stream,2.7
+DLPJ0418JA040820,PJP  Webinar,DLPJ0418Java_Webinar,0.3
+DLPJ0418JA040820,Testing Concepts.,DLPJP18JAVAB4_Testing,0.2
+DLPJ0418JA040821,IT Foundation Skills,DLPJP18JAVAB4_Foundation,13.3
+DLPJ0418JA040821,JAVA - Online,DLPJP18JAVAB4_Java Programming Fundamentals,24.5
+DLPJ0418JA040821,Life Skills,Business Communication - Java Stream,1.2
+DLPJ0418JA040821,PJP  Webinar,DLPJ0418Java_Webinar,1
+DLPJ0418JA040821,Testing Concepts.,DLPJP18JAVAB4_Testing,1.5
+DLPJ0418JA040822,IT Foundation Skills,DLPJP18JAVAB4_Foundation,19.3
+DLPJ0418JA040822,JAVA - Online,DLPJP18JAVAB4_Java Programming Fundamentals,19.9
+DLPJ0418JA040822,Life Skills,Business Communication - Java Stream,2.3
+DLPJ0418JA040822,PJP  Webinar,DLPJ0418Java_Webinar,2.3
+DLPJ0418JA040822,Testing Concepts.,DLPJP18JAVAB4_Testing,4
+DLPJ0418JA040823,IT Foundation Skills,DLPJP18JAVAB4_Foundation,13.1
+DLPJ0418JA040823,JAVA - Online,DLPJP18JAVAB4_Java Programming Fundamentals,22.7
+DLPJ0418JA040823,Life Skills,Business Communication - Java Stream,2.4
+DLPJ0418JA040823,PJP  Webinar,DLPJ0418Java_Webinar,1
+DLPJ0418JA040823,Testing Concepts.,DLPJP18JAVAB4_Testing,1.5
+DLPJ0418JA040824,IT Foundation Skills,DLPJP18JAVAB4_Foundation,23.5
+DLPJ0418JA040824,JAVA - Online,DLPJP18JAVAB4_Java Programming Fundamentals,60
+DLPJ0418JA040824,Life Skills,Business Communication - Java Stream,5.6
+DLPJ0418JA040824,PJP  Webinar,DLPJ0418Java_Webinar,0.4
+DLPJ0418JA040824,Testing Concepts.,DLPJP18JAVAB4_Testing,6.9
+DLPJ0418JA040825,IT Foundation Skills,DLPJP18JAVAB4_Foundation,11.7
+DLPJ0418JA040825,JAVA - Online,DLPJP18JAVAB4_Java Programming Fundamentals,28.7
+DLPJ0418JA040825,Life Skills,Business Communication - Java Stream,2.2
+DLPJ0418JA040825,PJP  Webinar,DLPJ0418Java_Webinar,0.3
+DLPJ0418JA040825,Testing Concepts.,DLPJP18JAVAB4_Testing,2
+DLPJ0418JA040826,IT Foundation Skills,DLPJP18JAVAB4_Foundation,11.5
+DLPJ0418JA040826,JAVA - Online,DLPJP18JAVAB4_Java Programming Fundamentals,34.5
+DLPJ0418JA040826,Life Skills,Business Communication - Java Stream,4
+DLPJ0418JA040826,PJP  Webinar,DLPJ0418Java_Webinar,0.1
+DLPJ0418JA040826,Testing Concepts.,DLPJP18JAVAB4_Testing,2
+DLPJ0418JA040827,IT Foundation Skills,DLPJP18JAVAB4_Foundation,26.4
+DLPJ0418JA040827,JAVA - Online,DLPJP18JAVAB4_Java Programming Fundamentals,60
+DLPJ0418JA040827,Life Skills,Business Communication - Java Stream,3.3
+DLPJ0418JA040827,PJP  Webinar,DLPJ0418Java_Webinar,0.7
+DLPJ0418JA040827,Testing Concepts.,DLPJP18JAVAB4_Testing,1.9
+DLPJ0418JA040828,IT Foundation Skills,DLPJP18JAVAB4_Foundation,12.8
+DLPJ0418JA040828,JAVA - Online,DLPJP18JAVAB4_Java Programming Fundamentals,27.4
+DLPJ0418JA040828,Life Skills,Business Communication - Java Stream,2.8
+DLPJ0418JA040828,PJP  Webinar,DLPJ0418Java_Webinar,0.9
+DLPJ0418JA040828,Testing Concepts.,DLPJP18JAVAB4_Testing,1.8
+DLPJ0418JA040829,IT Foundation Skills,DLPJP18JAVAB4_Foundation,11.7
+DLPJ0418JA040829,JAVA - Online,DLPJP18JAVAB4_Java Programming Fundamentals,38.9
+DLPJ0418JA040829,Life Skills,Business Communication - Java Stream,3.1
+DLPJ0418JA040829,PJP  Webinar,DLPJ0418Java_Webinar,0
+DLPJ0418JA040829,Testing Concepts.,DLPJP18JAVAB4_Testing,1.4
+DLPJ0418JA040830,IT Foundation Skills,DLPJP18JAVAB4_Foundation,18.7
+DLPJ0418JA040830,JAVA - Online,DLPJP18JAVAB4_Java Programming Fundamentals,41
+DLPJ0418JA040830,Life Skills,Business Communication - Java Stream,2
+DLPJ0418JA040830,PJP  Webinar,DLPJ0418Java_Webinar,0.2
+DLPJ0418JA040830,Testing Concepts.,DLPJP18JAVAB4_Testing,1.6
+DLPJ0418JA040831,IT Foundation Skills,DLPJP18JAVAB4_Foundation,1.4
+DLPJ0418JA040831,JAVA - Online,DLPJP18JAVAB4_Java Programming Fundamentals,13.7
+DLPJ0418JA040831,Life Skills,Business Communication - Java Stream,0.3
+DLPJ0418JA040831,PJP  Webinar,DLPJ0418Java_Webinar,0.5
+DLPJ0418JA040831,Testing Concepts.,DLPJP18JAVAB4_Testing,3
+DLPJ0418JA040832,IT Foundation Skills,DLPJP18JAVAB4_Foundation,2.9
+DLPJ0418JA040832,Life Skills,Business Communication - Java Stream,1.2
+DLPJ0418JA040832,PJP  Webinar,DLPJ0418Java_Webinar,0
+DLPJ0418JA040833,IT Foundation Skills,DLPJP18JAVAB4_Foundation,7.3
+DLPJ0418JA040833,JAVA - Online,DLPJP18JAVAB4_Java Programming Fundamentals,2.5
+DLPJ0418JA040833,Life Skills,Business Communication - Java Stream,0.3
+DLPJ0418JA040833,PJP  Webinar,DLPJ0418Java_Webinar,0.5
+DLPJ0418JA040833,Testing Concepts.,DLPJP18JAVAB4_Testing,0.2
+DLPJ0418JA040834,IT Foundation Skills,DLPJP18JAVAB4_Foundation,16.5
+DLPJ0418JA040834,JAVA - Online,DLPJP18JAVAB4_Java Programming Fundamentals,20.1
+DLPJ0418JA040834,Life Skills,Business Communication - Java Stream,2.2
+DLPJ0418JA040834,PJP  Webinar,DLPJ0418Java_Webinar,0.1
+DLPJ0418JA040834,Testing Concepts.,DLPJP18JAVAB4_Testing,2
+DLPJ0418JA040835,IT Foundation Skills,DLPJP18JAVAB4_Foundation,17
+DLPJ0418JA040835,JAVA - Online,DLPJP18JAVAB4_Java Programming Fundamentals,35.1
+DLPJ0418JA040835,Life Skills,Business Communication - Java Stream,2.4
+DLPJ0418JA040835,PJP  Webinar,DLPJ0418Java_Webinar,1.4
+DLPJ0418JA040835,Testing Concepts.,DLPJP18JAVAB4_Testing,1.4
+DLPJ0418JA040837,IT Foundation Skills,DLPJP18JAVAB4_Foundation,4.7
+DLPJ0418JA040837,JAVA - Online,DLPJP18JAVAB4_Java Programming Fundamentals,11.7
+DLPJ0418JA040837,Life Skills,Business Communication - Java Stream,0.3
+DLPJ0418JA040837,PJP  Webinar,DLPJ0418Java_Webinar,0.1
+DLPJ0418JA040837,Testing Concepts.,DLPJP18JAVAB4_Testing,1.3
+DLPJ0418JA040838,IT Foundation Skills,DLPJP18JAVAB4_Foundation,18.2
+DLPJ0418JA040838,JAVA - Online,DLPJP18JAVAB4_Java Programming Fundamentals,21
+DLPJ0418JA040838,Life Skills,Business Communication - Java Stream,2.7
+DLPJ0418JA040838,PJP  Webinar,DLPJ0418Java_Webinar,0.9
+DLPJ0418JA040838,Testing Concepts.,DLPJP18JAVAB4_Testing,2.4
+DLPJ0418JA040839,IT Foundation Skills,DLPJP18JAVAB4_Foundation,9.4
+DLPJ0418JA040839,JAVA - Online,DLPJP18JAVAB4_Java Programming Fundamentals,29.9
+DLPJ0418JA040839,Life Skills,Business Communication - Java Stream,0
+DLPJ0418JA040839,PJP  Webinar,DLPJ0418Java_Webinar,0.2
+DLPJ0418JA040839,Testing Concepts.,DLPJP18JAVAB4_Testing,0.7
+DLPJ0418JA040840,IT Foundation Skills,DLPJP18JAVAB4_Foundation,15.2
+DLPJ0418JA040840,JAVA - Online,DLPJP18JAVAB4_Java Programming Fundamentals,26.1
+DLPJ0418JA040840,Life Skills,Business Communication - Java Stream,3.2
+DLPJ0418JA040840,PJP  Webinar,DLPJ0418Java_Webinar,0.6
+DLPJ0418JA040840,Testing Concepts.,DLPJP18JAVAB4_Testing,0.8
+DLPJ0418JA040841,IT Foundation Skills,DLPJP18JAVAB4_Foundation,11.8
+DLPJ0418JA040841,JAVA - Online,DLPJP18JAVAB4_Java Programming Fundamentals,39.1
+DLPJ0418JA040841,Life Skills,Business Communication - Java Stream,2.2
+DLPJ0418JA040841,PJP  Webinar,DLPJ0418Java_Webinar,0.7
+DLPJ0418JA040841,Testing Concepts.,DLPJP18JAVAB4_Testing,6.8
+DLPJ0418JA040842,IT Foundation Skills,DLPJP18JAVAB4_Foundation,21.2
+DLPJ0418JA040842,JAVA - Online,DLPJP18JAVAB4_Java Programming Fundamentals,43.8
+DLPJ0418JA040842,Life Skills,Business Communication - Java Stream,3
+DLPJ0418JA040842,PJP  Webinar,DLPJ0418Java_Webinar,0
+DLPJ0418JA040842,Testing Concepts.,DLPJP18JAVAB4_Testing,1.6
+DLPJ0418JA040843,IT Foundation Skills,DLPJP18JAVAB4_Foundation,8.9
+DLPJ0418JA040843,JAVA - Online,DLPJP18JAVAB4_Java Programming Fundamentals,29.2
+DLPJ0418JA040843,Life Skills,Business Communication - Java Stream,1.8
+DLPJ0418JA040843,Testing Concepts.,DLPJP18JAVAB4_Testing,1.5
+DLPJ0418JA040845,IT Foundation Skills,DLPJP18JAVAB4_Foundation,14.4
+DLPJ0418JA040845,JAVA - Online,DLPJP18JAVAB4_Java Programming Fundamentals,29.9
+DLPJ0418JA040845,Life Skills,Business Communication - Java Stream,3.1
+DLPJ0418JA040845,Testing Concepts.,DLPJP18JAVAB4_Testing,2.2
+DLPJ0418JA040846,IT Foundation Skills,DLPJP18JAVAB4_Foundation,14.5
+DLPJ0418JA040846,JAVA - Online,DLPJP18JAVAB4_Java Programming Fundamentals,25.7
+DLPJ0418JA040846,Life Skills,Business Communication - Java Stream,3.9
+DLPJ0418JA040846,PJP  Webinar,DLPJ0418Java_Webinar,0
+DLPJ0418JA040846,Testing Concepts.,DLPJP18JAVAB4_Testing,2.5
+DLPJ0418JA040847,IT Foundation Skills,DLPJP18JAVAB4_Foundation,10.5
+DLPJ0418JA040847,JAVA - Online,DLPJP18JAVAB4_Java Programming Fundamentals,19.8
+DLPJ0418JA040847,Life Skills,Business Communication - Java Stream,1.7
+DLPJ0418JA040847,PJP  Webinar,DLPJ0418Java_Webinar,0
+DLPJ0418JA040847,Testing Concepts.,DLPJP18JAVAB4_Testing,3.3
+DLPJ0418JA040848,IT Foundation Skills,DLPJP18JAVAB4_Foundation,8.8
+DLPJ0418JA040848,JAVA - Online,DLPJP18JAVAB4_Java Programming Fundamentals,31.3
+DLPJ0418JA040848,Testing Concepts.,DLPJP18JAVAB4_Testing,0.1
+DLPJ0418JA040849,IT Foundation Skills,DLPJP18JAVAB4_Foundation,15.9
+DLPJ0418JA040849,JAVA - Online,DLPJP18JAVAB4_Java Programming Fundamentals,32.4
+DLPJ0418JA040849,Life Skills,Business Communication - Java Stream,2.4
+DLPJ0418JA040849,PJP  Webinar,DLPJ0418Java_Webinar,0.4
+DLPJ0418JA040849,Testing Concepts.,DLPJP18JAVAB4_Testing,1.6
+DLPJ0418JA040850,IT Foundation Skills,DLPJP18JAVAB4_Foundation,12.4
+DLPJ0418JA040850,JAVA - Online,DLPJP18JAVAB4_Java Programming Fundamentals,13.7
+DLPJ0418JA040850,Life Skills,Business Communication - Java Stream,1.3
+DLPJ0418JA040850,PJP  Webinar,DLPJ0418Java_Webinar,0.6
+DLPJ0418JA040850,Testing Concepts.,DLPJP18JAVAB4_Testing,0.9
+DLPJ0418JA040851,IT Foundation Skills,DLPJP18JAVAB4_Foundation,1.1
+DLPJ0418JA040851,Life Skills,Business Communication - Java Stream,2.9
+DLPJ0418JA040852,IT Foundation Skills,DLPJP18JAVAB4_Foundation,26.2
+DLPJ0418JA040852,JAVA - Online,DLPJP18JAVAB4_Java Programming Fundamentals,43.9
+DLPJ0418JA040852,Life Skills,Business Communication - Java Stream,1.1
+DLPJ0418JA040852,PJP  Webinar,DLPJ0418Java_Webinar,0.3
+DLPJ0418JA040852,Testing Concepts.,DLPJP18JAVAB4_Testing,2.2
+DLPJ0418JA040853,IT Foundation Skills,DLPJP18JAVAB4_Foundation,22.1
+DLPJ0418JA040853,JAVA - Online,DLPJP18JAVAB4_Java Programming Fundamentals,51.8
+DLPJ0418JA040853,Life Skills,Business Communication - Java Stream,3.4
+DLPJ0418JA040853,PJP  Webinar,DLPJ0418Java_Webinar,0.5
+DLPJ0418JA040853,Testing Concepts.,DLPJP18JAVAB4_Testing,2.9
+DLPJ0418JA040854,IT Foundation Skills,DLPJP18JAVAB4_Foundation,17.7
+DLPJ0418JA040854,JAVA - Online,DLPJP18JAVAB4_Java Programming Fundamentals,34.1
+DLPJ0418JA040854,Life Skills,Business Communication - Java Stream,2.1
+DLPJ0418JA040854,PJP  Webinar,DLPJ0418Java_Webinar,0.1
+DLPJ0418JA040854,Testing Concepts.,DLPJP18JAVAB4_Testing,2.2
+DLPJ0418JA040855,IT Foundation Skills,DLPJP18JAVAB4_Foundation,12.4
+DLPJ0418JA040855,JAVA - Online,DLPJP18JAVAB4_Java Programming Fundamentals,18.3
+DLPJ0418JA040855,Life Skills,Business Communication - Java Stream,1.8
+DLPJ0418JA040855,PJP  Webinar,DLPJ0418Java_Webinar,0.2
+DLPJ0418JA040855,Testing Concepts.,DLPJP18JAVAB4_Testing,1.9
+DLPJ0418JA040856,IT Foundation Skills,DLPJP18JAVAB4_Foundation,1.5
+DLPJ0418JA040856,JAVA - Online,DLPJP18JAVAB4_Java Programming Fundamentals,1.6
+DLPJ0418JA040856,Life Skills,Business Communication - Java Stream,0.9
+DLPJ0418JA040856,PJP  Webinar,DLPJ0418Java_Webinar,0
+DLPJ0418JA040856,Testing Concepts.,DLPJP18JAVAB4_Testing,0.6
+DLPJ0418JA040858,IT Foundation Skills,DLPJP18JAVAB4_Foundation,13.9
+DLPJ0418JA040858,JAVA - Online,DLPJP18JAVAB4_Java Programming Fundamentals,42.5
+DLPJ0418JA040858,Life Skills,Business Communication - Java Stream,0.1
+DLPJ0418JA040858,PJP  Webinar,DLPJ0418Java_Webinar,1.5
+DLPJ0418JA040858,Testing Concepts.,DLPJP18JAVAB4_Testing,2.3
+DLPJ0418JA040859,IT Foundation Skills,DLPJP18JAVAB4_Foundation,13.6
+DLPJ0418JA040859,JAVA - Online,DLPJP18JAVAB4_Java Programming Fundamentals,34.5
+DLPJ0418JA040859,Life Skills,Business Communication - Java Stream,2.3
+DLPJ0418JA040859,PJP  Webinar,DLPJ0418Java_Webinar,0.1
+DLPJ0418JA040859,Testing Concepts.,DLPJP18JAVAB4_Testing,2
+DLPJ0418JA040860,IT Foundation Skills,DLPJP18JAVAB4_Foundation,10.7
+DLPJ0418JA040860,JAVA - Online,DLPJP18JAVAB4_Java Programming Fundamentals,5.9
+DLPJ0418JA040860,Life Skills,Business Communication - Java Stream,2.4
+DLPJ0418JA040860,PJP  Webinar,DLPJ0418Java_Webinar,1
+DLPJ0418JA040860,Testing Concepts.,DLPJP18JAVAB4_Testing,0.2
+DLPJ0418JA040861,IT Foundation Skills,DLPJP18JAVAB4_Foundation,15.2
+DLPJ0418JA040861,JAVA - Online,DLPJP18JAVAB4_Java Programming Fundamentals,32.9
+DLPJ0418JA040861,Life Skills,Business Communication - Java Stream,2.8
+DLPJ0418JA040861,PJP  Webinar,DLPJ0418Java_Webinar,0.7
+DLPJ0418JA040861,Testing Concepts.,DLPJP18JAVAB4_Testing,1.8
+DLPJ0418JA040862,IT Foundation Skills,DLPJP18JAVAB4_Foundation,8.6
+DLPJ0418JA040862,JAVA - Online,DLPJP18JAVAB4_Java Programming Fundamentals,24.3
+DLPJ0418JA040862,Life Skills,Business Communication - Java Stream,0.5
+DLPJ0418JA040862,PJP  Webinar,DLPJ0418Java_Webinar,0
+DLPJ0418JA040862,Testing Concepts.,DLPJP18JAVAB4_Testing,2.3
+DLPJ0418JA040863,IT Foundation Skills,DLPJP18JAVAB4_Foundation,21.1
+DLPJ0418JA040863,JAVA - Online,DLPJP18JAVAB4_Java Programming Fundamentals,35.5
+DLPJ0418JA040863,PJP  Webinar,DLPJ0418Java_Webinar,0.6
+DLPJ0418JA040863,Testing Concepts.,DLPJP18JAVAB4_Testing,2.1
+DLPJ0418JA040865,IT Foundation Skills,DLPJP18JAVAB4_Foundation,11
+DLPJ0418JA040865,JAVA - Online,DLPJP18JAVAB4_Java Programming Fundamentals,31.3
+DLPJ0418JA040865,Life Skills,Business Communication - Java Stream,2.2
+DLPJ0418JA040865,PJP  Webinar,DLPJ0418Java_Webinar,0.6
+DLPJ0418JA040865,Testing Concepts.,DLPJP18JAVAB4_Testing,2.5
+DLPJ0418JA040866,IT Foundation Skills,DLPJP18JAVAB4_Foundation,17.8
+DLPJ0418JA040866,JAVA - Online,DLPJP18JAVAB4_Java Programming Fundamentals,47.4
+DLPJ0418JA040866,Life Skills,Business Communication - Java Stream,2.4
+DLPJ0418JA040866,PJP  Webinar,DLPJ0418Java_Webinar,0.5
+DLPJ0418JA040866,Testing Concepts.,DLPJP18JAVAB4_Testing,2.5
+DLPJ0418JA040867,IT Foundation Skills,DLPJP18JAVAB4_Foundation,0.8
+DLPJ0418JA040867,JAVA - Online,DLPJP18JAVAB4_Java Programming Fundamentals,2.5
+DLPJ0418JA040867,Testing Concepts.,DLPJP18JAVAB4_Testing,0.5
+DLPJ0418JA040868,IT Foundation Skills,DLPJP18JAVAB4_Foundation,22.4
+DLPJ0418JA040868,JAVA - Online,DLPJP18JAVAB4_Java Programming Fundamentals,35.1
+DLPJ0418JA040868,Life Skills,Business Communication - Java Stream,1.7
+DLPJ0418JA040868,PJP  Webinar,DLPJ0418Java_Webinar,0.6
+DLPJ0418JA040868,Testing Concepts.,DLPJP18JAVAB4_Testing,1.8
+DLPJ0418JA040869,IT Foundation Skills,DLPJP18JAVAB4_Foundation,8.5
+DLPJ0418JA040869,JAVA - Online,DLPJP18JAVAB4_Java Programming Fundamentals,23.5
+DLPJ0418JA040869,Life Skills,Business Communication - Java Stream,0.5
+DLPJ0418JA040869,PJP  Webinar,DLPJ0418Java_Webinar,0
+DLPJ0418JA040869,Testing Concepts.,DLPJP18JAVAB4_Testing,1.1
+DLPJ0418JA040871,IT Foundation Skills,DLPJP18JAVAB4_Foundation,11.3
+DLPJ0418JA040871,JAVA - Online,DLPJP18JAVAB4_Java Programming Fundamentals,8.6
+DLPJ0418JA040871,Life Skills,Business Communication - Java Stream,2
+DLPJ0418JA040871,PJP  Webinar,DLPJ0418Java_Webinar,0.2
+DLPJ0418JA040871,Testing Concepts.,DLPJP18JAVAB4_Testing,1.9
+DLPJ0418JA040872,IT Foundation Skills,DLPJP18JAVAB4_Foundation,10.8
+DLPJ0418JA040872,JAVA - Online,DLPJP18JAVAB4_Java Programming Fundamentals,21.3
+DLPJ0418JA040872,Life Skills,Business Communication - Java Stream,2.5
+DLPJ0418JA040872,PJP  Webinar,DLPJ0418Java_Webinar,2.7
+DLPJ0418JA040872,Testing Concepts.,DLPJP18JAVAB4_Testing,0.9
+DLPJ0418JA040873,IT Foundation Skills,DLPJP18JAVAB4_Foundation,11
+DLPJ0418JA040873,JAVA - Online,DLPJP18JAVAB4_Java Programming Fundamentals,27
+DLPJ0418JA040873,Life Skills,Business Communication - Java Stream,2.7
+DLPJ0418JA040873,PJP  Webinar,DLPJ0418Java_Webinar,0.6
+DLPJ0418JA040873,Testing Concepts.,DLPJP18JAVAB4_Testing,3
+DLPJ0418JA040875,IT Foundation Skills,DLPJP18JAVAB4_Foundation,13.4
+DLPJ0418JA040875,JAVA - Online,DLPJP18JAVAB4_Java Programming Fundamentals,28.1
+DLPJ0418JA040875,Life Skills,Business Communication - Java Stream,3.5
+DLPJ0418JA040875,PJP  Webinar,DLPJ0418Java_Webinar,4.1
+DLPJ0418JA040875,Testing Concepts.,DLPJP18JAVAB4_Testing,3
+DLPJ0418JA040876,IT Foundation Skills,DLPJP18JAVAB4_Foundation,12.2
+DLPJ0418JA040876,JAVA - Online,DLPJP18JAVAB4_Java Programming Fundamentals,2.3
+DLPJ0418JA040876,Life Skills,Business Communication - Java Stream,0.8
+DLPJ0418JA040877,IT Foundation Skills,DLPJP18JAVAB4_Foundation,15
+DLPJ0418JA040877,JAVA - Online,DLPJP18JAVAB4_Java Programming Fundamentals,38
+DLPJ0418JA040877,Life Skills,Business Communication - Java Stream,2.9
+DLPJ0418JA040877,PJP  Webinar,DLPJ0418Java_Webinar,0.4
+DLPJ0418JA040877,Testing Concepts.,DLPJP18JAVAB4_Testing,2.8
+DLPJ0418JA040878,IT Foundation Skills,DLPJP18JAVAB4_Foundation,21.7
+DLPJ0418JA040878,JAVA - Online,DLPJP18JAVAB4_Java Programming Fundamentals,63.6
+DLPJ0418JA040878,Life Skills,Business Communication - Java Stream,5.4
+DLPJ0418JA040878,PJP  Webinar,DLPJ0418Java_Webinar,0.4
+DLPJ0418JA040878,Testing Concepts.,DLPJP18JAVAB4_Testing,2.7
+DLPJ0418JA040879,IT Foundation Skills,DLPJP18JAVAB4_Foundation,19.5
+DLPJ0418JA040879,JAVA - Online,DLPJP18JAVAB4_Java Programming Fundamentals,35.6
+DLPJ0418JA040879,Life Skills,Business Communication - Java Stream,4
+DLPJ0418JA040879,PJP  Webinar,DLPJ0418Java_Webinar,1.8
+DLPJ0418JA040879,Testing Concepts.,DLPJP18JAVAB4_Testing,4.3
+DLPJ0418JA040880,IT Foundation Skills,DLPJP18JAVAB4_Foundation,20.5
+DLPJ0418JA040880,JAVA - Online,DLPJP18JAVAB4_Java Programming Fundamentals,27.3
+DLPJ0418JA040880,Life Skills,Business Communication - Java Stream,3.3
+DLPJ0418JA040880,PJP  Webinar,DLPJ0418Java_Webinar,1.6
+DLPJ0418JA040880,Testing Concepts.,DLPJP18JAVAB4_Testing,2.1
+DLPJ0418JA040881,IT Foundation Skills,DLPJP18JAVAB4_Foundation,16.4
+DLPJ0418JA040881,JAVA - Online,DLPJP18JAVAB4_Java Programming Fundamentals,53.5
+DLPJ0418JA040881,Life Skills,Business Communication - Java Stream,0.5
+DLPJ0418JA040881,PJP  Webinar,DLPJ0418Java_Webinar,2
+DLPJ0418JA040881,Testing Concepts.,DLPJP18JAVAB4_Testing,5
+DLPJ0418JA040883,IT Foundation Skills,DLPJP18JAVAB4_Foundation,12.2
+DLPJ0418JA040883,JAVA - Online,DLPJP18JAVAB4_Java Programming Fundamentals,12.9
+DLPJ0418JA040885,IT Foundation Skills,DLPJP18JAVAB4_Foundation,13.5
+DLPJ0418JA040885,JAVA - Online,DLPJP18JAVAB4_Java Programming Fundamentals,28.8
+DLPJ0418JA040885,Life Skills,Business Communication - Java Stream,3.2
+DLPJ0418JA040885,PJP  Webinar,DLPJ0418Java_Webinar,0.8
+DLPJ0418JA040885,Testing Concepts.,DLPJP18JAVAB4_Testing,1.4
+DLPJ0418JA040886,IT Foundation Skills,DLPJP18JAVAB4_Foundation,11.7
+DLPJ0418JA040886,JAVA - Online,DLPJP18JAVAB4_Java Programming Fundamentals,39.2
+DLPJ0418JA040886,Life Skills,Business Communication - Java Stream,3.1
+DLPJ0418JA040886,PJP  Webinar,DLPJ0418Java_Webinar,1.7
+DLPJ0418JA040886,Testing Concepts.,DLPJP18JAVAB4_Testing,1.3
+DLPJ0418JA040887,IT Foundation Skills,DLPJP18JAVAB4_Foundation,20.3
+DLPJ0418JA040887,JAVA - Online,DLPJP18JAVAB4_Java Programming Fundamentals,38.1
+DLPJ0418JA040887,Life Skills,Business Communication - Java Stream,3.7
+DLPJ0418JA040887,PJP  Webinar,DLPJ0418Java_Webinar,1.9
+DLPJ0418JA040887,Testing Concepts.,DLPJP18JAVAB4_Testing,3.5
+DLPJ0418JA040890,IT Foundation Skills,DLPJP18JAVAB4_Foundation,8.9
+DLPJ0418JA040890,JAVA - Online,DLPJP18JAVAB4_Java Programming Fundamentals,18.9
+DLPJ0418JA040890,Life Skills,Business Communication - Java Stream,0.8
+DLPJ0418JA040890,PJP  Webinar,DLPJ0418Java_Webinar,0.2
+DLPJ0418JA040890,Testing Concepts.,DLPJP18JAVAB4_Testing,1.1
+DLPJ0418JA040891,IT Foundation Skills,DLPJP18JAVAB4_Foundation,25
+DLPJ0418JA040891,JAVA - Online,DLPJP18JAVAB4_Java Programming Fundamentals,35.5
+DLPJ0418JA040891,Life Skills,Business Communication - Java Stream,3.1
+DLPJ0418JA040891,PJP  Webinar,DLPJ0418Java_Webinar,0
+DLPJ0418JA040891,Testing Concepts.,DLPJP18JAVAB4_Testing,0.7
+DLPJ0418JA040893,IT Foundation Skills,DLPJP18JAVAB4_Foundation,14.1
+DLPJ0418JA040893,JAVA - Online,DLPJP18JAVAB4_Java Programming Fundamentals,26
+DLPJ0418JA040893,Life Skills,Business Communication - Java Stream,2.5
+DLPJ0418JA040893,PJP  Webinar,DLPJ0418Java_Webinar,0.3
+DLPJ0418JA040893,Testing Concepts.,DLPJP18JAVAB4_Testing,3.8
+DLPJ0418JA040894,IT Foundation Skills,DLPJP18JAVAB4_Foundation,3.5
+DLPJ0418JA040894,JAVA - Online,DLPJP18JAVAB4_Java Programming Fundamentals,7.3
+DLPJ0418JA040894,Life Skills,Business Communication - Java Stream,0.8
+DLPJ0418JA040894,PJP  Webinar,DLPJ0418Java_Webinar,1
+DLPJ0418JA040894,Testing Concepts.,DLPJP18JAVAB4_Testing,1.2
+DLPJ0418JA040895,IT Foundation Skills,DLPJP18JAVAB4_Foundation,17
+DLPJ0418JA040895,JAVA - Online,DLPJP18JAVAB4_Java Programming Fundamentals,38.2
+DLPJ0418JA040895,Life Skills,Business Communication - Java Stream,0.4
+DLPJ0418JA040895,PJP  Webinar,DLPJ0418Java_Webinar,1.8
+DLPJ0418JA040895,Testing Concepts.,DLPJP18JAVAB4_Testing,1.7
+DLPJ0418JA040896,IT Foundation Skills,DLPJP18JAVAB4_Foundation,15.8
+DLPJ0418JA040896,JAVA - Online,DLPJP18JAVAB4_Java Programming Fundamentals,22.2
+DLPJ0418JA040896,PJP  Webinar,DLPJ0418Java_Webinar,1
+DLPJ0418JA040896,Testing Concepts.,DLPJP18JAVAB4_Testing,1
+DLPJ0418JA040897,IT Foundation Skills,DLPJP18JAVAB4_Foundation,17
+DLPJ0418JA040897,JAVA - Online,DLPJP18JAVAB4_Java Programming Fundamentals,1.9
+DLPJ0418JA040897,Life Skills,Business Communication - Java Stream,1.2
+DLPJ0418JA040897,Testing Concepts.,DLPJP18JAVAB4_Testing,1.3
+DLPJ0418JA040898,IT Foundation Skills,DLPJP18JAVAB4_Foundation,7
+DLPJ0418JA040898,JAVA - Online,DLPJP18JAVAB4_Java Programming Fundamentals,6.6
+DLPJ0418JA040898,Life Skills,Business Communication - Java Stream,0.8
+DLPJ0418JA040898,PJP  Webinar,DLPJ0418Java_Webinar,0.1
+DLPJ0418JA040898,Testing Concepts.,DLPJP18JAVAB4_Testing,0.4
+DLPJ0418JA040899,IT Foundation Skills,DLPJP18JAVAB4_Foundation,11.3
+DLPJ0418JA040899,JAVA - Online,DLPJP18JAVAB4_Java Programming Fundamentals,22.7
+DLPJ0418JA040899,Life Skills,Business Communication - Java Stream,2.2
+DLPJ0418JA040899,Testing Concepts.,DLPJP18JAVAB4_Testing,0.7
+DLPJ0418JA040900,IT Foundation Skills,DLPJP18JAVAB4_Foundation,12.9
+DLPJ0418JA040900,JAVA - Online,DLPJP18JAVAB4_Java Programming Fundamentals,18.7
+DLPJ0418JA040900,Life Skills,Business Communication - Java Stream,2.2
+DLPJ0418JA040900,PJP  Webinar,DLPJ0418Java_Webinar,0
+DLPJ0418JA040900,Testing Concepts.,DLPJP18JAVAB4_Testing,0.7
+DLPJ0418JA040901,IT Foundation Skills,DLPJP18JAVAB4_Foundation,10.5
+DLPJ0418JA040901,JAVA - Online,DLPJP18JAVAB4_Java Programming Fundamentals,3.6
+DLPJ0418JA040901,Life Skills,Business Communication - Java Stream,2.7
+DLPJ0418JA040901,PJP  Webinar,DLPJ0418Java_Webinar,1.4
+DLPJ0418JA040901,Testing Concepts.,DLPJP18JAVAB4_Testing,0.1
+DLPJ0418JA040902,IT Foundation Skills,DLPJP18JAVAB4_Foundation,13.5
+DLPJ0418JA040902,JAVA - Online,DLPJP18JAVAB4_Java Programming Fundamentals,29.5
+DLPJ0418JA040902,Life Skills,Business Communication - Java Stream,1.4
+DLPJ0418JA040902,PJP  Webinar,DLPJ0418Java_Webinar,1
+DLPJ0418JA040902,Testing Concepts.,DLPJP18JAVAB4_Testing,1.4
+DLPJ0418JA040903,IT Foundation Skills,DLPJP18JAVAB4_Foundation,12.5
+DLPJ0418JA040903,JAVA - Online,DLPJP18JAVAB4_Java Programming Fundamentals,18.3
+DLPJ0418JA040903,PJP  Webinar,DLPJ0418Java_Webinar,1.5
+DLPJ0418JA040903,Testing Concepts.,DLPJP18JAVAB4_Testing,1.9
+DLPJ0418JA040904,IT Foundation Skills,DLPJP18JAVAB4_Foundation,18.2
+DLPJ0418JA040904,JAVA - Online,DLPJP18JAVAB4_Java Programming Fundamentals,31.4
+DLPJ0418JA040904,Life Skills,Business Communication - Java Stream,2.2
+DLPJ0418JA040904,PJP  Webinar,DLPJ0418Java_Webinar,0.4
+DLPJ0418JA040904,Testing Concepts.,DLPJP18JAVAB4_Testing,2.3
+DLPJ0418JA040907,IT Foundation Skills,DLPJP18JAVAB4_Foundation,8.8
+DLPJ0418JA040907,JAVA - Online,DLPJP18JAVAB4_Java Programming Fundamentals,31.1
+DLPJ0418JA040907,Life Skills,Business Communication - Java Stream,1.3
+DLPJ0418JA040907,PJP  Webinar,DLPJ0418Java_Webinar,0.2
+DLPJ0418JA040907,Testing Concepts.,DLPJP18JAVAB4_Testing,1.6
+DLPJ0418JA040908,IT Foundation Skills,DLPJP18JAVAB4_Foundation,13.8
+DLPJ0418JA040908,JAVA - Online,DLPJP18JAVAB4_Java Programming Fundamentals,42.1
+DLPJ0418JA040908,Life Skills,Business Communication - Java Stream,2.4
+DLPJ0418JA040908,PJP  Webinar,DLPJ0418Java_Webinar,0.5
+DLPJ0418JA040908,Testing Concepts.,DLPJP18JAVAB4_Testing,2.4
+DLPJ0418JA040909,IT Foundation Skills,DLPJP18JAVAB4_Foundation,17.7
+DLPJ0418JA040909,JAVA - Online,DLPJP18JAVAB4_Java Programming Fundamentals,20.9
+DLPJ0418JA040909,Life Skills,Business Communication - Java Stream,0.6
+DLPJ0418JA040909,PJP  Webinar,DLPJ0418Java_Webinar,0.2
+DLPJ0418JA040909,Testing Concepts.,DLPJP18JAVAB4_Testing,1.2
+DLPJ0418JA040910,IT Foundation Skills,DLPJP18JAVAB4_Foundation,10.4
+DLPJ0418JA040910,JAVA - Online,DLPJP18JAVAB4_Java Programming Fundamentals,25
+DLPJ0418JA040910,Life Skills,Business Communication - Java Stream,2.9
+DLPJ0418JA040910,Testing Concepts.,DLPJP18JAVAB4_Testing,4.3
+DLPJ0418JA040911,IT Foundation Skills,DLPJP18JAVAB4_Foundation,16.3
+DLPJ0418JA040911,JAVA - Online,DLPJP18JAVAB4_Java Programming Fundamentals,38.2
+DLPJ0418JA040911,Life Skills,Business Communication - Java Stream,1.4
+DLPJ0418JA040911,PJP  Webinar,DLPJ0418Java_Webinar,0.1
+DLPJ0418JA040911,Testing Concepts.,DLPJP18JAVAB4_Testing,2.2
+DLPJ0418JA040912,IT Foundation Skills,DLPJP18JAVAB4_Foundation,10.7
+DLPJ0418JA040912,JAVA - Online,DLPJP18JAVAB4_Java Programming Fundamentals,15
+DLPJ0418JA040912,Life Skills,Business Communication - Java Stream,0.3
+DLPJ0418JA040913,IT Foundation Skills,DLPJP18JAVAB4_Foundation,17.9
+DLPJ0418JA040913,JAVA - Online,DLPJP18JAVAB4_Java Programming Fundamentals,61.5
+DLPJ0418JA040913,Life Skills,Business Communication - Java Stream,3.8
+DLPJ0418JA040913,PJP  Webinar,DLPJ0418Java_Webinar,0.2
+DLPJ0418JA040913,Testing Concepts.,DLPJP18JAVAB4_Testing,4.4
+DLPJ0418JA040914,IT Foundation Skills,DLPJP18JAVAB4_Foundation,13.6
+DLPJ0418JA040914,JAVA - Online,DLPJP18JAVAB4_Java Programming Fundamentals,28
+DLPJ0418JA040914,Life Skills,Business Communication - Java Stream,0.1
+DLPJ0418JA040914,PJP  Webinar,DLPJ0418Java_Webinar,0
+DLPJ0418JA040914,Testing Concepts.,DLPJP18JAVAB4_Testing,1.8
+DLPJ0418JA040915,IT Foundation Skills,DLPJP18JAVAB4_Foundation,9.7
+DLPJ0418JA040915,JAVA - Online,DLPJP18JAVAB4_Java Programming Fundamentals,35.3
+DLPJ0418JA040915,Life Skills,Business Communication - Java Stream,1.2
+DLPJ0418JA040915,PJP  Webinar,DLPJ0418Java_Webinar,0
+DLPJ0418JA040915,Testing Concepts.,DLPJP18JAVAB4_Testing,0.9
+DLPJ0418JA040916,IT Foundation Skills,DLPJP18JAVAB4_Foundation,10.3
+DLPJ0418JA040916,JAVA - Online,DLPJP18JAVAB4_Java Programming Fundamentals,42.2
+DLPJ0418JA040916,Life Skills,Business Communication - Java Stream,2.1
+DLPJ0418JA040916,PJP  Webinar,DLPJ0418Java_Webinar,0
+DLPJ0418JA040918,IT Foundation Skills,DLPJP18JAVAB4_Foundation,0.2
+DLPJ0418JA040918,JAVA - Online,DLPJP18JAVAB4_Java Programming Fundamentals,2.8
+DLPJ0418JA040918,Life Skills,Business Communication - Java Stream,0.1
+DLPJ0418JA040919,IT Foundation Skills,DLPJP18JAVAB4_Foundation,17.6
+DLPJ0418JA040919,JAVA - Online,DLPJP18JAVAB4_Java Programming Fundamentals,41.2
+DLPJ0418JA040919,Life Skills,Business Communication - Java Stream,3.6
+DLPJ0418JA040919,PJP  Webinar,DLPJ0418Java_Webinar,0.7
+DLPJ0418JA040919,Testing Concepts.,DLPJP18JAVAB4_Testing,2.9
+DLPJ0418JA040920,IT Foundation Skills,DLPJP18JAVAB4_Foundation,9.2
+DLPJ0418JA040920,JAVA - Online,DLPJP18JAVAB4_Java Programming Fundamentals,21.6
+DLPJ0418JA040920,Life Skills,Business Communication - Java Stream,1.7
+DLPJ0418JA040920,PJP  Webinar,DLPJ0418Java_Webinar,0.4
+DLPJ0418JA040920,Testing Concepts.,DLPJP18JAVAB4_Testing,2.6
+DLPJ0418JA040921,IT Foundation Skills,DLPJP18JAVAB4_Foundation,10.5
+DLPJ0418JA040921,JAVA - Online,DLPJP18JAVAB4_Java Programming Fundamentals,9.3
+DLPJ0418JA040921,Life Skills,Business Communication - Java Stream,2.1
+DLPJ0418JA040921,PJP  Webinar,DLPJ0418Java_Webinar,1
+DLPJ0418JA040921,Testing Concepts.,DLPJP18JAVAB4_Testing,1.4
+DLPJ0418JA040922,IT Foundation Skills,DLPJP18JAVAB4_Foundation,8.5
+DLPJ0418JA040922,JAVA - Online,DLPJP18JAVAB4_Java Programming Fundamentals,22
+DLPJ0418JA040922,Life Skills,Business Communication - Java Stream,2.8
+DLPJ0418JA040922,Testing Concepts.,DLPJP18JAVAB4_Testing,1.2
+DLPJ0418JA040924,IT Foundation Skills,DLPJP18JAVAB4_Foundation,12.8
+DLPJ0418JA040924,JAVA - Online,DLPJP18JAVAB4_Java Programming Fundamentals,33.4
+DLPJ0418JA040924,Life Skills,Business Communication - Java Stream,4.1
+DLPJ0418JA040924,PJP  Webinar,DLPJ0418Java_Webinar,2.1
+DLPJ0418JA040924,Testing Concepts.,DLPJP18JAVAB4_Testing,1.3
+DLPJ0418JA040925,IT Foundation Skills,DLPJP18JAVAB4_Foundation,12
+DLPJ0418JA040925,JAVA - Online,DLPJP18JAVAB4_Java Programming Fundamentals,24.7
+DLPJ0418JA040925,Life Skills,Business Communication - Java Stream,1.7
+DLPJ0418JA040925,PJP  Webinar,DLPJ0418Java_Webinar,0.5
+DLPJ0418JA040925,Testing Concepts.,DLPJP18JAVAB4_Testing,1.4
+DLPJ0418JA040926,IT Foundation Skills,DLPJP18JAVAB4_Foundation,14.7
+DLPJ0418JA040926,JAVA - Online,DLPJP18JAVAB4_Java Programming Fundamentals,25
+DLPJ0418JA040926,Life Skills,Business Communication - Java Stream,0.6
+DLPJ0418JA040926,PJP  Webinar,DLPJ0418Java_Webinar,0.1
+DLPJ0418JA040926,Testing Concepts.,DLPJP18JAVAB4_Testing,2.7
+DLPJ0418JA040927,IT Foundation Skills,DLPJP18JAVAB4_Foundation,16.9
+DLPJ0418JA040927,JAVA - Online,DLPJP18JAVAB4_Java Programming Fundamentals,15.2
+DLPJ0418JA040927,Life Skills,Business Communication - Java Stream,0.6
+DLPJ0418JA040927,PJP  Webinar,DLPJ0418Java_Webinar,0
+DLPJ0418JA040927,Testing Concepts.,DLPJP18JAVAB4_Testing,3.3
+DLPJ0418JA040928,IT Foundation Skills,DLPJP18JAVAB4_Foundation,19.2
+DLPJ0418JA040928,JAVA - Online,DLPJP18JAVAB4_Java Programming Fundamentals,64.4
+DLPJ0418JA040928,Life Skills,Business Communication - Java Stream,3.5
+DLPJ0418JA040928,PJP  Webinar,DLPJ0418Java_Webinar,0.6
+DLPJ0418JA040928,Testing Concepts.,DLPJP18JAVAB4_Testing,6.8
+DLPJ0418JA040929,IT Foundation Skills,DLPJP18JAVAB4_Foundation,9
+DLPJ0418JA040929,JAVA - Online,DLPJP18JAVAB4_Java Programming Fundamentals,12.4
+DLPJ0418JA040929,Life Skills,Business Communication - Java Stream,2.5
+DLPJ0418JA040929,PJP  Webinar,DLPJ0418Java_Webinar,0.9
+DLPJ0418JA040929,Testing Concepts.,DLPJP18JAVAB4_Testing,2.2
+DLPJ0418JA040930,IT Foundation Skills,DLPJP18JAVAB4_Foundation,13.3
+DLPJ0418JA040930,JAVA - Online,DLPJP18JAVAB4_Java Programming Fundamentals,29.7
+DLPJ0418JA040930,Life Skills,Business Communication - Java Stream,2
+DLPJ0418JA040930,PJP  Webinar,DLPJ0418Java_Webinar,0.5
+DLPJ0418JA040930,Testing Concepts.,DLPJP18JAVAB4_Testing,3.4
+DLPJ0418JA040931,IT Foundation Skills,DLPJP18JAVAB4_Foundation,2.3
+DLPJ0418JA040931,JAVA - Online,DLPJP18JAVAB4_Java Programming Fundamentals,5.2
+DLPJ0418JA040931,Life Skills,Business Communication - Java Stream,1.5
+DLPJ0418JA040931,PJP  Webinar,DLPJ0418Java_Webinar,0.2
+DLPJ0418JA040931,Testing Concepts.,DLPJP18JAVAB4_Testing,0
+DLPJ0418JA040933,IT Foundation Skills,DLPJP18JAVAB4_Foundation,15.9
+DLPJ0418JA040933,JAVA - Online,DLPJP18JAVAB4_Java Programming Fundamentals,26.5
+DLPJ0418JA040933,Life Skills,Business Communication - Java Stream,0
+DLPJ0418JA040933,Testing Concepts.,DLPJP18JAVAB4_Testing,1.6
+DLPJ0418JA040934,IT Foundation Skills,DLPJP18JAVAB4_Foundation,18.5
+DLPJ0418JA040934,JAVA - Online,DLPJP18JAVAB4_Java Programming Fundamentals,57
+DLPJ0418JA040934,Life Skills,Business Communication - Java Stream,0.1
+DLPJ0418JA040934,PJP  Webinar,DLPJ0418Java_Webinar,0.5
+DLPJ0418JA040934,Testing Concepts.,DLPJP18JAVAB4_Testing,7.4
+DLPJ0418JA040935,IT Foundation Skills,DLPJP18JAVAB4_Foundation,6.3
+DLPJ0418JA040935,JAVA - Online,DLPJP18JAVAB4_Java Programming Fundamentals,6.4
+DLPJ0418JA040935,Life Skills,Business Communication - Java Stream,1.1
+DLPJ0418JA040935,PJP  Webinar,DLPJ0418Java_Webinar,0.3
+DLPJ0418JA040935,Testing Concepts.,DLPJP18JAVAB4_Testing,0.4
+DLPJ0418JA040936,IT Foundation Skills,DLPJP18JAVAB4_Foundation,4.7
+DLPJ0418JA040936,JAVA - Online,DLPJP18JAVAB4_Java Programming Fundamentals,14.6
+DLPJ0418JA040936,Life Skills,Business Communication - Java Stream,0.9
+DLPJ0418JA040936,PJP  Webinar,DLPJ0418Java_Webinar,1.9
+DLPJ0418JA040936,Testing Concepts.,DLPJP18JAVAB4_Testing,0.8
+DLPJ0418JA040937,IT Foundation Skills,DLPJP18JAVAB4_Foundation,13.1
+DLPJ0418JA040937,JAVA - Online,DLPJP18JAVAB4_Java Programming Fundamentals,37
+DLPJ0418JA040937,Life Skills,Business Communication - Java Stream,2.5
+DLPJ0418JA040937,PJP  Webinar,DLPJ0418Java_Webinar,0.3
+DLPJ0418JA040937,Testing Concepts.,DLPJP18JAVAB4_Testing,2.6
+DLPJ0418JA040938,IT Foundation Skills,DLPJP18JAVAB4_Foundation,6.7
+DLPJ0418JA040938,JAVA - Online,DLPJP18JAVAB4_Java Programming Fundamentals,22
+DLPJ0418JA040938,Life Skills,Business Communication - Java Stream,1.3
+DLPJ0418JA040938,PJP  Webinar,DLPJ0418Java_Webinar,0.6
+DLPJ0418JA040938,Testing Concepts.,DLPJP18JAVAB4_Testing,1
+DLPJ0418JA040939,IT Foundation Skills,DLPJP18JAVAB4_Foundation,9.9
+DLPJ0418JA040939,JAVA - Online,DLPJP18JAVAB4_Java Programming Fundamentals,4.5
+DLPJ0418JA040939,Life Skills,Business Communication - Java Stream,4.8
+DLPJ0418JA040939,PJP  Webinar,DLPJ0418Java_Webinar,0.5
+DLPJ0418JA040939,Testing Concepts.,DLPJP18JAVAB4_Testing,0.8
+DLPJ0418JA040940,IT Foundation Skills,DLPJP18JAVAB4_Foundation,6.6
+DLPJ0418JA040940,JAVA - Online,DLPJP18JAVAB4_Java Programming Fundamentals,24.9
+DLPJ0418JA040940,PJP  Webinar,DLPJ0418Java_Webinar,0.9
+DLPJ0418JA040940,Testing Concepts.,DLPJP18JAVAB4_Testing,1.4
+DLPJ0418JA040941,IT Foundation Skills,DLPJP18JAVAB4_Foundation,6.2
+DLPJ0418JA040941,JAVA - Online,DLPJP18JAVAB4_Java Programming Fundamentals,9.7
+DLPJ0418JA040941,Life Skills,Business Communication - Java Stream,1.1
+DLPJ0418JA040941,PJP  Webinar,DLPJ0418Java_Webinar,0
+DLPJ0418JA040941,Testing Concepts.,DLPJP18JAVAB4_Testing,0.8
+DLPJ0418JA040942,IT Foundation Skills,DLPJP18JAVAB4_Foundation,3.1
+DLPJ0418JA040942,JAVA - Online,DLPJP18JAVAB4_Java Programming Fundamentals,0
+DLPJ0418JA040942,Life Skills,Business Communication - Java Stream,1.4
+DLPJ0418JA040942,PJP  Webinar,DLPJ0418Java_Webinar,0.6
+DLPJ0418JA040943,IT Foundation Skills,DLPJP18JAVAB4_Foundation,12.2
+DLPJ0418JA040943,JAVA - Online,DLPJP18JAVAB4_Java Programming Fundamentals,9.5
+DLPJ0418JA040943,Life Skills,Business Communication - Java Stream,3.4
+DLPJ0418JA040943,PJP  Webinar,DLPJ0418Java_Webinar,0.5
+DLPJ0418JA040943,Testing Concepts.,DLPJP18JAVAB4_Testing,1.9
+DLPJ0418JA040946,IT Foundation Skills,DLPJP18JAVAB4_Foundation,11.5
+DLPJ0418JA040946,JAVA - Online,DLPJP18JAVAB4_Java Programming Fundamentals,43
+DLPJ0418JA040946,Life Skills,Business Communication - Java Stream,2.1
+DLPJ0418JA040946,PJP  Webinar,DLPJ0418Java_Webinar,0.8
+DLPJ0418JA040946,Testing Concepts.,DLPJP18JAVAB4_Testing,4.6
+DLPJ0418JA040947,Testing Concepts.,DLPJP18JAVAB4_Testing,0.1
+DLPJ0418JA040948,IT Foundation Skills,DLPJP18JAVAB4_Foundation,8.1
+DLPJ0418JA040948,JAVA - Online,DLPJP18JAVAB4_Java Programming Fundamentals,5.5
+DLPJ0418JA040948,Life Skills,Business Communication - Java Stream,2.3
+DLPJ0418JA040948,PJP  Webinar,DLPJ0418Java_Webinar,0
+DLPJ0418JA040950,IT Foundation Skills,DLPJP18JAVAB4_Foundation,15.3
+DLPJ0418JA040950,JAVA - Online,DLPJP18JAVAB4_Java Programming Fundamentals,43.9
+DLPJ0418JA040950,Life Skills,Business Communication - Java Stream,2.6
+DLPJ0418JA040950,PJP  Webinar,DLPJ0418Java_Webinar,0.5
+DLPJ0418JA040950,Testing Concepts.,DLPJP18JAVAB4_Testing,2.5
+DLPJ0418JA040951,IT Foundation Skills,DLPJP18JAVAB4_Foundation,16
+DLPJ0418JA040951,JAVA - Online,DLPJP18JAVAB4_Java Programming Fundamentals,26.4
+DLPJ0418JA040951,PJP  Webinar,DLPJ0418Java_Webinar,1.2
+DLPJ0418JA040951,Testing Concepts.,DLPJP18JAVAB4_Testing,1.5
+DLPJ0418JA040953,IT Foundation Skills,DLPJP18JAVAB4_Foundation,10.7
+DLPJ0418JA040953,JAVA - Online,DLPJP18JAVAB4_Java Programming Fundamentals,32.5
+DLPJ0418JA040953,Life Skills,Business Communication - Java Stream,2.1
+DLPJ0418JA040953,PJP  Webinar,DLPJ0418Java_Webinar,0
+DLPJ0418JA040953,Testing Concepts.,DLPJP18JAVAB4_Testing,2.5
+DLPJ0418JA040954,IT Foundation Skills,DLPJP18JAVAB4_Foundation,7.2
+DLPJ0418JA040954,JAVA - Online,DLPJP18JAVAB4_Java Programming Fundamentals,28.2
+DLPJ0418JA040954,Life Skills,Business Communication - Java Stream,1.3
+DLPJ0418JA040954,PJP  Webinar,DLPJ0418Java_Webinar,0.6
+DLPJ0418JA040954,Testing Concepts.,DLPJP18JAVAB4_Testing,2.7
+DLPJ0418JA040956,IT Foundation Skills,DLPJP18JAVAB4_Foundation,16.2
+DLPJ0418JA040956,JAVA - Online,DLPJP18JAVAB4_Java Programming Fundamentals,9.5
+DLPJ0418JA040956,PJP  Webinar,DLPJ0418Java_Webinar,0.1
+DLPJ0418JA040956,Testing Concepts.,DLPJP18JAVAB4_Testing,2.1
+DLPJ0418JA040957,IT Foundation Skills,DLPJP18JAVAB4_Foundation,17
+DLPJ0418JA040957,JAVA - Online,DLPJP18JAVAB4_Java Programming Fundamentals,29.1
+DLPJ0418JA040957,Life Skills,Business Communication - Java Stream,0.1
+DLPJ0418JA040957,PJP  Webinar,DLPJ0418Java_Webinar,0
+DLPJ0418JA040957,Testing Concepts.,DLPJP18JAVAB4_Testing,1.2
+DLPJ0418JA040958,IT Foundation Skills,DLPJP18JAVAB4_Foundation,12.2
+DLPJ0418JA040958,JAVA - Online,DLPJP18JAVAB4_Java Programming Fundamentals,5.1
+DLPJ0418JA040958,Life Skills,Business Communication - Java Stream,0.4
+DLPJ0418JA040958,PJP  Webinar,DLPJ0418Java_Webinar,0.3
+DLPJ0418JA040959,IT Foundation Skills,DLPJP18JAVAB4_Foundation,7.4
+DLPJ0418JA040959,JAVA - Online,DLPJP18JAVAB4_Java Programming Fundamentals,0.8
+DLPJ0418JA040960,IT Foundation Skills,DLPJP18JAVAB4_Foundation,9.4
+DLPJ0418JA040960,JAVA - Online,DLPJP18JAVAB4_Java Programming Fundamentals,8.8
+DLPJ0418JA040960,PJP  Webinar,DLPJ0418Java_Webinar,0.3
+DLPJ0418JA040961,IT Foundation Skills,DLPJP18JAVAB4_Foundation,20.2
+DLPJ0418JA040961,JAVA - Online,DLPJP18JAVAB4_Java Programming Fundamentals,26.2
+DLPJ0418JA040961,PJP  Webinar,DLPJ0418Java_Webinar,0.5
+DLPJ0418JA040961,Testing Concepts.,DLPJP18JAVAB4_Testing,1.1
+DLPJ0418JA040962,IT Foundation Skills,DLPJP18JAVAB4_Foundation,3.2
+DLPJ0418JA040962,JAVA - Online,DLPJP18JAVAB4_Java Programming Fundamentals,0.4
+DLPJ0418JA040962,Life Skills,Business Communication - Java Stream,0.7
+DLPJ0418JA040962,PJP  Webinar,DLPJ0418Java_Webinar,0.7
+DLPJ0418JA040963,IT Foundation Skills,DLPJP18JAVAB4_Foundation,9.2
+DLPJ0418JA040963,JAVA - Online,DLPJP18JAVAB4_Java Programming Fundamentals,12
+DLPJ0418JA040963,Life Skills,Business Communication - Java Stream,0.3
+DLPJ0418JA040963,PJP  Webinar,DLPJ0418Java_Webinar,0.6
+DLPJ0418JA040964,IT Foundation Skills,DLPJP18JAVAB4_Foundation,5.1
+DLPJ0418JA040964,JAVA - Online,DLPJP18JAVAB4_Java Programming Fundamentals,4.8
+DLPJ0418JA040964,Life Skills,Business Communication - Java Stream,0.8
+DLPJ0418JA040964,PJP  Webinar,DLPJ0418Java_Webinar,0.3
+DLPJ0418JA040964,Testing Concepts.,DLPJP18JAVAB4_Testing,2.7
+DLPJ0418JA040965,IT Foundation Skills,DLPJP18JAVAB4_Foundation,5.1
+DLPJ0418JA040965,JAVA - Online,DLPJP18JAVAB4_Java Programming Fundamentals,2.3
+DLPJ0418JA040965,Life Skills,Business Communication - Java Stream,1.5
+DLPJ0418JA040965,PJP  Webinar,DLPJ0418Java_Webinar,0.1
+DLPJ0418JA040965,Testing Concepts.,DLPJP18JAVAB4_Testing,1.8
+DLPJ0418JA040966,IT Foundation Skills,DLPJP18JAVAB4_Foundation,1.9
+DLPJ0418JA040966,JAVA - Online,DLPJP18JAVAB4_Java Programming Fundamentals,2.5
+DLPJ0418JA040966,Life Skills,Business Communication - Java Stream,0.7
+DLPJ0418JA040966,PJP  Webinar,DLPJ0418Java_Webinar,0.1
+DLPJ0418JA040966,Testing Concepts.,DLPJP18JAVAB4_Testing,0.2
+DLPJ0418JA040967,IT Foundation Skills,DLPJP18JAVAB4_Foundation,9.1
+DLPJ0418JA040967,JAVA - Online,DLPJP18JAVAB4_Java Programming Fundamentals,20.3
+DLPJ0418JA040967,Life Skills,Business Communication - Java Stream,0.5
+DLPJ0418JA040967,PJP  Webinar,DLPJ0418Java_Webinar,0.5
+DLPJ0418JA040967,Testing Concepts.,DLPJP18JAVAB4_Testing,0.9
+DLPJ0418JA040968,IT Foundation Skills,DLPJP18JAVAB4_Foundation,14.1
+DLPJ0418JA040968,JAVA - Online,DLPJP18JAVAB4_Java Programming Fundamentals,12.1
+DLPJ0418JA040968,Life Skills,Business Communication - Java Stream,0.4
+DLPJ0418JA040968,PJP  Webinar,DLPJ0418Java_Webinar,0
+DLPJ0418JA040968,Testing Concepts.,DLPJP18JAVAB4_Testing,0
+DLPJ0418JA040969,IT Foundation Skills,DLPJP18JAVAB4_Foundation,13.8
+DLPJ0418JA040969,JAVA - Online,DLPJP18JAVAB4_Java Programming Fundamentals,3.9
+DLPJ0418JA040969,Life Skills,Business Communication - Java Stream,0.1
+DLPJ0418JA040969,PJP  Webinar,DLPJ0418Java_Webinar,0.7
+DLPJ0418JA040969,Testing Concepts.,DLPJP18JAVAB4_Testing,0.9
+DLPJ0418JA040970,IT Foundation Skills,DLPJP18JAVAB4_Foundation,5.2
+DLPJ0418JA040970,JAVA - Online,DLPJP18JAVAB4_Java Programming Fundamentals,3.9
+DLPJ0418JA040970,Life Skills,Business Communication - Java Stream,1
+DLPJ0418JA040970,PJP  Webinar,DLPJ0418Java_Webinar,0.5
+DLPJ0418JA040970,Testing Concepts.,DLPJP18JAVAB4_Testing,0.1
+DLPJ0418JA040971,IT Foundation Skills,DLPJP18JAVAB4_Foundation,10.5
+DLPJ0418JA040971,JAVA - Online,DLPJP18JAVAB4_Java Programming Fundamentals,6.5
+DLPJ0418JA040971,Life Skills,Business Communication - Java Stream,0.8
+DLPJ0418JA040971,PJP  Webinar,DLPJ0418Java_Webinar,0
+DLPJ0418JA040971,Testing Concepts.,DLPJP18JAVAB4_Testing,0.4
+DLPJ0418JA040972,IT Foundation Skills,DLPJP18JAVAB4_Foundation,8.5
+DLPJ0418JA040972,JAVA - Online,DLPJP18JAVAB4_Java Programming Fundamentals,6.9
+DLPJ0418JA040972,PJP  Webinar,DLPJ0418Java_Webinar,0.1
+DLPJ0418JA040972,Testing Concepts.,DLPJP18JAVAB4_Testing,1.2
+DLPJ0418JA040974,IT Foundation Skills,DLPJP18JAVAB4_Foundation,14.2
+DLPJ0418JA040974,JAVA - Online,DLPJP18JAVAB4_Java Programming Fundamentals,17.7
+DLPJ0418JA040974,Life Skills,Business Communication - Java Stream,0.2
+DLPJ0418JA040974,Testing Concepts.,DLPJP18JAVAB4_Testing,0.9
+DLPJ0418JA040975,IT Foundation Skills,DLPJP18JAVAB4_Foundation,13
+DLPJ0418JA040975,JAVA - Online,DLPJP18JAVAB4_Java Programming Fundamentals,30.7
+DLPJ0418JA040975,Life Skills,Business Communication - Java Stream,2.7
+DLPJ0418JA040975,PJP  Webinar,DLPJ0418Java_Webinar,0
+DLPJ0418JA040975,Testing Concepts.,DLPJP18JAVAB4_Testing,3.3
+DLPJ0418JA040976,IT Foundation Skills,DLPJP18JAVAB4_Foundation,3.3
+DLPJ0418JA040976,JAVA - Online,DLPJP18JAVAB4_Java Programming Fundamentals,3.7
+DLPJ0418JA040976,Life Skills,Business Communication - Java Stream,3.1
+DLPJ0418JA040976,PJP  Webinar,DLPJ0418Java_Webinar,0
+DLPJ0418JA040976,Testing Concepts.,DLPJP18JAVAB4_Testing,3.9
+DLPJ0418JA040977,IT Foundation Skills,DLPJP18JAVAB4_Foundation,7.3
+DLPJ0418JA040977,JAVA - Online,DLPJP18JAVAB4_Java Programming Fundamentals,6.6
+DLPJ0418JA040977,Life Skills,Business Communication - Java Stream,1.1
+DLPJ0418JA040977,Testing Concepts.,DLPJP18JAVAB4_Testing,0.3
+DLPJ0418JA040978,IT Foundation Skills,DLPJP18JAVAB4_Foundation,11.5
+DLPJ0418JA040978,JAVA - Online,DLPJP18JAVAB4_Java Programming Fundamentals,6
+DLPJ0418JA040978,Life Skills,Business Communication - Java Stream,1.4
+DLPJ0418JA040978,PJP  Webinar,DLPJ0418Java_Webinar,1.2
+DLPJ0418JA040978,Testing Concepts.,DLPJP18JAVAB4_Testing,2.2
+DLPJ0418JA040979,IT Foundation Skills,DLPJP18JAVAB4_Foundation,9.7
+DLPJ0418JA040979,JAVA - Online,DLPJP18JAVAB4_Java Programming Fundamentals,20.5
+DLPJ0418JA040979,Life Skills,Business Communication - Java Stream,0.3
+DLPJ0418JA040979,PJP  Webinar,DLPJ0418Java_Webinar,0
+DLPJ0418JA040979,Testing Concepts.,DLPJP18JAVAB4_Testing,1.1
+DLPJ0418JA040980,IT Foundation Skills,DLPJP18JAVAB4_Foundation,20.5
+DLPJ0418JA040980,JAVA - Online,DLPJP18JAVAB4_Java Programming Fundamentals,15.5
+DLPJ0418JA040980,Life Skills,Business Communication - Java Stream,2.6
+DLPJ0418JA040980,PJP  Webinar,DLPJ0418Java_Webinar,0.1
+DLPJ0418JA040980,Testing Concepts.,DLPJP18JAVAB4_Testing,3.2
+DLPJ0418JA040981,IT Foundation Skills,DLPJP18JAVAB4_Foundation,10.2
+DLPJ0418JA040981,JAVA - Online,DLPJP18JAVAB4_Java Programming Fundamentals,31.3
+DLPJ0418JA040981,Life Skills,Business Communication - Java Stream,0.9
+DLPJ0418JA040981,PJP  Webinar,DLPJ0418Java_Webinar,0.4
+DLPJ0418JA040981,Testing Concepts.,DLPJP18JAVAB4_Testing,1
+DLPJ0418JA040984,IT Foundation Skills,DLPJP18JAVAB4_Foundation,4.9
+DLPJ0418JA040984,JAVA - Online,DLPJP18JAVAB4_Java Programming Fundamentals,1.3
+DLPJ0418JA040984,Life Skills,Business Communication - Java Stream,0.8
+DLPJ0418JA040984,PJP  Webinar,DLPJ0418Java_Webinar,0
+DLPJ0418JA040985,IT Foundation Skills,DLPJP18JAVAB4_Foundation,12.3
+DLPJ0418JA040985,JAVA - Online,DLPJP18JAVAB4_Java Programming Fundamentals,26.8
+DLPJ0418JA040985,Life Skills,Business Communication - Java Stream,1.5
+DLPJ0418JA040985,PJP  Webinar,DLPJ0418Java_Webinar,0.1
+DLPJ0418JA040985,Testing Concepts.,DLPJP18JAVAB4_Testing,2.1
+DLPJ0418JA040986,IT Foundation Skills,DLPJP18JAVAB4_Foundation,10.7
+DLPJ0418JA040986,JAVA - Online,DLPJP18JAVAB4_Java Programming Fundamentals,29.3
+DLPJ0418JA040986,Life Skills,Business Communication - Java Stream,2.7
+DLPJ0418JA040986,PJP  Webinar,DLPJ0418Java_Webinar,0.1
+DLPJ0418JA040986,Testing Concepts.,DLPJP18JAVAB4_Testing,2.3
+DLPJ0418JA040987,IT Foundation Skills,DLPJP18JAVAB4_Foundation,15.5
+DLPJ0418JA040987,JAVA - Online,DLPJP18JAVAB4_Java Programming Fundamentals,35
+DLPJ0418JA040987,Life Skills,Business Communication - Java Stream,2.1
+DLPJ0418JA040987,PJP  Webinar,DLPJ0418Java_Webinar,0
+DLPJ0418JA040987,Testing Concepts.,DLPJP18JAVAB4_Testing,2.4
+DLPJ0418JA040988,IT Foundation Skills,DLPJP18JAVAB4_Foundation,15.6
+DLPJ0418JA040988,JAVA - Online,DLPJP18JAVAB4_Java Programming Fundamentals,30
+DLPJ0418JA040988,Life Skills,Business Communication - Java Stream,3
+DLPJ0418JA040988,PJP  Webinar,DLPJ0418Java_Webinar,0
+DLPJ0418JA040988,Testing Concepts.,DLPJP18JAVAB4_Testing,4.3
+DLPJ0418JA040989,IT Foundation Skills,DLPJP18JAVAB4_Foundation,8.4
+DLPJ0418JA040989,JAVA - Online,DLPJP18JAVAB4_Java Programming Fundamentals,22.9
+DLPJ0418JA040989,Life Skills,Business Communication - Java Stream,1.5
+DLPJ0418JA040989,PJP  Webinar,DLPJ0418Java_Webinar,0.1
+DLPJ0418JA040989,Testing Concepts.,DLPJP18JAVAB4_Testing,1.6
+DLPJ0418JA040992,Life Skills,Business Communication - Java Stream,0.2
+DLPJ0418JA040992,PJP  Webinar,DLPJ0418Java_Webinar,0
+DLPJ0418JA040993,IT Foundation Skills,DLPJP18JAVAB4_Foundation,13.9
+DLPJ0418JA040993,JAVA - Online,DLPJP18JAVAB4_Java Programming Fundamentals,28.6
+DLPJ0418JA040993,Life Skills,Business Communication - Java Stream,1
+DLPJ0418JA040993,PJP  Webinar,DLPJ0418Java_Webinar,1
+DLPJ0418JA040993,Testing Concepts.,DLPJP18JAVAB4_Testing,1.8
+DLPJ0418JA040994,IT Foundation Skills,DLPJP18JAVAB4_Foundation,13.2
+DLPJ0418JA040994,JAVA - Online,DLPJP18JAVAB4_Java Programming Fundamentals,29.2
+DLPJ0418JA040994,Life Skills,Business Communication - Java Stream,2.9
+DLPJ0418JA040994,PJP  Webinar,DLPJ0418Java_Webinar,0.5
+DLPJ0418JA040994,Testing Concepts.,DLPJP18JAVAB4_Testing,2.5
+DLPJ0418JA040995,IT Foundation Skills,DLPJP18JAVAB4_Foundation,7.2
+DLPJ0418JA040995,JAVA - Online,DLPJP18JAVAB4_Java Programming Fundamentals,12.8
+DLPJ0418JA040995,Life Skills,Business Communication - Java Stream,0.5
+DLPJ0418JA040995,PJP  Webinar,DLPJ0418Java_Webinar,0
+DLPJ0418JA040995,Testing Concepts.,DLPJP18JAVAB4_Testing,1.7
+DLPJ0418JA040996,IT Foundation Skills,DLPJP18JAVAB4_Foundation,10.9
+DLPJ0418JA040996,JAVA - Online,DLPJP18JAVAB4_Java Programming Fundamentals,19.5
+DLPJ0418JA040996,Life Skills,Business Communication - Java Stream,2.6
+DLPJ0418JA040996,PJP  Webinar,DLPJ0418Java_Webinar,1.6
+DLPJ0418JA040996,Testing Concepts.,DLPJP18JAVAB4_Testing,4.2
+DLPJ0418JA040997,IT Foundation Skills,DLPJP18JAVAB4_Foundation,11.2
+DLPJ0418JA040997,JAVA - Online,DLPJP18JAVAB4_Java Programming Fundamentals,25.4
+DLPJ0418JA040997,Life Skills,Business Communication - Java Stream,2
+DLPJ0418JA040997,PJP  Webinar,DLPJ0418Java_Webinar,1.4
+DLPJ0418JA040997,Testing Concepts.,DLPJP18JAVAB4_Testing,1.2
+DLPJ0418JA040998,IT Foundation Skills,DLPJP18JAVAB4_Foundation,14.1
+DLPJ0418JA040998,JAVA - Online,DLPJP18JAVAB4_Java Programming Fundamentals,10.7
+DLPJ0418JA040998,Life Skills,Business Communication - Java Stream,1.9
+DLPJ0418JA040998,PJP  Webinar,DLPJ0418Java_Webinar,0.1
+DLPJ0418JA040998,Testing Concepts.,DLPJP18JAVAB4_Testing,1.7
+DLPJ0418JA040999,IT Foundation Skills,DLPJP18JAVAB4_Foundation,11.3
+DLPJ0418JA040999,JAVA - Online,DLPJP18JAVAB4_Java Programming Fundamentals,19.9
+DLPJ0418JA040999,Life Skills,Business Communication - Java Stream,1.1
+DLPJ0418JA040999,PJP  Webinar,DLPJ0418Java_Webinar,0.8
+DLPJ0418JA040999,Testing Concepts.,DLPJP18JAVAB4_Testing,2
+DLPJ0418JA041000,IT Foundation Skills,DLPJP18JAVAB4_Foundation,16.6
+DLPJ0418JA041000,JAVA - Online,DLPJP18JAVAB4_Java Programming Fundamentals,34.6
+DLPJ0418JA041000,Life Skills,Business Communication - Java Stream,2.7
+DLPJ0418JA041000,PJP  Webinar,DLPJ0418Java_Webinar,0.6
+DLPJ0418JA041000,Testing Concepts.,DLPJP18JAVAB4_Testing,5.3
+DLPJ0418JA041001,IT Foundation Skills,DLPJP18JAVAB4_Foundation,14.7
+DLPJ0418JA041001,JAVA - Online,DLPJP18JAVAB4_Java Programming Fundamentals,34.5
+DLPJ0418JA041001,Life Skills,Business Communication - Java Stream,3.5
+DLPJ0418JA041001,PJP  Webinar,DLPJ0418Java_Webinar,0
+DLPJ0418JA041001,Testing Concepts.,DLPJP18JAVAB4_Testing,0.1
+DLPJ0418JA041002,IT Foundation Skills,DLPJP18JAVAB4_Foundation,22
+DLPJ0418JA041002,JAVA - Online,DLPJP18JAVAB4_Java Programming Fundamentals,38.2
+DLPJ0418JA041002,Life Skills,Business Communication - Java Stream,4.7
+DLPJ0418JA041002,PJP  Webinar,DLPJ0418Java_Webinar,0.1
+DLPJ0418JA041002,Testing Concepts.,DLPJP18JAVAB4_Testing,1.9
+DLPJ0418JA041003,IT Foundation Skills,DLPJP18JAVAB4_Foundation,2.8
+DLPJ0418JA041003,JAVA - Online,DLPJP18JAVAB4_Java Programming Fundamentals,18.9
+DLPJ0418JA041003,PJP  Webinar,DLPJ0418Java_Webinar,0
+DLPJ0418JA041003,Testing Concepts.,DLPJP18JAVAB4_Testing,1.5
+DLPJ0418JA041004,IT Foundation Skills,DLPJP18JAVAB4_Foundation,3.9
+DLPJ0418JA041004,JAVA - Online,DLPJP18JAVAB4_Java Programming Fundamentals,46.9
+DLPJ0418JA041004,PJP  Webinar,DLPJ0418Java_Webinar,0.1
+DLPJ0418JA041004,Testing Concepts.,DLPJP18JAVAB4_Testing,5.3
+DLPJ0418JA041005,IT Foundation Skills,DLPJP18JAVAB4_Foundation,2.7
+DLPJ0418JA041005,JAVA - Online,DLPJP18JAVAB4_Java Programming Fundamentals,34.5
+DLPJ0418JA041005,PJP  Webinar,DLPJ0418Java_Webinar,0.7
+DLPJ0418JA041005,Testing Concepts.,DLPJP18JAVAB4_Testing,2
+DLPJ0418OR010026,Basics  of Cloud Computing,DLPJP18ORB4_Cloud Computing,3.6
+DLPJ0418OR010026,IT Foundation Skills,DLPJP18ORB4_Foundation,10.5
+DLPJ0418OR010026,Life Skills,Business Communication - Oracle Stream,0.2
+DLPJ0418OR010026,ORACLE Online,DLPJP18ORB4_Oracle PL/SQL,16.8
+DLPJ0418OR010026,PJP  Webinar,DLPJ0418Oracle_Webinar,0.6
+DLPJ0418OR010028,Basics  of Cloud Computing,DLPJP18ORB4_Cloud Computing,2.3
+DLPJ0418OR010028,IT Foundation Skills,DLPJP18ORB4_Foundation,5.1
+DLPJ0418OR010028,Life Skills,Business Communication - Oracle Stream,0.8
+DLPJ0418OR010028,ORACLE Online,DLPJP18ORB4_Oracle PL/SQL,3.1
+DLPJ0418OR010028,PJP  Webinar,DLPJ0418Oracle_Webinar,0
+DLPJ0418OR010029,Basics  of Cloud Computing,DLPJP18ORB4_Cloud Computing,3.2
+DLPJ0418OR010029,IT Foundation Skills,DLPJP18ORB4_Foundation,12.2
+DLPJ0418OR010029,ORACLE Online,DLPJP18ORB4_Oracle PL/SQL,12.3
+DLPJ0418OR010029,PJP  Webinar,DLPJ0418Oracle_Webinar,0.1
+DLPJ0418OR010030,Basics  of Cloud Computing,DLPJP18ORB4_Cloud Computing,5.8
+DLPJ0418OR010030,IT Foundation Skills,DLPJP18ORB4_Foundation,21.4
+DLPJ0418OR010030,Life Skills,Business Communication - Oracle Stream,3.1
+DLPJ0418OR010030,ORACLE Online,DLPJP18ORB4_Oracle PL/SQL,23.7
+DLPJ0418OR010031,Basics  of Cloud Computing,DLPJP18ORB4_Cloud Computing,3.4
+DLPJ0418OR010031,IT Foundation Skills,DLPJP18ORB4_Foundation,17.8
+DLPJ0418OR010031,Life Skills,Business Communication - Oracle Stream,0.4
+DLPJ0418OR010031,ORACLE Online,DLPJP18ORB4_Oracle PL/SQL,22.4
+DLPJ0418OR010031,PJP  Webinar,DLPJ0418Oracle_Webinar,0.7
+DLPJ0418OR010032,Basics  of Cloud Computing,DLPJP18ORB4_Cloud Computing,9
+DLPJ0418OR010032,IT Foundation Skills,DLPJP18ORB4_Foundation,16.5
+DLPJ0418OR010032,Life Skills,Business Communication - Oracle Stream,2.1
+DLPJ0418OR010032,ORACLE Online,DLPJP18ORB4_Oracle PL/SQL,29.2
+DLPJ0418OR010032,PJP  Webinar,DLPJ0418Oracle_Webinar,1.3
+DLPJ0418OR010034,Basics  of Cloud Computing,DLPJP18ORB4_Cloud Computing,2.2
+DLPJ0418OR010034,IT Foundation Skills,DLPJP18ORB4_Foundation,9.4
+DLPJ0418OR010034,Life Skills,Business Communication - Oracle Stream,1.2
+DLPJ0418OR010034,ORACLE Online,DLPJP18ORB4_Oracle PL/SQL,19.8
+DLPJ0418OR010034,PJP  Webinar,DLPJ0418Oracle_Webinar,0.1
+DLPJ0418OR010035,Basics  of Cloud Computing,DLPJP18ORB4_Cloud Computing,4
+DLPJ0418OR010035,IT Foundation Skills,DLPJP18ORB4_Foundation,15
+DLPJ0418OR010035,Life Skills,Business Communication - Oracle Stream,2.3
+DLPJ0418OR010035,ORACLE Online,DLPJP18ORB4_Oracle PL/SQL,22.5
+DLPJ0418OR010035,PJP  Webinar,DLPJ0418Oracle_Webinar,0.1
+DLPJ0418OR010036,Basics  of Cloud Computing,DLPJP18ORB4_Cloud Computing,0
+DLPJ0418OR010036,IT Foundation Skills,DLPJP18ORB4_Foundation,11.4
+DLPJ0418OR010036,Life Skills,Business Communication - Oracle Stream,0.7
+DLPJ0418OR010036,PJP  Webinar,DLPJ0418Oracle_Webinar,0
+DLPJ0418OR010037,Basics  of Cloud Computing,DLPJP18ORB4_Cloud Computing,3.9
+DLPJ0418OR010037,IT Foundation Skills,DLPJP18ORB4_Foundation,16.5
+DLPJ0418OR010037,Life Skills,Business Communication - Oracle Stream,4.9
+DLPJ0418OR010037,ORACLE Online,DLPJP18ORB4_Oracle PL/SQL,20.7
+DLPJ0418OR010037,PJP  Webinar,DLPJ0418Oracle_Webinar,1.7
+DLPJ0418OR010039,Basics  of Cloud Computing,DLPJP18ORB4_Cloud Computing,2.3
+DLPJ0418OR010039,IT Foundation Skills,DLPJP18ORB4_Foundation,11.4
+DLPJ0418OR010039,Life Skills,Business Communication - Oracle Stream,0.4
+DLPJ0418OR010039,ORACLE Online,DLPJP18ORB4_Oracle PL/SQL,15.5
+DLPJ0418OR010039,PJP  Webinar,DLPJ0418Oracle_Webinar,0.2
+DLPJ0418OR010040,Basics  of Cloud Computing,DLPJP18ORB4_Cloud Computing,2.6
+DLPJ0418OR010040,IT Foundation Skills,DLPJP18ORB4_Foundation,8.4
+DLPJ0418OR010040,Life Skills,Business Communication - Oracle Stream,1.3
+DLPJ0418OR010040,ORACLE Online,DLPJP18ORB4_Oracle PL/SQL,10.4
+DLPJ0418OR010040,PJP  Webinar,DLPJ0418Oracle_Webinar,0.1
+DLPJ0418OR010042,Basics  of Cloud Computing,DLPJP18ORB4_Cloud Computing,0.3
+DLPJ0418OR010042,IT Foundation Skills,DLPJP18ORB4_Foundation,2.4
+DLPJ0418OR010042,Life Skills,Business Communication - Oracle Stream,1.3
+DLPJ0418OR010042,ORACLE Online,DLPJP18ORB4_Oracle PL/SQL,1.4
+DLPJ0418OR010042,PJP  Webinar,DLPJ0418Oracle_Webinar,0.1
+DLPJ0418OR010043,Basics  of Cloud Computing,DLPJP18ORB4_Cloud Computing,1.8
+DLPJ0418OR010043,IT Foundation Skills,DLPJP18ORB4_Foundation,6.8
+DLPJ0418OR010043,Life Skills,Business Communication - Oracle Stream,1.7
+DLPJ0418OR010043,ORACLE Online,DLPJP18ORB4_Oracle PL/SQL,14.7
+DLPJ0418OR010043,PJP  Webinar,DLPJ0418Oracle_Webinar,0
+DLPJ0418OR010044,Basics  of Cloud Computing,DLPJP18ORB4_Cloud Computing,4.1
+DLPJ0418OR010044,IT Foundation Skills,DLPJP18ORB4_Foundation,16.2
+DLPJ0418OR010044,Life Skills,Business Communication - Oracle Stream,2.4
+DLPJ0418OR010044,ORACLE Online,DLPJP18ORB4_Oracle PL/SQL,18.1
+DLPJ0418OR010044,PJP  Webinar,DLPJ0418Oracle_Webinar,0
+DLPJ0418OR010045,Basics  of Cloud Computing,DLPJP18ORB4_Cloud Computing,4.5
+DLPJ0418OR010045,IT Foundation Skills,DLPJP18ORB4_Foundation,12.5
+DLPJ0418OR010045,Life Skills,Business Communication - Oracle Stream,2.9
+DLPJ0418OR010045,ORACLE Online,DLPJP18ORB4_Oracle PL/SQL,28.1
+DLPJ0418OR010045,PJP  Webinar,DLPJ0418Oracle_Webinar,0
+DLPJ0418OR010046,Basics  of Cloud Computing,DLPJP18ORB4_Cloud Computing,2.1
+DLPJ0418OR010046,IT Foundation Skills,DLPJP18ORB4_Foundation,16
+DLPJ0418OR010046,Life Skills,Business Communication - Oracle Stream,3.2
+DLPJ0418OR010046,ORACLE Online,DLPJP18ORB4_Oracle PL/SQL,26.2
+DLPJ0418OR010046,PJP  Webinar,DLPJ0418Oracle_Webinar,0.1
+DLPJ0418OR010047,Basics  of Cloud Computing,DLPJP18ORB4_Cloud Computing,5.2
+DLPJ0418OR010047,IT Foundation Skills,DLPJP18ORB4_Foundation,15.9
+DLPJ0418OR010047,Life Skills,Business Communication - Oracle Stream,3.1
+DLPJ0418OR010047,ORACLE Online,DLPJP18ORB4_Oracle PL/SQL,26.6
+DLPJ0418OR010047,PJP  Webinar,DLPJ0418Oracle_Webinar,2
+DLPJ0418OR010048,Basics  of Cloud Computing,DLPJP18ORB4_Cloud Computing,2.6
+DLPJ0418OR010048,IT Foundation Skills,DLPJP18ORB4_Foundation,11.6
+DLPJ0418OR010048,ORACLE Online,DLPJP18ORB4_Oracle PL/SQL,12
+DLPJ0418OR010048,PJP  Webinar,DLPJ0418Oracle_Webinar,0.2
+DLPJ0418OR010049,Basics  of Cloud Computing,DLPJP18ORB4_Cloud Computing,2.9
+DLPJ0418OR010049,IT Foundation Skills,DLPJP18ORB4_Foundation,21.2
+DLPJ0418OR010049,Life Skills,Business Communication - Oracle Stream,5.1
+DLPJ0418OR010049,ORACLE Online,DLPJP18ORB4_Oracle PL/SQL,21.4
+DLPJ0418OR010049,PJP  Webinar,DLPJ0418Oracle_Webinar,0
+DLPJ0418OR010050,Basics  of Cloud Computing,DLPJP18ORB4_Cloud Computing,4.4
+DLPJ0418OR010050,IT Foundation Skills,DLPJP18ORB4_Foundation,10.5
+DLPJ0418OR010050,Life Skills,Business Communication - Oracle Stream,0.4
+DLPJ0418OR010050,ORACLE Online,DLPJP18ORB4_Oracle PL/SQL,26.4
+DLPJ0418OR010050,PJP  Webinar,DLPJ0418Oracle_Webinar,1
+DLPJ0418OR010051,Basics  of Cloud Computing,DLPJP18ORB4_Cloud Computing,1.5
+DLPJ0418OR010051,IT Foundation Skills,DLPJP18ORB4_Foundation,8.1
+DLPJ0418OR010051,Life Skills,Business Communication - Oracle Stream,1
+DLPJ0418OR010051,ORACLE Online,DLPJP18ORB4_Oracle PL/SQL,12.8
+DLPJ0418OR010051,PJP  Webinar,DLPJ0418Oracle_Webinar,0
+DLPJ0418OR010053,Basics  of Cloud Computing,DLPJP18ORB4_Cloud Computing,3.2
+DLPJ0418OR010053,IT Foundation Skills,DLPJP18ORB4_Foundation,11.4
+DLPJ0418OR010053,Life Skills,Business Communication - Oracle Stream,2.2
+DLPJ0418OR010053,ORACLE Online,DLPJP18ORB4_Oracle PL/SQL,14.2
+DLPJ0418OR010053,PJP  Webinar,DLPJ0418Oracle_Webinar,0.1
+DLPJ0418UI030021,IT Foundation Skills,DLPJP18UIB4_Foundation,13.1
+DLPJ0418UI030021,Life Skills,Business Communication - UI Stream,2.3
+DLPJ0418UI030021,Online  - Content,DLPJP18UIB4_Internet Web Technologies,17.3
+DLPJ0418UI030021,PJP  Webinar,DLPJ0418UI_Webinar,0.1
+DLPJ0418UI030021,Testing Concepts.,DLPJP18UIB4_Testing,2.5
+DLPJ0418UI030022,IT Foundation Skills,DLPJP18UIB4_Foundation,13.3
+DLPJ0418UI030022,Life Skills,Business Communication - UI Stream,1.6
+DLPJ0418UI030022,Online  - Content,DLPJP18UIB4_Internet Web Technologies,3.3
+DLPJ0418UI030022,PJP  Webinar,DLPJ0418UI_Webinar,0.2
+DLPJ0418UI030022,Testing Concepts.,DLPJP18UIB4_Testing,0.3
+DLPJ0418UI030023,IT Foundation Skills,DLPJP18UIB4_Foundation,19.9
+DLPJ0418UI030023,Life Skills,Business Communication - UI Stream,2.1
+DLPJ0418UI030023,Online  - Content,DLPJP18UIB4_Internet Web Technologies,20.7
+DLPJ0418UI030023,PJP  Webinar,DLPJ0418UI_Webinar,0.4
+DLPJ0418UI030023,Testing Concepts.,DLPJP18UIB4_Testing,1.5
+DLPJ0418UI030025,IT Foundation Skills,DLPJP18UIB4_Foundation,16.1
+DLPJ0418UI030025,Life Skills,Business Communication - UI Stream,3.7
+DLPJ0418UI030025,Online  - Content,DLPJP18UIB4_Internet Web Technologies,26
+DLPJ0418UI030025,Testing Concepts.,DLPJP18UIB4_Testing,1.3
+DLPJ0418UI030026,IT Foundation Skills,DLPJP18UIB4_Foundation,15.2
+DLPJ0418UI030026,Life Skills,Business Communication - UI Stream,2.8
+DLPJ0418UI030026,Online  - Content,DLPJP18UIB4_Internet Web Technologies,26.8
+DLPJ0418UI030026,PJP  Webinar,DLPJ0418UI_Webinar,0
+DLPJ0418UI030026,Testing Concepts.,DLPJP18UIB4_Testing,1.4
+DLPJ0418UI030028,IT Foundation Skills,DLPJP18UIB4_Foundation,13.4
+DLPJ0418UI030028,Life Skills,Business Communication - UI Stream,1.1
+DLPJ0418UI030028,Online  - Content,DLPJP18UIB4_Internet Web Technologies,16.5
+DLPJ0418UI030028,PJP  Webinar,DLPJ0418UI_Webinar,0.1
+DLPJ0418UI030028,Testing Concepts.,DLPJP18UIB4_Testing,2.5
+DLPJ0418UI030029,IT Foundation Skills,DLPJP18UIB4_Foundation,15.5
+DLPJ0418UI030029,Life Skills,Business Communication - UI Stream,2.9
+DLPJ0418UI030029,Online  - Content,DLPJP18UIB4_Internet Web Technologies,19.1
+DLPJ0418UI030029,PJP  Webinar,DLPJ0418UI_Webinar,0.8
+DLPJ0418UI030029,Testing Concepts.,DLPJP18UIB4_Testing,2.1
+DLPJ0418UI030030,IT Foundation Skills,DLPJP18UIB4_Foundation,10.9
+DLPJ0418UI030030,Life Skills,Business Communication - UI Stream,2.1
+DLPJ0418UI030030,Online  - Content,DLPJP18UIB4_Internet Web Technologies,13
+DLPJ0418UI030030,PJP  Webinar,DLPJ0418UI_Webinar,0.9
+DLPJ0418UI030030,Testing Concepts.,DLPJP18UIB4_Testing,2
+DLPJ0418UI030032,IT Foundation Skills,DLPJP18UIB4_Foundation,14.4
+DLPJ0418UI030032,Life Skills,Business Communication - UI Stream,1.7
+DLPJ0418UI030032,Online  - Content,DLPJP18UIB4_Internet Web Technologies,16.8
+DLPJ0418UI030032,Testing Concepts.,DLPJP18UIB4_Testing,1.1
+DLPJ0418UI030033,IT Foundation Skills,DLPJP18UIB4_Foundation,6.2
+DLPJ0418UI030033,Life Skills,Business Communication - UI Stream,1.7
+DLPJ0418UI030033,Online  - Content,DLPJP18UIB4_Internet Web Technologies,6.5
+DLPJ0418UI030033,PJP  Webinar,DLPJ0418UI_Webinar,0.3
+DLPJ0418UI030033,Testing Concepts.,DLPJP18UIB4_Testing,0.9
+DLPJ0418UI030034,IT Foundation Skills,DLPJP18UIB4_Foundation,13.2
+DLPJ0418UI030034,Life Skills,Business Communication - UI Stream,1.2
+DLPJ0418UI030034,Online  - Content,DLPJP18UIB4_Internet Web Technologies,18.8
+DLPJ0418UI030034,PJP  Webinar,DLPJ0418UI_Webinar,0.1
+DLPJ0418UI030034,Testing Concepts.,DLPJP18UIB4_Testing,2.2
+DLPJ0418UI030035,IT Foundation Skills,DLPJP18UIB4_Foundation,21.5
+DLPJ0418UI030035,Life Skills,Business Communication - UI Stream,1.9
+DLPJ0418UI030035,Online  - Content,DLPJP18UIB4_Internet Web Technologies,23.2
+DLPJ0418UI030035,PJP  Webinar,DLPJ0418UI_Webinar,0.3
+DLPJ0418UI030035,Testing Concepts.,DLPJP18UIB4_Testing,2.5
+DLPJ0418UI030036,IT Foundation Skills,DLPJP18UIB4_Foundation,20.2
+DLPJ0418UI030036,Life Skills,Business Communication - UI Stream,2.9
+DLPJ0418UI030036,Online  - Content,DLPJP18UIB4_Internet Web Technologies,25
+DLPJ0418UI030036,Testing Concepts.,DLPJP18UIB4_Testing,3.5
+DLPJ0418UI030037,Life Skills,Business Communication - UI Stream,1
+DLPJ0418UI030038,IT Foundation Skills,DLPJP18UIB4_Foundation,25.1
+DLPJ0418UI030038,Life Skills,Business Communication - UI Stream,1.2
+DLPJ0418UI030038,Online  - Content,DLPJP18UIB4_Internet Web Technologies,19.3
+DLPJ0418UI030038,PJP  Webinar,DLPJ0418UI_Webinar,0
+DLPJ0418UI030038,Testing Concepts.,DLPJP18UIB4_Testing,1.8
+DLPJ0418UI030039,IT Foundation Skills,DLPJP18UIB4_Foundation,22.4
+DLPJ0418UI030039,Life Skills,Business Communication - UI Stream,1
+DLPJ0418UI030039,Online  - Content,DLPJP18UIB4_Internet Web Technologies,30.6
+DLPJ0418UI030039,PJP  Webinar,DLPJ0418UI_Webinar,0.1
+DLPJ0418UI030039,Testing Concepts.,DLPJP18UIB4_Testing,4.5
